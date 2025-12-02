@@ -1,0 +1,21 @@
+#mpa_vJan25_CHOCOPhlAnSGB_202503
+#/Users/chnqwe/miniforge3/envs/hostmap/bin/metaphlan /Users/chnqwe/Science/GSE255073/hostmap/unmapped_strict_pos/SRR28476492.both_unmapped_R1.fastq.gz,/Users/chnqwe/Science/GSE255073/hostmap/unmapped_strict_pos/SRR28476492.both_unmapped_R2.fastq.gz --input_type fastq --db_dir /Users/chnqwe/Science/BioTools/metaphlan_db --nproc 8 --read_min_len 50 --mapout /Users/chnqwe/Science/GSE255073/MetaPhlAn_profiles/metaphlan/strict/pos/SRR28476492.metaphlan_map.bz2 -o /Users/chnqwe/Science/GSE255073/MetaPhlAn_profiles/metaphlan/strict/pos/SRR28476492.profile.txt
+#22242640 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	99.6526581	
+k__Bacteria	2	0.3473419	
+k__Bacteria|p__Pseudomonadota	2|1224	0.2245549	
+k__Bacteria|p__Actinomycetota	2|201174	0.1227869	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria	2|1224|28211	0.2245549	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes	2|201174|1760	0.1227869	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales	2|1224|28211|356	0.2245549	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales	2|201174|1760|85009	0.1227869	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Nitrobacteraceae	2|1224|28211|356|41294	0.2245549	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae	2|201174|1760|85009|31957	0.1227869	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Nitrobacteraceae|g__Bradyrhizobium	2|1224|28211|356|41294|374	0.2245549	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium	2|201174|1760|85009|31957|1912216	0.1227869	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Nitrobacteraceae|g__Bradyrhizobium|s__Bradyrhizobium_SGB11337	2|1224|28211|356|41294|374|	0.2245549	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes	2|201174|1760|85009|31957|1912216|1747	0.1227869	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Hyphomicrobiales|f__Nitrobacteraceae|g__Bradyrhizobium|s__Bradyrhizobium_SGB11337|t__SGB11337	2|1224|28211|356|41294|374||	0.2245549	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	2|201174|1760|85009|31957|1912216|1747|	0.1227869	

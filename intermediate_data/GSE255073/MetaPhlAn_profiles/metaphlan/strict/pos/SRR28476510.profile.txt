@@ -1,0 +1,26 @@
+#mpa_vJan25_CHOCOPhlAnSGB_202503
+#/Users/chnqwe/miniforge3/envs/hostmap/bin/metaphlan /Users/chnqwe/Science/GSE255073/hostmap/unmapped_strict_pos/SRR28476510.both_unmapped_R1.fastq.gz,/Users/chnqwe/Science/GSE255073/hostmap/unmapped_strict_pos/SRR28476510.both_unmapped_R2.fastq.gz --input_type fastq --db_dir /Users/chnqwe/Science/BioTools/metaphlan_db --nproc 8 --read_min_len 50 --mapout /Users/chnqwe/Science/GSE255073/MetaPhlAn_profiles/metaphlan/strict/pos/SRR28476510.metaphlan_map.bz2 -o /Users/chnqwe/Science/GSE255073/MetaPhlAn_profiles/metaphlan/strict/pos/SRR28476510.profile.txt
+#33395760 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	98.1735376	
+k__Bacteria	2	1.8264624	
+k__Bacteria|p__Actinomycetota	2|201174	1.7995589	
+k__Bacteria|p__Pseudomonadota	2|1224	0.0269035	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes	2|201174|1760	1.7995589	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria	2|1224|1236	0.0269035	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales	2|201174|1760|85009	1.3992604	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales	2|201174|1760|85007	0.4002985	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales	2|1224|1236|2887326	0.0269035	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae	2|201174|1760|85009|31957	1.3992604	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Corynebacteriaceae	2|201174|1760|85007|1653	0.4002985	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae	2|1224|1236|2887326|468	0.0269035	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium	2|201174|1760|85009|31957|1912216	1.3992604	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Corynebacteriaceae|g__Corynebacterium	2|201174|1760|85007|1653|1716	0.4002985	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter	2|1224|1236|2887326|468|497	0.0269035	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes	2|201174|1760|85009|31957|1912216|1747	1.3992604	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Corynebacteriaceae|g__Corynebacterium|s__Corynebacterium_SGB17002	2|201174|1760|85007|1653|1716|	0.4002985	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_faecalis	2|1224|1236|2887326|468|497|180588	0.0269035	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	2|201174|1760|85009|31957|1912216|1747|	1.3992604	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Mycobacteriales|f__Corynebacteriaceae|g__Corynebacterium|s__Corynebacterium_SGB17002|t__SGB17002	2|201174|1760|85007|1653|1716||	0.4002985	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_faecalis|t__SGB10464	2|1224|1236|2887326|468|497|180588|	0.0269035	k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sp_Ps5,k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_pulmonis,k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sp_YGAH215,k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sp_SHUES1,k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sp_M9_54_1,k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sp_Sarcosine_02u_2,k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_communis,k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Psychrobacter|s__Psychrobacter_sp_van23A
