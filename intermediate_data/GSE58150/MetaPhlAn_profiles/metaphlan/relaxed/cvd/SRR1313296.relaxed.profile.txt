@@ -1,0 +1,28 @@
+#mpa_vJan25_CHOCOPhlAnSGB_202503
+#/Users/chnqwe/miniforge3/envs/krk/bin/metaphlan hostmap/unmapped_relaxed_cvd/SRR1313296.any_unmapped_SE.fastq.gz --input_type fastq --db_dir /Users/chnqwe/Science/BioTools/metaphlan_db --nproc 8 -o metaphlan/relaxed/cvd/SRR1313296.relaxed.profile.txt
+#7480458 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	99.6640313	
+k__Bacteria	2	0.3359687	
+k__Bacteria|p__Actinomycetota	2|201174	0.2591305	
+k__Bacteria|p__Pseudomonadota	2|1224	0.0492235	
+k__Bacteria|p__Bacteroidota	2|976	0.0276147	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes	2|201174|1760	0.2591305	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria	2|1224|28211	0.0492235	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia	2|976|117743	0.0276147	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales	2|201174|1760|85009	0.2591305	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales	2|1224|28211|204457	0.0492235	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales	2|976|117743|200644	0.0276147	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae	2|201174|1760|85009|31957	0.2591305	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae	2|1224|28211|204457|41297	0.0492235	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae	2|976|117743|200644|49546	0.0276147	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium	2|201174|1760|85009|31957|1912216	0.2591305	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingomonas	2|1224|28211|204457|41297|13687	0.0492235	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium	2|976|117743|200644|49546|237	0.0276147	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes	2|201174|1760|85009|31957|1912216|1747	0.2591305	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingomonas|s__Sphingomonas_sp_3F27F9	2|1224|28211|204457|41297|13687|2502209	0.0492235	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_ammonificans	2|976|117743|200644|49546|237|1751056	0.0276147	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	2|201174|1760|85009|31957|1912216|1747|	0.2591305	
+k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingomonas|s__Sphingomonas_sp_3F27F9|t__SGB31711	2|1224|28211|204457|41297|13687|2502209|	0.0492235	k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingomonas|s__Sphingomonas_sp_TF3,k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingomonas|s__Sphingomonas_sp_Ant_H11,k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingomonas|s__Sphingomonas_sp_BE137,k__Bacteria|p__Pseudomonadota|c__Alphaproteobacteria|o__Sphingomonadales|f__Sphingomonadaceae|g__Sphingomonas|s__Sphingomonas_sp_BE270
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_ammonificans|t__SGB109341	2|976|117743|200644|49546|237|1751056|	0.0276147	

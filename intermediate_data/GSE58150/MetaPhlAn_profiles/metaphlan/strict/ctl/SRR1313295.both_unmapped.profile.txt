@@ -1,0 +1,21 @@
+#mpa_vJan25_CHOCOPhlAnSGB_202503
+#/Users/chnqwe/miniforge3/envs/krk/bin/metaphlan hostmap/unmapped_strict_ctl/SRR1313295.both_unmapped_R1.fastq.gz,hostmap/unmapped_strict_ctl/SRR1313295.both_unmapped_R2.fastq.gz --input_type fastq --db_dir /Users/chnqwe/Science/BioTools/metaphlan_db --nproc 8 --mapout metaphlan/strict/ctl/SRR1313295.both_unmapped.metaphlan_map.bz2 -o metaphlan/strict/ctl/SRR1313295.both_unmapped.profile.txt
+#3460557 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	99.6228353	
+k__Bacteria	2	0.3771647	
+k__Bacteria|p__Actinomycetota	2|201174	0.3676047	
+k__Bacteria|p__Bacteroidota	2|976	0.00956	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes	2|201174|1760	0.3676047	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia	2|976|117743	0.00956	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales	2|201174|1760|85009	0.3676047	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales	2|976|117743|200644	0.00956	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae	2|201174|1760|85009|31957	0.3676047	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae	2|976|117743|200644|49546	0.00956	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium	2|201174|1760|85009|31957|1912216	0.3676047	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium	2|976|117743|200644|49546|237	0.00956	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes	2|201174|1760|85009|31957|1912216|1747	0.3676047	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_ammonificans	2|976|117743|200644|49546|237|1751056	0.00956	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	2|201174|1760|85009|31957|1912216|1747|	0.3676047	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_ammonificans|t__SGB109341	2|976|117743|200644|49546|237|1751056|	0.00956	

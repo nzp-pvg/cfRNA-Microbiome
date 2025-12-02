@@ -1,0 +1,14 @@
+#mpa_vJan25_CHOCOPhlAnSGB_202503
+#/Users/chnqwe/miniforge3/envs/krk/bin/metaphlan hostmap/unmapped_relaxed_cvd/SRR1313299.any_unmapped_SE.fastq.gz --input_type fastq --db_dir /Users/chnqwe/Science/BioTools/metaphlan_db --nproc 8 -o metaphlan/relaxed/cvd/SRR1313299.relaxed.profile.txt
+#10249022 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	99.9665431	
+k__Bacteria	2	0.0334569	
+k__Bacteria|p__Bacteroidota	2|976	0.0334569	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia	2|976|117743	0.0334569	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales	2|976|117743|200644	0.0334569	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae	2|976|117743|200644|49546	0.0334569	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium	2|976|117743|200644|49546|237	0.0334569	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_ammonificans	2|976|117743|200644|49546|237|1751056	0.0334569	
+k__Bacteria|p__Bacteroidota|c__Flavobacteriia|o__Flavobacteriales|f__Flavobacteriaceae|g__Flavobacterium|s__Flavobacterium_ammonificans|t__SGB109341	2|976|117743|200644|49546|237|1751056|	0.0334569	

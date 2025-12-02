@@ -1,0 +1,14 @@
+#mpa_vJan25_CHOCOPhlAnSGB_202503
+#/Users/chnqwe/miniforge3/envs/krk/bin/metaphlan hostmap/unmapped_relaxed_ctl/SRR1313292.any_unmapped_SE.fastq.gz --input_type fastq --db_dir /Users/chnqwe/Science/BioTools/metaphlan_db --nproc 8 -o metaphlan/relaxed/ctl/SRR1313292.relaxed.profile.txt
+#10506564 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	99.8886886	
+k__Bacteria	2	0.1113114	
+k__Bacteria|p__Actinomycetota	2|201174	0.1113114	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes	2|201174|1760	0.1113114	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales	2|201174|1760|85009	0.1113114	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae	2|201174|1760|85009|31957	0.1113114	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium	2|201174|1760|85009|31957|1912216	0.1113114	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes	2|201174|1760|85009|31957|1912216|1747	0.1113114	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	2|201174|1760|85009|31957|1912216|1747|	0.1113114	

@@ -1,0 +1,21 @@
+#mpa_vJan25_CHOCOPhlAnSGB_202503
+#/Users/chnqwe/miniforge3/envs/krk/bin/metaphlan hostmap/unmapped_strict_ctl/SRR1313293.both_unmapped_R1.fastq.gz,hostmap/unmapped_strict_ctl/SRR1313293.both_unmapped_R2.fastq.gz --input_type fastq --db_dir /Users/chnqwe/Science/BioTools/metaphlan_db --nproc 8 --mapout metaphlan/strict/ctl/SRR1313293.both_unmapped.metaphlan_map.bz2 -o metaphlan/strict/ctl/SRR1313293.both_unmapped.profile.txt
+#3365980 reads processed
+#SampleID	Metaphlan_Analysis
+#clade_name	NCBI_tax_id	relative_abundance	additional_species
+UNCLASSIFIED	-1	99.6373419	
+k__Bacteria	2	0.3626581	
+k__Bacteria|p__Actinomycetota	2|201174	0.3204256	
+k__Bacteria|p__Pseudomonadota	2|1224	0.0422325	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes	2|201174|1760	0.3204256	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria	2|1224|1236	0.0422325	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales	2|201174|1760|85009	0.3204256	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales	2|1224|1236|2887326	0.0422325	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae	2|201174|1760|85009|31957	0.3204256	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae	2|1224|1236|2887326|468	0.0422325	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium	2|201174|1760|85009|31957|1912216	0.3204256	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Moraxella	2|1224|1236|2887326|468|475	0.0422325	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes	2|201174|1760|85009|31957|1912216|1747	0.3204256	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Moraxella|s__Moraxella_lincolnii	2|1224|1236|2887326|468|475|90241	0.0422325	
+k__Bacteria|p__Actinomycetota|c__Actinomycetes|o__Propionibacteriales|f__Propionibacteriaceae|g__Cutibacterium|s__Cutibacterium_acnes|t__SGB16955	2|201174|1760|85009|31957|1912216|1747|	0.3204256	
+k__Bacteria|p__Pseudomonadota|c__Gammaproteobacteria|o__Moraxellales|f__Moraxellaceae|g__Moraxella|s__Moraxella_lincolnii|t__SGB10432	2|1224|1236|2887326|468|475|90241|	0.0422325	
