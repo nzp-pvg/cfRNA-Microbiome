@@ -1,0 +1,205 @@
+sample	tb_group	mode	taxid	name	rank_code	pct	clade_reads	taxon_reads
+SRR28476459	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	29791	0
+SRR28476459	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	270	107
+SRR28476460	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	3913	0
+SRR28476460	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	330	231
+SRR28476461	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	6633	0
+SRR28476461	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	89	67
+SRR28476466	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	3536	0
+SRR28476466	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	227	215
+SRR28476467	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	2129	0
+SRR28476467	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	146	138
+SRR28476469	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	1141	0
+SRR28476469	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	95	78
+SRR28476471	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	157	0
+SRR28476471	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	83	41
+SRR28476479	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	2769	0
+SRR28476479	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	199	141
+SRR28476481	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	3618	0
+SRR28476481	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	173	124
+SRR28476485	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	1362	0
+SRR28476485	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	126	75
+SRR28476490	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	14658	0
+SRR28476490	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	261	173
+SRR28476491	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	7208	11
+SRR28476491	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	385	332
+SRR28476494	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	2893	0
+SRR28476494	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	227	210
+SRR28476495	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	2632	0
+SRR28476495	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	230	211
+SRR28476497	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	3464	0
+SRR28476497	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	172	142
+SRR28476498	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	18240	0
+SRR28476498	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	195	137
+SRR28476501	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	982	0
+SRR28476501	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	195	169
+SRR28476502	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	989	0
+SRR28476502	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	209	121
+SRR28476504	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	4618	0
+SRR28476504	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	118	65
+SRR28476506	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	828	0
+SRR28476506	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	249	239
+SRR28476507	neg	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	1085	0
+SRR28476507	neg	relaxed	1773	Mycobacterium tuberculosis	S	NA	156	114
+SRR28476453	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	8436	0
+SRR28476453	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	189	182
+SRR28476454	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	9697	0
+SRR28476454	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	134	92
+SRR28476455	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	20056	1
+SRR28476455	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	112	80
+SRR28476456	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	9879	0
+SRR28476456	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	126	113
+SRR28476457	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	6081	0
+SRR28476457	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	38	36
+SRR28476458	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	3913	0
+SRR28476458	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	170	146
+SRR28476462	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	4613	0
+SRR28476462	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	60	57
+SRR28476463	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	28601	0
+SRR28476463	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	332	286
+SRR28476464	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	35030	0
+SRR28476464	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	129	101
+SRR28476465	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	5253	0
+SRR28476465	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	187	142
+SRR28476468	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	19275	1
+SRR28476468	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	267	184
+SRR28476470	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	299	0
+SRR28476470	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	38	19
+SRR28476472	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	94	0
+SRR28476472	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	76	44
+SRR28476473	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	92	0
+SRR28476473	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	55	34
+SRR28476475	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	4743	0
+SRR28476475	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	185	152
+SRR28476476	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	48232	0
+SRR28476476	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	106	90
+SRR28476482	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	562	1
+SRR28476482	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	19	11
+SRR28476484	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	24387	1
+SRR28476484	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	85	75
+SRR28476486	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	5299	0
+SRR28476486	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	93	91
+SRR28476487	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	281	0
+SRR28476487	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	20	18
+SRR28476489	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	591	1
+SRR28476489	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	155	141
+SRR28476492	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	2578	0
+SRR28476492	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	107	102
+SRR28476493	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	3647	0
+SRR28476493	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	123	101
+SRR28476496	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	2047	0
+SRR28476496	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	72	63
+SRR28476499	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	14769	0
+SRR28476499	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	313	283
+SRR28476500	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	1190	0
+SRR28476500	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	98	83
+SRR28476505	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	11271	0
+SRR28476505	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	65	63
+SRR28476508	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	16765	0
+SRR28476508	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	113	103
+SRR28476510	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	3153	0
+SRR28476510	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	196	173
+SRR28476511	pos	relaxed	77643	Mycobacterium tuberculosis complex	G1	NA	820	1
+SRR28476511	pos	relaxed	1773	Mycobacterium tuberculosis	S	NA	160	148
+SRR28476459	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	97495	0
+SRR28476459	neg	strict	1773	Mycobacterium tuberculosis	S	NA	298	110
+SRR28476460	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	9735	0
+SRR28476460	neg	strict	1773	Mycobacterium tuberculosis	S	NA	442	273
+SRR28476461	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	13939	0
+SRR28476461	neg	strict	1773	Mycobacterium tuberculosis	S	NA	116	91
+SRR28476466	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	11340	0
+SRR28476466	neg	strict	1773	Mycobacterium tuberculosis	S	NA	245	212
+SRR28476467	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	6036	0
+SRR28476467	neg	strict	1773	Mycobacterium tuberculosis	S	NA	150	133
+SRR28476469	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	3215	9
+SRR28476469	neg	strict	1773	Mycobacterium tuberculosis	S	NA	122	88
+SRR28476471	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	294	0
+SRR28476471	neg	strict	1773	Mycobacterium tuberculosis	S	NA	95	47
+SRR28476479	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	6845	0
+SRR28476479	neg	strict	1773	Mycobacterium tuberculosis	S	NA	277	182
+SRR28476481	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	8478	0
+SRR28476481	neg	strict	1773	Mycobacterium tuberculosis	S	NA	256	186
+SRR28476485	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	4963	0
+SRR28476485	neg	strict	1773	Mycobacterium tuberculosis	S	NA	148	88
+SRR28476490	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	46077	0
+SRR28476490	neg	strict	1773	Mycobacterium tuberculosis	S	NA	311	205
+SRR28476491	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	18526	12
+SRR28476491	neg	strict	1773	Mycobacterium tuberculosis	S	NA	472	367
+SRR28476494	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	8134	0
+SRR28476494	neg	strict	1773	Mycobacterium tuberculosis	S	NA	271	239
+SRR28476495	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	7347	0
+SRR28476495	neg	strict	1773	Mycobacterium tuberculosis	S	NA	294	258
+SRR28476497	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	8942	0
+SRR28476497	neg	strict	1773	Mycobacterium tuberculosis	S	NA	161	130
+SRR28476498	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	46227	0
+SRR28476498	neg	strict	1773	Mycobacterium tuberculosis	S	NA	264	200
+SRR28476501	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	2394	0
+SRR28476501	neg	strict	1773	Mycobacterium tuberculosis	S	NA	341	288
+SRR28476502	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	2053	0
+SRR28476502	neg	strict	1773	Mycobacterium tuberculosis	S	NA	311	192
+SRR28476504	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	12279	1
+SRR28476504	neg	strict	1773	Mycobacterium tuberculosis	S	NA	145	98
+SRR28476506	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	1770	0
+SRR28476506	neg	strict	1773	Mycobacterium tuberculosis	S	NA	363	320
+SRR28476507	neg	strict	77643	Mycobacterium tuberculosis complex	G1	NA	2711	0
+SRR28476507	neg	strict	1773	Mycobacterium tuberculosis	S	NA	224	162
+SRR28476453	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	26632	0
+SRR28476453	pos	strict	1773	Mycobacterium tuberculosis	S	NA	186	180
+SRR28476454	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	27332	1
+SRR28476454	pos	strict	1773	Mycobacterium tuberculosis	S	NA	173	124
+SRR28476455	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	51990	0
+SRR28476455	pos	strict	1773	Mycobacterium tuberculosis	S	NA	155	95
+SRR28476456	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	25711	0
+SRR28476456	pos	strict	1773	Mycobacterium tuberculosis	S	NA	166	139
+SRR28476457	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	16549	0
+SRR28476457	pos	strict	1773	Mycobacterium tuberculosis	S	NA	48	47
+SRR28476458	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	10423	2
+SRR28476458	pos	strict	1773	Mycobacterium tuberculosis	S	NA	170	136
+SRR28476462	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	14764	1
+SRR28476462	pos	strict	1773	Mycobacterium tuberculosis	S	NA	67	60
+SRR28476463	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	91953	0
+SRR28476463	pos	strict	1773	Mycobacterium tuberculosis	S	NA	363	309
+SRR28476464	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	113778	0
+SRR28476464	pos	strict	1773	Mycobacterium tuberculosis	S	NA	156	113
+SRR28476465	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	14048	0
+SRR28476465	pos	strict	1773	Mycobacterium tuberculosis	S	NA	205	149
+SRR28476468	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	70639	0
+SRR28476468	pos	strict	1773	Mycobacterium tuberculosis	S	NA	285	197
+SRR28476470	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	829	0
+SRR28476470	pos	strict	1773	Mycobacterium tuberculosis	S	NA	71	44
+SRR28476472	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	122	0
+SRR28476472	pos	strict	1773	Mycobacterium tuberculosis	S	NA	74	56
+SRR28476473	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	201	0
+SRR28476473	pos	strict	1773	Mycobacterium tuberculosis	S	NA	116	91
+SRR28476475	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	10625	0
+SRR28476475	pos	strict	1773	Mycobacterium tuberculosis	S	NA	224	185
+SRR28476476	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	54167	3
+SRR28476476	pos	strict	1773	Mycobacterium tuberculosis	S	NA	156	134
+SRR28476482	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	1536	0
+SRR28476482	pos	strict	1773	Mycobacterium tuberculosis	S	NA	37	25
+SRR28476484	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	63506	0
+SRR28476484	pos	strict	1773	Mycobacterium tuberculosis	S	NA	162	139
+SRR28476486	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	19780	0
+SRR28476486	pos	strict	1773	Mycobacterium tuberculosis	S	NA	137	120
+SRR28476487	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	865	0
+SRR28476487	pos	strict	1773	Mycobacterium tuberculosis	S	NA	19	15
+SRR28476489	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	1141	0
+SRR28476489	pos	strict	1773	Mycobacterium tuberculosis	S	NA	205	185
+SRR28476492	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	7907	1
+SRR28476492	pos	strict	1773	Mycobacterium tuberculosis	S	NA	116	107
+SRR28476493	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	8887	0
+SRR28476493	pos	strict	1773	Mycobacterium tuberculosis	S	NA	190	151
+SRR28476496	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	7886	0
+SRR28476496	pos	strict	1773	Mycobacterium tuberculosis	S	NA	83	66
+SRR28476499	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	34163	0
+SRR28476499	pos	strict	1773	Mycobacterium tuberculosis	S	NA	348	288
+SRR28476500	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	2872	0
+SRR28476500	pos	strict	1773	Mycobacterium tuberculosis	S	NA	110	89
+SRR28476505	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	34736	0
+SRR28476505	pos	strict	1773	Mycobacterium tuberculosis	S	NA	79	71
+SRR28476508	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	56902	0
+SRR28476508	pos	strict	1773	Mycobacterium tuberculosis	S	NA	164	132
+SRR28476510	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	8868	0
+SRR28476510	pos	strict	1773	Mycobacterium tuberculosis	S	NA	278	251
+SRR28476511	pos	strict	77643	Mycobacterium tuberculosis complex	G1	NA	1795	0
+SRR28476511	pos	strict	1773	Mycobacterium tuberculosis	S	NA	188	155

@@ -1,0 +1,2041 @@
+sample	tb_group	mode	pct	clade_reads	taxon_reads	rank_code	taxid	name
+SRR28476459	neg	relaxed	NA	4881	4879	S	87883	Burkholderia multivorans
+SRR28476459	neg	relaxed	NA	651	583	S	95486	Burkholderia cenocepacia
+SRR28476459	neg	relaxed	NA	648	648	S	60552	Burkholderia vietnamiensis
+SRR28476459	neg	relaxed	NA	606	606	S	152480	Burkholderia ambifaria
+SRR28476459	neg	relaxed	NA	419	125	S	292	Burkholderia cepacia
+SRR28476459	neg	relaxed	NA	183	77	S	101571	Burkholderia ubonensis
+SRR28476459	neg	relaxed	NA	173	173	S	488732	Burkholderia diffusa
+SRR28476459	neg	relaxed	NA	139	139	S	482957	Burkholderia lata
+SRR28476459	neg	relaxed	NA	95	95	S	60550	Burkholderia pyrrocinia
+SRR28476459	neg	relaxed	NA	75	75	S	488447	Burkholderia contaminans
+SRR28476459	neg	relaxed	NA	71	71	S	1503054	Burkholderia stagnalis
+SRR28476459	neg	relaxed	NA	62	62	S	1207504	Burkholderia pseudomultivorans
+SRR28476459	neg	relaxed	NA	47	47	S	95485	Burkholderia stabilis
+SRR28476459	neg	relaxed	NA	29	29	S	179879	Burkholderia anthina
+SRR28476459	neg	relaxed	NA	27	27	S	152500	Burkholderia dolosa
+SRR28476459	neg	relaxed	NA	23	23	S	488446	Burkholderia latens
+SRR28476459	neg	relaxed	NA	12	12	S	488729	Burkholderia metallica
+SRR28476459	neg	relaxed	NA	3	3	S	488731	Burkholderia seminalis
+SRR28476459	neg	relaxed	NA	3	3	S	1503055	Burkholderia territorii
+SRR28476459	neg	relaxed	NA	3610	1364	S	28450	Burkholderia pseudomallei
+SRR28476460	neg	relaxed	NA	1341211	1339898	S	1747	Cutibacterium acnes
+SRR28476460	neg	relaxed	NA	15017	15017	S	33011	Cutibacterium granulosum
+SRR28476460	neg	relaxed	NA	656	656	S	2559073	Cutibacterium modestum
+SRR28476460	neg	relaxed	NA	559	559	S	33010	Cutibacterium avidum
+SRR28476460	neg	relaxed	NA	105	105	S	3016342	Cutibacterium equinum
+SRR28476460	neg	relaxed	NA	1896	1896	S	1750	Arachnia propionica
+SRR28476460	neg	relaxed	NA	15	15	S	1547448	Arachnia rubra
+SRR28476460	neg	relaxed	NA	271	271	S	119981	Propionibacterium australiense
+SRR28476460	neg	relaxed	NA	27	27	S	1744	Propionibacterium freudenreichii
+SRR28476460	neg	relaxed	NA	6	6	S	556499	Propionibacterium acidifaciens
+SRR28476460	neg	relaxed	NA	101	101	S	630515	Microlunatus soli
+SRR28476460	neg	relaxed	NA	99	99	S	546874	Microlunatus sagamiharensis
+SRR28476460	neg	relaxed	NA	37	37	S	2596828	Microlunatus elymi
+SRR28476460	neg	relaxed	NA	11	0	S	29405	Microlunatus phosphovorus
+SRR28476460	neg	relaxed	NA	143	143	S	1748	Acidipropionibacterium acidipropionici
+SRR28476460	neg	relaxed	NA	98	98	S	2057246	Acidipropionibacterium virtanenii
+SRR28476460	neg	relaxed	NA	13	13	S	1749	Acidipropionibacterium jensenii
+SRR28476460	neg	relaxed	NA	107	107	S	2775081	Propioniciclava soli
+SRR28476460	neg	relaxed	NA	4	4	S	2760308	Propioniciclava sp. MC1595
+SRR28476460	neg	relaxed	NA	3	3	S	2714937	Propioniciclava coleopterorum
+SRR28476461	neg	relaxed	NA	82131	81828	S	1747	Cutibacterium acnes
+SRR28476461	neg	relaxed	NA	1132	1132	S	33011	Cutibacterium granulosum
+SRR28476461	neg	relaxed	NA	162	152	S	33010	Cutibacterium avidum
+SRR28476461	neg	relaxed	NA	137	137	S	2559073	Cutibacterium modestum
+SRR28476461	neg	relaxed	NA	43	43	S	3016342	Cutibacterium equinum
+SRR28476461	neg	relaxed	NA	483	483	S	2662261	Raineyella fluvialis
+SRR28476461	neg	relaxed	NA	2	2	S	3081204	Raineyella sp. LH-20
+SRR28476461	neg	relaxed	NA	55	0	S	29405	Microlunatus phosphovorus
+SRR28476461	neg	relaxed	NA	37	37	S	2596828	Microlunatus elymi
+SRR28476461	neg	relaxed	NA	31	31	S	546874	Microlunatus sagamiharensis
+SRR28476461	neg	relaxed	NA	25	25	S	630515	Microlunatus soli
+SRR28476461	neg	relaxed	NA	93	93	S	556499	Propionibacterium acidifaciens
+SRR28476461	neg	relaxed	NA	31	31	S	119981	Propionibacterium australiense
+SRR28476461	neg	relaxed	NA	20	20	S	1744	Propionibacterium freudenreichii
+SRR28476461	neg	relaxed	NA	36	36	S	2161816	Tessaracoccus timonensis
+SRR28476461	neg	relaxed	NA	30	30	S	2760310	Tessaracoccus sp. MC1865
+SRR28476461	neg	relaxed	NA	25	25	S	1610493	Tessaracoccus flavus
+SRR28476461	neg	relaxed	NA	9	9	S	1332264	Tessaracoccus aquimaris
+SRR28476461	neg	relaxed	NA	2	2	S	399497	Tessaracoccus flavescens
+SRR28476461	neg	relaxed	NA	2	2	S	1285901	Tessaracoccus defluvii
+SRR28476466	neg	relaxed	NA	5228	5227	S	87883	Burkholderia multivorans
+SRR28476466	neg	relaxed	NA	1266	1266	S	60552	Burkholderia vietnamiensis
+SRR28476466	neg	relaxed	NA	1150	1047	S	95486	Burkholderia cenocepacia
+SRR28476466	neg	relaxed	NA	987	983	S	152480	Burkholderia ambifaria
+SRR28476466	neg	relaxed	NA	651	248	S	292	Burkholderia cepacia
+SRR28476466	neg	relaxed	NA	367	367	S	488732	Burkholderia diffusa
+SRR28476466	neg	relaxed	NA	354	155	S	101571	Burkholderia ubonensis
+SRR28476466	neg	relaxed	NA	181	181	S	482957	Burkholderia lata
+SRR28476466	neg	relaxed	NA	156	156	S	60550	Burkholderia pyrrocinia
+SRR28476466	neg	relaxed	NA	153	153	S	488447	Burkholderia contaminans
+SRR28476466	neg	relaxed	NA	125	125	S	1503054	Burkholderia stagnalis
+SRR28476466	neg	relaxed	NA	105	105	S	1207504	Burkholderia pseudomultivorans
+SRR28476466	neg	relaxed	NA	103	103	S	95485	Burkholderia stabilis
+SRR28476466	neg	relaxed	NA	96	96	S	179879	Burkholderia anthina
+SRR28476466	neg	relaxed	NA	57	57	S	488446	Burkholderia latens
+SRR28476466	neg	relaxed	NA	55	55	S	488729	Burkholderia metallica
+SRR28476466	neg	relaxed	NA	33	33	S	152500	Burkholderia dolosa
+SRR28476466	neg	relaxed	NA	29	29	S	1503055	Burkholderia territorii
+SRR28476466	neg	relaxed	NA	14	14	S	488731	Burkholderia seminalis
+SRR28476466	neg	relaxed	NA	5	5	S	488730	Burkholderia arboris
+SRR28476467	neg	relaxed	NA	3961	1555	S	28450	Burkholderia pseudomallei
+SRR28476467	neg	relaxed	NA	1757	271	S	57975	Burkholderia thailandensis
+SRR28476467	neg	relaxed	NA	690	688	S	13373	Burkholderia mallei
+SRR28476467	neg	relaxed	NA	133	132	S	342113	Burkholderia oklahomensis
+SRR28476467	neg	relaxed	NA	121	121	S	1385591	Burkholderia mayonis
+SRR28476467	neg	relaxed	NA	32	32	S	1503053	Burkholderia singularis
+SRR28476467	neg	relaxed	NA	3	3	S	430531	Burkholderia humptydooensis
+SRR28476467	neg	relaxed	NA	1	1	S	1637837	Burkholderia savannae
+SRR28476467	neg	relaxed	NA	1721	1720	S	87883	Burkholderia multivorans
+SRR28476467	neg	relaxed	NA	837	837	S	60552	Burkholderia vietnamiensis
+SRR28476467	neg	relaxed	NA	818	751	S	95486	Burkholderia cenocepacia
+SRR28476467	neg	relaxed	NA	744	744	S	152480	Burkholderia ambifaria
+SRR28476467	neg	relaxed	NA	431	164	S	292	Burkholderia cepacia
+SRR28476467	neg	relaxed	NA	223	223	S	488732	Burkholderia diffusa
+SRR28476467	neg	relaxed	NA	212	111	S	101571	Burkholderia ubonensis
+SRR28476467	neg	relaxed	NA	130	130	S	482957	Burkholderia lata
+SRR28476467	neg	relaxed	NA	109	109	S	60550	Burkholderia pyrrocinia
+SRR28476467	neg	relaxed	NA	109	109	S	488447	Burkholderia contaminans
+SRR28476467	neg	relaxed	NA	108	108	S	1503054	Burkholderia stagnalis
+SRR28476467	neg	relaxed	NA	96	96	S	179879	Burkholderia anthina
+SRR28476469	neg	relaxed	NA	336389	335866	S	1747	Cutibacterium acnes
+SRR28476469	neg	relaxed	NA	6786	6786	S	33011	Cutibacterium granulosum
+SRR28476469	neg	relaxed	NA	615	611	S	33010	Cutibacterium avidum
+SRR28476469	neg	relaxed	NA	269	269	S	2559073	Cutibacterium modestum
+SRR28476469	neg	relaxed	NA	111	111	S	3016342	Cutibacterium equinum
+SRR28476469	neg	relaxed	NA	229	229	S	119981	Propionibacterium australiense
+SRR28476469	neg	relaxed	NA	132	132	S	556499	Propionibacterium acidifaciens
+SRR28476469	neg	relaxed	NA	29	29	S	1744	Propionibacterium freudenreichii
+SRR28476469	neg	relaxed	NA	385	385	S	1750	Arachnia propionica
+SRR28476469	neg	relaxed	NA	4	4	S	1547448	Arachnia rubra
+SRR28476469	neg	relaxed	NA	12	12	S	1285901	Tessaracoccus defluvii
+SRR28476469	neg	relaxed	NA	11	11	S	1332264	Tessaracoccus aquimaris
+SRR28476469	neg	relaxed	NA	8	8	S	1610493	Tessaracoccus flavus
+SRR28476469	neg	relaxed	NA	6	6	S	399497	Tessaracoccus flavescens
+SRR28476469	neg	relaxed	NA	2	2	S	2161816	Tessaracoccus timonensis
+SRR28476469	neg	relaxed	NA	2	2	S	2760310	Tessaracoccus sp. MC1865
+SRR28476469	neg	relaxed	NA	27	27	S	630515	Microlunatus soli
+SRR28476469	neg	relaxed	NA	19	19	S	546874	Microlunatus sagamiharensis
+SRR28476469	neg	relaxed	NA	17	0	S	29405	Microlunatus phosphovorus
+SRR28476469	neg	relaxed	NA	5	5	S	2596828	Microlunatus elymi
+SRR28476471	neg	relaxed	NA	1834	1834	S	2984843	Methylobacterium sp. FF17
+SRR28476471	neg	relaxed	NA	1280	1280	S	739141	Methylobacterium sp. XJLW
+SRR28476471	neg	relaxed	NA	76	76	S	2603276	Methylobacterium sp. WL1
+SRR28476471	neg	relaxed	NA	72	72	S	925818	Methylobacterium sp. AMS5
+SRR28476471	neg	relaxed	NA	31	31	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476471	neg	relaxed	NA	12	12	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476471	neg	relaxed	NA	9	9	S	2894310	Methylobacterium sp. NMS14P
+SRR28476471	neg	relaxed	NA	1	1	S	2718876	Methylobacterium sp. SyP6R
+SRR28476471	neg	relaxed	NA	1	1	S	3138063	Methylobacterium sp. CB376
+SRR28476471	neg	relaxed	NA	992	992	S	410	Methylobacterium organophilum
+SRR28476471	neg	relaxed	NA	597	597	S	107400	Methylobacterium fujisawaense
+SRR28476471	neg	relaxed	NA	487	31	S	31998	Methylobacterium radiotolerans
+SRR28476471	neg	relaxed	NA	318	318	S	570505	Methylobacterium bullatum
+SRR28476471	neg	relaxed	NA	251	251	S	374432	Methylobacterium tardum
+SRR28476471	neg	relaxed	NA	214	214	S	2202825	Methylobacterium durans
+SRR28476471	neg	relaxed	NA	213	0	S	334852	Methylobacterium oryzae
+SRR28476471	neg	relaxed	NA	156	156	S	269660	Methylobacterium brachiatum
+SRR28476471	neg	relaxed	NA	154	154	S	2202828	Methylobacterium radiodurans
+SRR28476471	neg	relaxed	NA	103	103	S	270351	Methylobacterium aquaticum
+SRR28476471	neg	relaxed	NA	37	37	S	2202827	Methylobacterium terrae
+SRR28476479	neg	relaxed	NA	310341	309603	S	1747	Cutibacterium acnes
+SRR28476479	neg	relaxed	NA	5719	5719	S	33011	Cutibacterium granulosum
+SRR28476479	neg	relaxed	NA	695	695	S	2559073	Cutibacterium modestum
+SRR28476479	neg	relaxed	NA	383	383	S	33010	Cutibacterium avidum
+SRR28476479	neg	relaxed	NA	139	139	S	3016342	Cutibacterium equinum
+SRR28476479	neg	relaxed	NA	203	203	S	546874	Microlunatus sagamiharensis
+SRR28476479	neg	relaxed	NA	46	46	S	630515	Microlunatus soli
+SRR28476479	neg	relaxed	NA	35	0	S	29405	Microlunatus phosphovorus
+SRR28476479	neg	relaxed	NA	14	14	S	2596828	Microlunatus elymi
+SRR28476479	neg	relaxed	NA	57	57	S	1610493	Tessaracoccus flavus
+SRR28476479	neg	relaxed	NA	40	40	S	2161816	Tessaracoccus timonensis
+SRR28476479	neg	relaxed	NA	24	24	S	2760310	Tessaracoccus sp. MC1865
+SRR28476479	neg	relaxed	NA	2	2	S	3041766	Tessaracoccus sp. T21
+SRR28476479	neg	relaxed	NA	19	19	S	399497	Tessaracoccus flavescens
+SRR28476479	neg	relaxed	NA	12	12	S	1285901	Tessaracoccus defluvii
+SRR28476479	neg	relaxed	NA	285	285	S	1750	Arachnia propionica
+SRR28476479	neg	relaxed	NA	15	15	S	1547448	Arachnia rubra
+SRR28476479	neg	relaxed	NA	75	75	S	1744	Propionibacterium freudenreichii
+SRR28476479	neg	relaxed	NA	62	62	S	119981	Propionibacterium australiense
+SRR28476479	neg	relaxed	NA	50	50	S	556499	Propionibacterium acidifaciens
+SRR28476481	neg	relaxed	NA	309906	309293	S	1747	Cutibacterium acnes
+SRR28476481	neg	relaxed	NA	5351	5351	S	33011	Cutibacterium granulosum
+SRR28476481	neg	relaxed	NA	830	830	S	2559073	Cutibacterium modestum
+SRR28476481	neg	relaxed	NA	289	287	S	33010	Cutibacterium avidum
+SRR28476481	neg	relaxed	NA	154	154	S	3016342	Cutibacterium equinum
+SRR28476481	neg	relaxed	NA	147	147	S	546874	Microlunatus sagamiharensis
+SRR28476481	neg	relaxed	NA	133	0	S	29405	Microlunatus phosphovorus
+SRR28476481	neg	relaxed	NA	16	16	S	630515	Microlunatus soli
+SRR28476481	neg	relaxed	NA	6	6	S	2596828	Microlunatus elymi
+SRR28476481	neg	relaxed	NA	375	375	S	1750	Arachnia propionica
+SRR28476481	neg	relaxed	NA	78	78	S	1547448	Arachnia rubra
+SRR28476481	neg	relaxed	NA	344	344	S	2057246	Acidipropionibacterium virtanenii
+SRR28476481	neg	relaxed	NA	59	59	S	1748	Acidipropionibacterium acidipropionici
+SRR28476481	neg	relaxed	NA	36	36	S	1749	Acidipropionibacterium jensenii
+SRR28476481	neg	relaxed	NA	188	188	S	1610493	Tessaracoccus flavus
+SRR28476481	neg	relaxed	NA	30	30	S	2760310	Tessaracoccus sp. MC1865
+SRR28476481	neg	relaxed	NA	23	23	S	399497	Tessaracoccus flavescens
+SRR28476481	neg	relaxed	NA	23	23	S	2161816	Tessaracoccus timonensis
+SRR28476481	neg	relaxed	NA	7	7	S	1285901	Tessaracoccus defluvii
+SRR28476481	neg	relaxed	NA	3	3	S	1332264	Tessaracoccus aquimaris
+SRR28476485	neg	relaxed	NA	187320	187053	S	1747	Cutibacterium acnes
+SRR28476485	neg	relaxed	NA	3531	3531	S	33011	Cutibacterium granulosum
+SRR28476485	neg	relaxed	NA	303	303	S	2559073	Cutibacterium modestum
+SRR28476485	neg	relaxed	NA	150	150	S	33010	Cutibacterium avidum
+SRR28476485	neg	relaxed	NA	63	63	S	3016342	Cutibacterium equinum
+SRR28476485	neg	relaxed	NA	90	90	S	2775081	Propioniciclava soli
+SRR28476485	neg	relaxed	NA	22	22	S	2760308	Propioniciclava sp. MC1595
+SRR28476485	neg	relaxed	NA	220	0	S	29405	Microlunatus phosphovorus
+SRR28476485	neg	relaxed	NA	22	22	S	546874	Microlunatus sagamiharensis
+SRR28476485	neg	relaxed	NA	22	22	S	2596828	Microlunatus elymi
+SRR28476485	neg	relaxed	NA	9	9	S	630515	Microlunatus soli
+SRR28476485	neg	relaxed	NA	319	319	S	1750	Arachnia propionica
+SRR28476485	neg	relaxed	NA	189	189	S	1610493	Tessaracoccus flavus
+SRR28476485	neg	relaxed	NA	19	19	S	1285901	Tessaracoccus defluvii
+SRR28476485	neg	relaxed	NA	148	148	S	119981	Propionibacterium australiense
+SRR28476485	neg	relaxed	NA	34	34	S	556499	Propionibacterium acidifaciens
+SRR28476485	neg	relaxed	NA	69	69	S	1748	Acidipropionibacterium acidipropionici
+SRR28476485	neg	relaxed	NA	52	52	S	2057246	Acidipropionibacterium virtanenii
+SRR28476485	neg	relaxed	NA	9	9	S	1749	Acidipropionibacterium jensenii
+SRR28476485	neg	relaxed	NA	3	3	S	3081204	Raineyella sp. LH-20
+SRR28476490	neg	relaxed	NA	279661	279254	S	1747	Cutibacterium acnes
+SRR28476490	neg	relaxed	NA	5434	5434	S	33011	Cutibacterium granulosum
+SRR28476490	neg	relaxed	NA	256	256	S	2559073	Cutibacterium modestum
+SRR28476490	neg	relaxed	NA	222	217	S	33010	Cutibacterium avidum
+SRR28476490	neg	relaxed	NA	27	27	S	3016342	Cutibacterium equinum
+SRR28476490	neg	relaxed	NA	441	441	S	2760308	Propioniciclava sp. MC1595
+SRR28476490	neg	relaxed	NA	92	92	S	2775081	Propioniciclava soli
+SRR28476490	neg	relaxed	NA	82	82	S	2714937	Propioniciclava coleopterorum
+SRR28476490	neg	relaxed	NA	154	154	S	630515	Microlunatus soli
+SRR28476490	neg	relaxed	NA	134	134	S	546874	Microlunatus sagamiharensis
+SRR28476490	neg	relaxed	NA	91	0	S	29405	Microlunatus phosphovorus
+SRR28476490	neg	relaxed	NA	41	41	S	2596828	Microlunatus elymi
+SRR28476490	neg	relaxed	NA	389	389	S	1750	Arachnia propionica
+SRR28476490	neg	relaxed	NA	12	12	S	1547448	Arachnia rubra
+SRR28476490	neg	relaxed	NA	133	133	S	1610493	Tessaracoccus flavus
+SRR28476490	neg	relaxed	NA	34	34	S	2760310	Tessaracoccus sp. MC1865
+SRR28476490	neg	relaxed	NA	8	8	S	1285901	Tessaracoccus defluvii
+SRR28476490	neg	relaxed	NA	1	1	S	399497	Tessaracoccus flavescens
+SRR28476490	neg	relaxed	NA	72	72	S	119981	Propionibacterium australiense
+SRR28476490	neg	relaxed	NA	45	45	S	556499	Propionibacterium acidifaciens
+SRR28476491	neg	relaxed	NA	4342	4342	S	34062	Moraxella osloensis
+SRR28476491	neg	relaxed	NA	57	57	S	3076087	Moraxella sp. DOX410
+SRR28476491	neg	relaxed	NA	2	2	S	2904123	Moraxella sp. ZY210820
+SRR28476491	neg	relaxed	NA	56	56	S	90241	Moraxella lincolnii
+SRR28476491	neg	relaxed	NA	29	29	S	90239	Moraxella canis
+SRR28476491	neg	relaxed	NA	28	28	S	480	Moraxella catarrhalis
+SRR28476491	neg	relaxed	NA	2	2	S	476	Moraxella bovis
+SRR28476491	neg	relaxed	NA	3632	3590	S	470	Acinetobacter baumannii
+SRR28476491	neg	relaxed	NA	146	127	S	48296	Acinetobacter pittii
+SRR28476491	neg	relaxed	NA	17	17	S	1530123	Acinetobacter seifertii
+SRR28476491	neg	relaxed	NA	16	16	S	471	Acinetobacter calcoaceticus
+SRR28476491	neg	relaxed	NA	5	5	S	106654	Acinetobacter nosocomialis
+SRR28476491	neg	relaxed	NA	498	498	S	40214	Acinetobacter johnsonii
+SRR28476491	neg	relaxed	NA	135	135	S	1827285	Acinetobacter sp. MYb10
+SRR28476491	neg	relaxed	NA	64	64	S	3138069	Acinetobacter sp. D009
+SRR28476491	neg	relaxed	NA	30	30	S	2743575	Acinetobacter sp. NEB 394
+SRR28476491	neg	relaxed	NA	27	27	S	2919376	Acinetobacter sp. AOR07_HL
+SRR28476491	neg	relaxed	NA	14	14	S	1808001	Acinetobacter sp. LoGeW2-3
+SRR28476491	neg	relaxed	NA	11	11	S	3120518	Acinetobacter sp. KS-LM10
+SRR28476491	neg	relaxed	NA	11	11	S	2908637	Acinetobacter sp. SCLZS86
+SRR28476494	neg	relaxed	NA	5708	2183	S	28450	Burkholderia pseudomallei
+SRR28476494	neg	relaxed	NA	2817	476	S	57975	Burkholderia thailandensis
+SRR28476494	neg	relaxed	NA	1105	1103	S	13373	Burkholderia mallei
+SRR28476494	neg	relaxed	NA	229	229	S	1385591	Burkholderia mayonis
+SRR28476494	neg	relaxed	NA	138	133	S	342113	Burkholderia oklahomensis
+SRR28476494	neg	relaxed	NA	44	44	S	1503053	Burkholderia singularis
+SRR28476494	neg	relaxed	NA	3	3	S	430531	Burkholderia humptydooensis
+SRR28476494	neg	relaxed	NA	3	3	S	1637837	Burkholderia savannae
+SRR28476494	neg	relaxed	NA	2402	2400	S	87883	Burkholderia multivorans
+SRR28476494	neg	relaxed	NA	1422	1421	S	60552	Burkholderia vietnamiensis
+SRR28476494	neg	relaxed	NA	1160	1160	S	152480	Burkholderia ambifaria
+SRR28476494	neg	relaxed	NA	1120	1035	S	95486	Burkholderia cenocepacia
+SRR28476494	neg	relaxed	NA	672	257	S	292	Burkholderia cepacia
+SRR28476494	neg	relaxed	NA	373	180	S	101571	Burkholderia ubonensis
+SRR28476494	neg	relaxed	NA	306	306	S	488732	Burkholderia diffusa
+SRR28476494	neg	relaxed	NA	152	152	S	60550	Burkholderia pyrrocinia
+SRR28476494	neg	relaxed	NA	151	151	S	482957	Burkholderia lata
+SRR28476494	neg	relaxed	NA	122	122	S	1503054	Burkholderia stagnalis
+SRR28476494	neg	relaxed	NA	117	117	S	488447	Burkholderia contaminans
+SRR28476494	neg	relaxed	NA	113	113	S	95485	Burkholderia stabilis
+SRR28476495	neg	relaxed	NA	5493	2005	S	28450	Burkholderia pseudomallei
+SRR28476495	neg	relaxed	NA	2809	482	S	57975	Burkholderia thailandensis
+SRR28476495	neg	relaxed	NA	1042	1032	S	13373	Burkholderia mallei
+SRR28476495	neg	relaxed	NA	175	175	S	1385591	Burkholderia mayonis
+SRR28476495	neg	relaxed	NA	152	151	S	342113	Burkholderia oklahomensis
+SRR28476495	neg	relaxed	NA	46	46	S	1503053	Burkholderia singularis
+SRR28476495	neg	relaxed	NA	4	4	S	430531	Burkholderia humptydooensis
+SRR28476495	neg	relaxed	NA	2	2	S	1637837	Burkholderia savannae
+SRR28476495	neg	relaxed	NA	2083	2083	S	87883	Burkholderia multivorans
+SRR28476495	neg	relaxed	NA	1293	1291	S	60552	Burkholderia vietnamiensis
+SRR28476495	neg	relaxed	NA	1130	1046	S	95486	Burkholderia cenocepacia
+SRR28476495	neg	relaxed	NA	985	983	S	152480	Burkholderia ambifaria
+SRR28476495	neg	relaxed	NA	598	231	S	292	Burkholderia cepacia
+SRR28476495	neg	relaxed	NA	332	132	S	101571	Burkholderia ubonensis
+SRR28476495	neg	relaxed	NA	291	291	S	488732	Burkholderia diffusa
+SRR28476495	neg	relaxed	NA	164	164	S	482957	Burkholderia lata
+SRR28476495	neg	relaxed	NA	140	140	S	60550	Burkholderia pyrrocinia
+SRR28476495	neg	relaxed	NA	138	138	S	488447	Burkholderia contaminans
+SRR28476495	neg	relaxed	NA	107	107	S	1503054	Burkholderia stagnalis
+SRR28476495	neg	relaxed	NA	103	103	S	95485	Burkholderia stabilis
+SRR28476497	neg	relaxed	NA	3869	1489	S	28450	Burkholderia pseudomallei
+SRR28476497	neg	relaxed	NA	1707	238	S	57975	Burkholderia thailandensis
+SRR28476497	neg	relaxed	NA	652	650	S	13373	Burkholderia mallei
+SRR28476497	neg	relaxed	NA	127	127	S	1385591	Burkholderia mayonis
+SRR28476497	neg	relaxed	NA	113	111	S	342113	Burkholderia oklahomensis
+SRR28476497	neg	relaxed	NA	38	38	S	1503053	Burkholderia singularis
+SRR28476497	neg	relaxed	NA	2	2	S	1637837	Burkholderia savannae
+SRR28476497	neg	relaxed	NA	1	1	S	430531	Burkholderia humptydooensis
+SRR28476497	neg	relaxed	NA	1716	1716	S	87883	Burkholderia multivorans
+SRR28476497	neg	relaxed	NA	783	783	S	60552	Burkholderia vietnamiensis
+SRR28476497	neg	relaxed	NA	758	758	S	152480	Burkholderia ambifaria
+SRR28476497	neg	relaxed	NA	727	668	S	95486	Burkholderia cenocepacia
+SRR28476497	neg	relaxed	NA	397	150	S	292	Burkholderia cepacia
+SRR28476497	neg	relaxed	NA	227	227	S	488732	Burkholderia diffusa
+SRR28476497	neg	relaxed	NA	224	107	S	101571	Burkholderia ubonensis
+SRR28476497	neg	relaxed	NA	138	138	S	1503054	Burkholderia stagnalis
+SRR28476497	neg	relaxed	NA	98	98	S	60550	Burkholderia pyrrocinia
+SRR28476497	neg	relaxed	NA	86	86	S	482957	Burkholderia lata
+SRR28476497	neg	relaxed	NA	67	67	S	488447	Burkholderia contaminans
+SRR28476497	neg	relaxed	NA	59	59	S	95485	Burkholderia stabilis
+SRR28476498	neg	relaxed	NA	1697	1697	S	2984843	Methylobacterium sp. FF17
+SRR28476498	neg	relaxed	NA	1486	1486	S	739141	Methylobacterium sp. XJLW
+SRR28476498	neg	relaxed	NA	149	149	S	2603276	Methylobacterium sp. WL1
+SRR28476498	neg	relaxed	NA	33	33	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476498	neg	relaxed	NA	6	6	S	925818	Methylobacterium sp. AMS5
+SRR28476498	neg	relaxed	NA	6	6	S	2894310	Methylobacterium sp. NMS14P
+SRR28476498	neg	relaxed	NA	3	3	S	2718876	Methylobacterium sp. SyP6R
+SRR28476498	neg	relaxed	NA	2	2	S	3138063	Methylobacterium sp. CB376
+SRR28476498	neg	relaxed	NA	1403	1403	S	410	Methylobacterium organophilum
+SRR28476498	neg	relaxed	NA	1276	0	S	31998	Methylobacterium radiotolerans
+SRR28476498	neg	relaxed	NA	538	538	S	2202825	Methylobacterium durans
+SRR28476498	neg	relaxed	NA	501	501	S	2202828	Methylobacterium radiodurans
+SRR28476498	neg	relaxed	NA	471	471	S	107400	Methylobacterium fujisawaense
+SRR28476498	neg	relaxed	NA	340	340	S	570505	Methylobacterium bullatum
+SRR28476498	neg	relaxed	NA	292	20	S	334852	Methylobacterium oryzae
+SRR28476498	neg	relaxed	NA	254	254	S	269660	Methylobacterium brachiatum
+SRR28476498	neg	relaxed	NA	200	200	S	374432	Methylobacterium tardum
+SRR28476498	neg	relaxed	NA	65	65	S	2202827	Methylobacterium terrae
+SRR28476498	neg	relaxed	NA	63	0	S	39956	Methylobacterium mesophilicum
+SRR28476498	neg	relaxed	NA	36	36	S	270351	Methylobacterium aquaticum
+SRR28476501	neg	relaxed	NA	3647	3647	S	739141	Methylobacterium sp. XJLW
+SRR28476501	neg	relaxed	NA	3521	3521	S	2984843	Methylobacterium sp. FF17
+SRR28476501	neg	relaxed	NA	281	281	S	2603276	Methylobacterium sp. WL1
+SRR28476501	neg	relaxed	NA	91	91	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476501	neg	relaxed	NA	46	46	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476501	neg	relaxed	NA	14	14	S	925818	Methylobacterium sp. AMS5
+SRR28476501	neg	relaxed	NA	5	5	S	2894310	Methylobacterium sp. NMS14P
+SRR28476501	neg	relaxed	NA	1	1	S	1479019	Methylobacterium sp. C1
+SRR28476501	neg	relaxed	NA	2090	2090	S	410	Methylobacterium organophilum
+SRR28476501	neg	relaxed	NA	1732	10	S	31998	Methylobacterium radiotolerans
+SRR28476501	neg	relaxed	NA	1159	1159	S	107400	Methylobacterium fujisawaense
+SRR28476501	neg	relaxed	NA	1117	1117	S	2202825	Methylobacterium durans
+SRR28476501	neg	relaxed	NA	754	754	S	2202828	Methylobacterium radiodurans
+SRR28476501	neg	relaxed	NA	732	25	S	334852	Methylobacterium oryzae
+SRR28476501	neg	relaxed	NA	555	555	S	570505	Methylobacterium bullatum
+SRR28476501	neg	relaxed	NA	550	550	S	374432	Methylobacterium tardum
+SRR28476501	neg	relaxed	NA	542	542	S	269660	Methylobacterium brachiatum
+SRR28476501	neg	relaxed	NA	78	78	S	418223	Methylobacterium phyllosphaerae
+SRR28476501	neg	relaxed	NA	73	0	S	114616	Methylobacterium nodulans
+SRR28476501	neg	relaxed	NA	48	48	S	270351	Methylobacterium aquaticum
+SRR28476502	neg	relaxed	NA	3798	3798	S	739141	Methylobacterium sp. XJLW
+SRR28476502	neg	relaxed	NA	3488	3488	S	2984843	Methylobacterium sp. FF17
+SRR28476502	neg	relaxed	NA	425	425	S	2603276	Methylobacterium sp. WL1
+SRR28476502	neg	relaxed	NA	60	60	S	1479019	Methylobacterium sp. C1
+SRR28476502	neg	relaxed	NA	55	55	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476502	neg	relaxed	NA	54	54	S	3138063	Methylobacterium sp. CB376
+SRR28476502	neg	relaxed	NA	36	36	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476502	neg	relaxed	NA	25	25	S	2894310	Methylobacterium sp. NMS14P
+SRR28476502	neg	relaxed	NA	22	22	S	2718876	Methylobacterium sp. SyP6R
+SRR28476502	neg	relaxed	NA	15	15	S	925818	Methylobacterium sp. AMS5
+SRR28476502	neg	relaxed	NA	1772	1772	S	410	Methylobacterium organophilum
+SRR28476502	neg	relaxed	NA	1632	13	S	31998	Methylobacterium radiotolerans
+SRR28476502	neg	relaxed	NA	1405	1405	S	107400	Methylobacterium fujisawaense
+SRR28476502	neg	relaxed	NA	976	976	S	2202825	Methylobacterium durans
+SRR28476502	neg	relaxed	NA	745	745	S	2202828	Methylobacterium radiodurans
+SRR28476502	neg	relaxed	NA	625	625	S	374432	Methylobacterium tardum
+SRR28476502	neg	relaxed	NA	601	601	S	570505	Methylobacterium bullatum
+SRR28476502	neg	relaxed	NA	515	515	S	269660	Methylobacterium brachiatum
+SRR28476502	neg	relaxed	NA	370	30	S	334852	Methylobacterium oryzae
+SRR28476502	neg	relaxed	NA	156	156	S	270351	Methylobacterium aquaticum
+SRR28476504	neg	relaxed	NA	10704	10704	S	2892442	Pseudomonas sp. CIP-10
+SRR28476504	neg	relaxed	NA	235	235	S	2653853	Pseudomonas sp. SCB32
+SRR28476504	neg	relaxed	NA	129	129	S	2954094	Pseudomonas sp. FP453
+SRR28476504	neg	relaxed	NA	122	122	S	2920387	Pseudomonas sp. LS.1a
+SRR28476504	neg	relaxed	NA	103	103	S	2954088	Pseudomonas sp. FP2262
+SRR28476504	neg	relaxed	NA	79	79	S	3078264	Pseudomonas sp. C9-3
+SRR28476504	neg	relaxed	NA	61	61	S	1283291	Pseudomonas sp. URMO17WK12:I11
+SRR28476504	neg	relaxed	NA	57	57	S	1207075	Pseudomonas sp. UW4
+SRR28476504	neg	relaxed	NA	54	54	S	2559074	Pseudomonas sp. S150
+SRR28476504	neg	relaxed	NA	37	37	S	2921518	Pseudomonas sp. FSL L8-0168
+SRR28476504	neg	relaxed	NA	36	36	S	2895474	Pseudomonas sp. B21-017
+SRR28476504	neg	relaxed	NA	30	30	S	2954085	Pseudomonas sp. FP2034
+SRR28476504	neg	relaxed	NA	30	30	S	2954099	Pseudomonas sp. FP818
+SRR28476504	neg	relaxed	NA	29	29	S	3110111	Pseudomonas sp. JQ170C
+SRR28476504	neg	relaxed	NA	29	29	S	3122375	Pseudomonas sp. ML2-2023-3
+SRR28476504	neg	relaxed	NA	23	23	S	2855434	Pseudomonas sp. AO-1
+SRR28476504	neg	relaxed	NA	20	20	S	3074146	Pseudomonas sp. SG20056
+SRR28476504	neg	relaxed	NA	20	20	S	2954097	Pseudomonas sp. FP603
+SRR28476504	neg	relaxed	NA	20	20	S	2954098	Pseudomonas sp. FP607
+SRR28476504	neg	relaxed	NA	18	18	S	2874628	Pseudomonas sp. p1(2021b)
+SRR28476506	neg	relaxed	NA	200790	200344	S	1747	Cutibacterium acnes
+SRR28476506	neg	relaxed	NA	4465	4465	S	33011	Cutibacterium granulosum
+SRR28476506	neg	relaxed	NA	372	372	S	2559073	Cutibacterium modestum
+SRR28476506	neg	relaxed	NA	344	340	S	33010	Cutibacterium avidum
+SRR28476506	neg	relaxed	NA	202	202	S	3016342	Cutibacterium equinum
+SRR28476506	neg	relaxed	NA	860	860	S	556499	Propionibacterium acidifaciens
+SRR28476506	neg	relaxed	NA	103	103	S	119981	Propionibacterium australiense
+SRR28476506	neg	relaxed	NA	66	66	S	1744	Propionibacterium freudenreichii
+SRR28476506	neg	relaxed	NA	143	143	S	546874	Microlunatus sagamiharensis
+SRR28476506	neg	relaxed	NA	121	121	S	630515	Microlunatus soli
+SRR28476506	neg	relaxed	NA	37	0	S	29405	Microlunatus phosphovorus
+SRR28476506	neg	relaxed	NA	2	2	S	2596828	Microlunatus elymi
+SRR28476506	neg	relaxed	NA	112	112	S	1610493	Tessaracoccus flavus
+SRR28476506	neg	relaxed	NA	66	66	S	2760310	Tessaracoccus sp. MC1865
+SRR28476506	neg	relaxed	NA	10	10	S	1285901	Tessaracoccus defluvii
+SRR28476506	neg	relaxed	NA	7	7	S	399497	Tessaracoccus flavescens
+SRR28476506	neg	relaxed	NA	2	2	S	2161816	Tessaracoccus timonensis
+SRR28476506	neg	relaxed	NA	1	1	S	1332264	Tessaracoccus aquimaris
+SRR28476506	neg	relaxed	NA	337	337	S	1750	Arachnia propionica
+SRR28476506	neg	relaxed	NA	111	111	S	2775081	Propioniciclava soli
+SRR28476507	neg	relaxed	NA	326079	325576	S	1747	Cutibacterium acnes
+SRR28476507	neg	relaxed	NA	12436	12436	S	33011	Cutibacterium granulosum
+SRR28476507	neg	relaxed	NA	1149	1148	S	33010	Cutibacterium avidum
+SRR28476507	neg	relaxed	NA	329	329	S	2559073	Cutibacterium modestum
+SRR28476507	neg	relaxed	NA	81	81	S	3016342	Cutibacterium equinum
+SRR28476507	neg	relaxed	NA	533	533	S	119981	Propionibacterium australiense
+SRR28476507	neg	relaxed	NA	45	45	S	556499	Propionibacterium acidifaciens
+SRR28476507	neg	relaxed	NA	5	5	S	1744	Propionibacterium freudenreichii
+SRR28476507	neg	relaxed	NA	395	395	S	1750	Arachnia propionica
+SRR28476507	neg	relaxed	NA	1	1	S	1547448	Arachnia rubra
+SRR28476507	neg	relaxed	NA	83	0	S	29405	Microlunatus phosphovorus
+SRR28476507	neg	relaxed	NA	65	65	S	630515	Microlunatus soli
+SRR28476507	neg	relaxed	NA	61	61	S	546874	Microlunatus sagamiharensis
+SRR28476507	neg	relaxed	NA	17	17	S	2596828	Microlunatus elymi
+SRR28476507	neg	relaxed	NA	47	47	S	1748	Acidipropionibacterium acidipropionici
+SRR28476507	neg	relaxed	NA	38	38	S	2057246	Acidipropionibacterium virtanenii
+SRR28476507	neg	relaxed	NA	7	7	S	1749	Acidipropionibacterium jensenii
+SRR28476507	neg	relaxed	NA	19	19	S	1285901	Tessaracoccus defluvii
+SRR28476507	neg	relaxed	NA	7	7	S	2161816	Tessaracoccus timonensis
+SRR28476507	neg	relaxed	NA	6	6	S	399497	Tessaracoccus flavescens
+SRR28476453	pos	relaxed	NA	13841	13838	S	28095	Burkholderia gladioli
+SRR28476453	pos	relaxed	NA	3902	1617	S	28450	Burkholderia pseudomallei
+SRR28476453	pos	relaxed	NA	1052	90	S	57975	Burkholderia thailandensis
+SRR28476453	pos	relaxed	NA	794	790	S	13373	Burkholderia mallei
+SRR28476453	pos	relaxed	NA	120	120	S	1385591	Burkholderia mayonis
+SRR28476453	pos	relaxed	NA	97	97	S	342113	Burkholderia oklahomensis
+SRR28476453	pos	relaxed	NA	16	16	S	1503053	Burkholderia singularis
+SRR28476453	pos	relaxed	NA	1199	1199	S	87883	Burkholderia multivorans
+SRR28476453	pos	relaxed	NA	806	740	S	95486	Burkholderia cenocepacia
+SRR28476453	pos	relaxed	NA	634	634	S	60552	Burkholderia vietnamiensis
+SRR28476453	pos	relaxed	NA	579	575	S	152480	Burkholderia ambifaria
+SRR28476453	pos	relaxed	NA	475	198	S	292	Burkholderia cepacia
+SRR28476453	pos	relaxed	NA	369	369	S	488732	Burkholderia diffusa
+SRR28476453	pos	relaxed	NA	106	106	S	60550	Burkholderia pyrrocinia
+SRR28476453	pos	relaxed	NA	80	80	S	482957	Burkholderia lata
+SRR28476453	pos	relaxed	NA	78	78	S	488447	Burkholderia contaminans
+SRR28476453	pos	relaxed	NA	77	45	S	101571	Burkholderia ubonensis
+SRR28476453	pos	relaxed	NA	41	41	S	95485	Burkholderia stabilis
+SRR28476453	pos	relaxed	NA	41	41	S	179879	Burkholderia anthina
+SRR28476453	pos	relaxed	NA	35	35	S	488446	Burkholderia latens
+SRR28476454	pos	relaxed	NA	4103937	4103937	S	9606	Homo sapiens
+SRR28476454	pos	relaxed	NA	5984	5983	S	28095	Burkholderia gladioli
+SRR28476454	pos	relaxed	NA	1767	764	S	28450	Burkholderia pseudomallei
+SRR28476454	pos	relaxed	NA	547	71	S	57975	Burkholderia thailandensis
+SRR28476454	pos	relaxed	NA	340	334	S	13373	Burkholderia mallei
+SRR28476454	pos	relaxed	NA	57	57	S	1385591	Burkholderia mayonis
+SRR28476454	pos	relaxed	NA	53	53	S	342113	Burkholderia oklahomensis
+SRR28476454	pos	relaxed	NA	5	5	S	1503053	Burkholderia singularis
+SRR28476454	pos	relaxed	NA	2	2	S	430531	Burkholderia humptydooensis
+SRR28476454	pos	relaxed	NA	794	794	S	87883	Burkholderia multivorans
+SRR28476454	pos	relaxed	NA	379	379	S	60552	Burkholderia vietnamiensis
+SRR28476454	pos	relaxed	NA	374	346	S	95486	Burkholderia cenocepacia
+SRR28476454	pos	relaxed	NA	231	230	S	152480	Burkholderia ambifaria
+SRR28476454	pos	relaxed	NA	206	75	S	292	Burkholderia cepacia
+SRR28476454	pos	relaxed	NA	140	140	S	488732	Burkholderia diffusa
+SRR28476454	pos	relaxed	NA	42	42	S	482957	Burkholderia lata
+SRR28476454	pos	relaxed	NA	40	40	S	60550	Burkholderia pyrrocinia
+SRR28476454	pos	relaxed	NA	37	19	S	101571	Burkholderia ubonensis
+SRR28476454	pos	relaxed	NA	25	25	S	488447	Burkholderia contaminans
+SRR28476454	pos	relaxed	NA	18	18	S	179879	Burkholderia anthina
+SRR28476455	pos	relaxed	NA	10250	10249	S	28095	Burkholderia gladioli
+SRR28476455	pos	relaxed	NA	2985	1260	S	28450	Burkholderia pseudomallei
+SRR28476455	pos	relaxed	NA	867	87	S	57975	Burkholderia thailandensis
+SRR28476455	pos	relaxed	NA	514	508	S	13373	Burkholderia mallei
+SRR28476455	pos	relaxed	NA	87	87	S	342113	Burkholderia oklahomensis
+SRR28476455	pos	relaxed	NA	76	76	S	1385591	Burkholderia mayonis
+SRR28476455	pos	relaxed	NA	23	23	S	1503053	Burkholderia singularis
+SRR28476455	pos	relaxed	NA	1255	1254	S	87883	Burkholderia multivorans
+SRR28476455	pos	relaxed	NA	607	519	S	95486	Burkholderia cenocepacia
+SRR28476455	pos	relaxed	NA	568	568	S	60552	Burkholderia vietnamiensis
+SRR28476455	pos	relaxed	NA	428	428	S	152480	Burkholderia ambifaria
+SRR28476455	pos	relaxed	NA	424	163	S	292	Burkholderia cepacia
+SRR28476455	pos	relaxed	NA	272	272	S	488732	Burkholderia diffusa
+SRR28476455	pos	relaxed	NA	72	42	S	101571	Burkholderia ubonensis
+SRR28476455	pos	relaxed	NA	65	65	S	60550	Burkholderia pyrrocinia
+SRR28476455	pos	relaxed	NA	57	57	S	482957	Burkholderia lata
+SRR28476455	pos	relaxed	NA	31	31	S	488447	Burkholderia contaminans
+SRR28476455	pos	relaxed	NA	23	23	S	1207504	Burkholderia pseudomultivorans
+SRR28476455	pos	relaxed	NA	22	22	S	179879	Burkholderia anthina
+SRR28476455	pos	relaxed	NA	14	14	S	488446	Burkholderia latens
+SRR28476456	pos	relaxed	NA	3489	1320	S	28450	Burkholderia pseudomallei
+SRR28476456	pos	relaxed	NA	1544	266	S	57975	Burkholderia thailandensis
+SRR28476456	pos	relaxed	NA	549	547	S	13373	Burkholderia mallei
+SRR28476456	pos	relaxed	NA	130	130	S	1385591	Burkholderia mayonis
+SRR28476456	pos	relaxed	NA	96	93	S	342113	Burkholderia oklahomensis
+SRR28476456	pos	relaxed	NA	47	47	S	1503053	Burkholderia singularis
+SRR28476456	pos	relaxed	NA	4	4	S	430531	Burkholderia humptydooensis
+SRR28476456	pos	relaxed	NA	4	4	S	1637837	Burkholderia savannae
+SRR28476456	pos	relaxed	NA	2085	2085	S	87883	Burkholderia multivorans
+SRR28476456	pos	relaxed	NA	847	847	S	60552	Burkholderia vietnamiensis
+SRR28476456	pos	relaxed	NA	703	650	S	95486	Burkholderia cenocepacia
+SRR28476456	pos	relaxed	NA	645	645	S	152480	Burkholderia ambifaria
+SRR28476456	pos	relaxed	NA	365	153	S	292	Burkholderia cepacia
+SRR28476456	pos	relaxed	NA	228	110	S	101571	Burkholderia ubonensis
+SRR28476456	pos	relaxed	NA	155	155	S	488732	Burkholderia diffusa
+SRR28476456	pos	relaxed	NA	94	94	S	60550	Burkholderia pyrrocinia
+SRR28476456	pos	relaxed	NA	79	79	S	482957	Burkholderia lata
+SRR28476456	pos	relaxed	NA	78	78	S	488447	Burkholderia contaminans
+SRR28476456	pos	relaxed	NA	65	65	S	1503054	Burkholderia stagnalis
+SRR28476456	pos	relaxed	NA	56	56	S	95485	Burkholderia stabilis
+SRR28476457	pos	relaxed	NA	1528944	1528944	S	9606	Homo sapiens
+SRR28476457	pos	relaxed	NA	3459	3459	S	28095	Burkholderia gladioli
+SRR28476457	pos	relaxed	NA	710	334	S	28450	Burkholderia pseudomallei
+SRR28476457	pos	relaxed	NA	237	19	S	57975	Burkholderia thailandensis
+SRR28476457	pos	relaxed	NA	164	161	S	13373	Burkholderia mallei
+SRR28476457	pos	relaxed	NA	36	36	S	1385591	Burkholderia mayonis
+SRR28476457	pos	relaxed	NA	28	28	S	342113	Burkholderia oklahomensis
+SRR28476457	pos	relaxed	NA	7	7	S	1503053	Burkholderia singularis
+SRR28476457	pos	relaxed	NA	435	435	S	87883	Burkholderia multivorans
+SRR28476457	pos	relaxed	NA	169	154	S	95486	Burkholderia cenocepacia
+SRR28476457	pos	relaxed	NA	126	126	S	60552	Burkholderia vietnamiensis
+SRR28476457	pos	relaxed	NA	118	61	S	292	Burkholderia cepacia
+SRR28476457	pos	relaxed	NA	86	86	S	152480	Burkholderia ambifaria
+SRR28476457	pos	relaxed	NA	78	78	S	488732	Burkholderia diffusa
+SRR28476457	pos	relaxed	NA	18	11	S	101571	Burkholderia ubonensis
+SRR28476457	pos	relaxed	NA	17	17	S	60550	Burkholderia pyrrocinia
+SRR28476457	pos	relaxed	NA	16	16	S	482957	Burkholderia lata
+SRR28476457	pos	relaxed	NA	12	12	S	488447	Burkholderia contaminans
+SRR28476457	pos	relaxed	NA	10	10	S	179879	Burkholderia anthina
+SRR28476457	pos	relaxed	NA	6	6	S	1503054	Burkholderia stagnalis
+SRR28476458	pos	relaxed	NA	203729	203729	S	40324	Stenotrophomonas maltophilia
+SRR28476458	pos	relaxed	NA	7	7	S	2072413	Stenotrophomonas sp. SAU14A_NAIMI4_5
+SRR28476458	pos	relaxed	NA	1	1	S	2072414	Stenotrophomonas sp. ESTM1D_MKCIP4_1
+SRR28476458	pos	relaxed	NA	854	854	S	487698	Stenotrophomonas pavanii
+SRR28476458	pos	relaxed	NA	8	8	S	3055079	Stenotrophomonas sp. 704A1
+SRR28476458	pos	relaxed	NA	6	6	S	2303750	Stenotrophomonas sp. G4
+SRR28476458	pos	relaxed	NA	4	4	S	3055080	Stenotrophomonas sp. 610A2
+SRR28476458	pos	relaxed	NA	3	3	S	3051120	Stenotrophomonas sp. 59
+SRR28476458	pos	relaxed	NA	2	2	S	2282124	Stenotrophomonas sp. ASS1
+SRR28476458	pos	relaxed	NA	11	11	S	128780	Stenotrophomonas acidaminiphila
+SRR28476458	pos	relaxed	NA	2	2	S	3003271	Stenotrophomonas oahuensis
+SRR28476458	pos	relaxed	NA	4219	4219	S	29447	Xanthomonas albilineans
+SRR28476458	pos	relaxed	NA	912	0	S	456327	Xanthomonas euvesicatoria
+SRR28476458	pos	relaxed	NA	66	65	S	339	Xanthomonas campestris
+SRR28476458	pos	relaxed	NA	41	0	S	346	Xanthomonas citri
+SRR28476458	pos	relaxed	NA	27	0	S	1985254	Xanthomonas phaseoli
+SRR28476458	pos	relaxed	NA	16	12	S	343	Xanthomonas translucens
+SRR28476458	pos	relaxed	NA	7	7	S	3046274	Xanthomonas rydalmerensis
+SRR28476458	pos	relaxed	NA	7	1	S	56454	Xanthomonas hortorum
+SRR28476458	pos	relaxed	NA	5	4	S	347	Xanthomonas oryzae
+SRR28476462	pos	relaxed	NA	3858327	3858327	S	9606	Homo sapiens
+SRR28476462	pos	relaxed	NA	49826	49743	S	1747	Cutibacterium acnes
+SRR28476462	pos	relaxed	NA	548	548	S	33011	Cutibacterium granulosum
+SRR28476462	pos	relaxed	NA	168	166	S	33010	Cutibacterium avidum
+SRR28476462	pos	relaxed	NA	160	160	S	2559073	Cutibacterium modestum
+SRR28476462	pos	relaxed	NA	12	12	S	3016342	Cutibacterium equinum
+SRR28476462	pos	relaxed	NA	48	48	S	546874	Microlunatus sagamiharensis
+SRR28476462	pos	relaxed	NA	25	0	S	29405	Microlunatus phosphovorus
+SRR28476462	pos	relaxed	NA	9	9	S	2596828	Microlunatus elymi
+SRR28476462	pos	relaxed	NA	1	1	S	630515	Microlunatus soli
+SRR28476462	pos	relaxed	NA	49	49	S	1610493	Tessaracoccus flavus
+SRR28476462	pos	relaxed	NA	30	30	S	2161816	Tessaracoccus timonensis
+SRR28476462	pos	relaxed	NA	5	5	S	399497	Tessaracoccus flavescens
+SRR28476462	pos	relaxed	NA	3	3	S	1285901	Tessaracoccus defluvii
+SRR28476462	pos	relaxed	NA	25	25	S	119981	Propionibacterium australiense
+SRR28476462	pos	relaxed	NA	16	16	S	1744	Propionibacterium freudenreichii
+SRR28476462	pos	relaxed	NA	9	9	S	556499	Propionibacterium acidifaciens
+SRR28476462	pos	relaxed	NA	47	47	S	1750	Arachnia propionica
+SRR28476462	pos	relaxed	NA	8	8	S	1547448	Arachnia rubra
+SRR28476462	pos	relaxed	NA	27	27	S	1871034	Vaginimicrobium propionicum
+SRR28476463	pos	relaxed	NA	20446	20446	S	28095	Burkholderia gladioli
+SRR28476463	pos	relaxed	NA	5266	2263	S	28450	Burkholderia pseudomallei
+SRR28476463	pos	relaxed	NA	1616	187	S	57975	Burkholderia thailandensis
+SRR28476463	pos	relaxed	NA	1237	1228	S	13373	Burkholderia mallei
+SRR28476463	pos	relaxed	NA	181	181	S	1385591	Burkholderia mayonis
+SRR28476463	pos	relaxed	NA	134	132	S	342113	Burkholderia oklahomensis
+SRR28476463	pos	relaxed	NA	49	49	S	1503053	Burkholderia singularis
+SRR28476463	pos	relaxed	NA	2442	2442	S	87883	Burkholderia multivorans
+SRR28476463	pos	relaxed	NA	1236	1091	S	95486	Burkholderia cenocepacia
+SRR28476463	pos	relaxed	NA	1019	1019	S	60552	Burkholderia vietnamiensis
+SRR28476463	pos	relaxed	NA	800	796	S	152480	Burkholderia ambifaria
+SRR28476463	pos	relaxed	NA	590	198	S	292	Burkholderia cepacia
+SRR28476463	pos	relaxed	NA	423	423	S	488732	Burkholderia diffusa
+SRR28476463	pos	relaxed	NA	129	129	S	60550	Burkholderia pyrrocinia
+SRR28476463	pos	relaxed	NA	120	120	S	488447	Burkholderia contaminans
+SRR28476463	pos	relaxed	NA	111	111	S	482957	Burkholderia lata
+SRR28476463	pos	relaxed	NA	83	20	S	101571	Burkholderia ubonensis
+SRR28476463	pos	relaxed	NA	45	45	S	95485	Burkholderia stabilis
+SRR28476463	pos	relaxed	NA	33	33	S	179879	Burkholderia anthina
+SRR28476463	pos	relaxed	NA	29	29	S	488446	Burkholderia latens
+SRR28476464	pos	relaxed	NA	126490	126184	S	1747	Cutibacterium acnes
+SRR28476464	pos	relaxed	NA	2004	2004	S	33011	Cutibacterium granulosum
+SRR28476464	pos	relaxed	NA	1068	1068	S	2559073	Cutibacterium modestum
+SRR28476464	pos	relaxed	NA	147	147	S	33010	Cutibacterium avidum
+SRR28476464	pos	relaxed	NA	40	40	S	3016342	Cutibacterium equinum
+SRR28476464	pos	relaxed	NA	76	76	S	546874	Microlunatus sagamiharensis
+SRR28476464	pos	relaxed	NA	35	35	S	630515	Microlunatus soli
+SRR28476464	pos	relaxed	NA	25	25	S	2596828	Microlunatus elymi
+SRR28476464	pos	relaxed	NA	21	0	S	29405	Microlunatus phosphovorus
+SRR28476464	pos	relaxed	NA	127	127	S	1750	Arachnia propionica
+SRR28476464	pos	relaxed	NA	2	2	S	1547448	Arachnia rubra
+SRR28476464	pos	relaxed	NA	47	47	S	556499	Propionibacterium acidifaciens
+SRR28476464	pos	relaxed	NA	37	37	S	119981	Propionibacterium australiense
+SRR28476464	pos	relaxed	NA	24	24	S	1744	Propionibacterium freudenreichii
+SRR28476464	pos	relaxed	NA	32	31	S	1748	Acidipropionibacterium acidipropionici
+SRR28476464	pos	relaxed	NA	18	18	S	2057246	Acidipropionibacterium virtanenii
+SRR28476464	pos	relaxed	NA	10	10	S	1749	Acidipropionibacterium jensenii
+SRR28476464	pos	relaxed	NA	41	41	S	1610493	Tessaracoccus flavus
+SRR28476464	pos	relaxed	NA	5	5	S	399497	Tessaracoccus flavescens
+SRR28476464	pos	relaxed	NA	3	3	S	2161816	Tessaracoccus timonensis
+SRR28476465	pos	relaxed	NA	3063	1241	S	28450	Burkholderia pseudomallei
+SRR28476465	pos	relaxed	NA	1404	237	S	57975	Burkholderia thailandensis
+SRR28476465	pos	relaxed	NA	459	446	S	13373	Burkholderia mallei
+SRR28476465	pos	relaxed	NA	103	103	S	1385591	Burkholderia mayonis
+SRR28476465	pos	relaxed	NA	58	58	S	342113	Burkholderia oklahomensis
+SRR28476465	pos	relaxed	NA	24	24	S	1503053	Burkholderia singularis
+SRR28476465	pos	relaxed	NA	5	5	S	430531	Burkholderia humptydooensis
+SRR28476465	pos	relaxed	NA	2241	2237	S	87883	Burkholderia multivorans
+SRR28476465	pos	relaxed	NA	576	576	S	60552	Burkholderia vietnamiensis
+SRR28476465	pos	relaxed	NA	533	478	S	95486	Burkholderia cenocepacia
+SRR28476465	pos	relaxed	NA	427	427	S	152480	Burkholderia ambifaria
+SRR28476465	pos	relaxed	NA	300	105	S	292	Burkholderia cepacia
+SRR28476465	pos	relaxed	NA	173	101	S	101571	Burkholderia ubonensis
+SRR28476465	pos	relaxed	NA	120	120	S	488732	Burkholderia diffusa
+SRR28476465	pos	relaxed	NA	89	89	S	60550	Burkholderia pyrrocinia
+SRR28476465	pos	relaxed	NA	79	79	S	1207504	Burkholderia pseudomultivorans
+SRR28476465	pos	relaxed	NA	75	75	S	482957	Burkholderia lata
+SRR28476465	pos	relaxed	NA	68	68	S	1503054	Burkholderia stagnalis
+SRR28476465	pos	relaxed	NA	62	62	S	488447	Burkholderia contaminans
+SRR28476465	pos	relaxed	NA	49	49	S	95485	Burkholderia stabilis
+SRR28476468	pos	relaxed	NA	361150	360277	S	1747	Cutibacterium acnes
+SRR28476468	pos	relaxed	NA	10577	10577	S	33011	Cutibacterium granulosum
+SRR28476468	pos	relaxed	NA	695	692	S	33010	Cutibacterium avidum
+SRR28476468	pos	relaxed	NA	401	401	S	2559073	Cutibacterium modestum
+SRR28476468	pos	relaxed	NA	132	132	S	3016342	Cutibacterium equinum
+SRR28476468	pos	relaxed	NA	664	664	S	1750	Arachnia propionica
+SRR28476468	pos	relaxed	NA	299	299	S	2161816	Tessaracoccus timonensis
+SRR28476468	pos	relaxed	NA	61	61	S	1610493	Tessaracoccus flavus
+SRR28476468	pos	relaxed	NA	60	60	S	2760310	Tessaracoccus sp. MC1865
+SRR28476468	pos	relaxed	NA	26	26	S	1285901	Tessaracoccus defluvii
+SRR28476468	pos	relaxed	NA	14	14	S	2829499	Tessaracoccus palaemonis
+SRR28476468	pos	relaxed	NA	1	1	S	399497	Tessaracoccus flavescens
+SRR28476468	pos	relaxed	NA	350	350	S	119981	Propionibacterium australiense
+SRR28476468	pos	relaxed	NA	120	120	S	556499	Propionibacterium acidifaciens
+SRR28476468	pos	relaxed	NA	7	7	S	1744	Propionibacterium freudenreichii
+SRR28476468	pos	relaxed	NA	94	94	S	546874	Microlunatus sagamiharensis
+SRR28476468	pos	relaxed	NA	36	36	S	630515	Microlunatus soli
+SRR28476468	pos	relaxed	NA	10	0	S	29405	Microlunatus phosphovorus
+SRR28476468	pos	relaxed	NA	2	2	S	2596828	Microlunatus elymi
+SRR28476468	pos	relaxed	NA	62	62	S	2714937	Propioniciclava coleopterorum
+SRR28476470	pos	relaxed	NA	95686	95532	S	1747	Cutibacterium acnes
+SRR28476470	pos	relaxed	NA	796	796	S	33011	Cutibacterium granulosum
+SRR28476470	pos	relaxed	NA	120	120	S	33010	Cutibacterium avidum
+SRR28476470	pos	relaxed	NA	89	89	S	2559073	Cutibacterium modestum
+SRR28476470	pos	relaxed	NA	47	47	S	3016342	Cutibacterium equinum
+SRR28476470	pos	relaxed	NA	149	149	S	1750	Arachnia propionica
+SRR28476470	pos	relaxed	NA	96	96	S	119981	Propionibacterium australiense
+SRR28476470	pos	relaxed	NA	3	3	S	556499	Propionibacterium acidifaciens
+SRR28476470	pos	relaxed	NA	26	26	S	2775081	Propioniciclava soli
+SRR28476470	pos	relaxed	NA	25	25	S	1748	Acidipropionibacterium acidipropionici
+SRR28476470	pos	relaxed	NA	2	2	S	2057246	Acidipropionibacterium virtanenii
+SRR28476470	pos	relaxed	NA	1	1	S	1749	Acidipropionibacterium jensenii
+SRR28476470	pos	relaxed	NA	9	9	S	546874	Microlunatus sagamiharensis
+SRR28476470	pos	relaxed	NA	9	9	S	630515	Microlunatus soli
+SRR28476470	pos	relaxed	NA	4	0	S	29405	Microlunatus phosphovorus
+SRR28476470	pos	relaxed	NA	4	4	S	2596828	Microlunatus elymi
+SRR28476470	pos	relaxed	NA	5	5	S	2760310	Tessaracoccus sp. MC1865
+SRR28476470	pos	relaxed	NA	1	1	S	1285901	Tessaracoccus defluvii
+SRR28476470	pos	relaxed	NA	1	1	S	1610493	Tessaracoccus flavus
+SRR28476470	pos	relaxed	NA	1	1	S	2161816	Tessaracoccus timonensis
+SRR28476472	pos	relaxed	NA	153889	153557	S	1747	Cutibacterium acnes
+SRR28476472	pos	relaxed	NA	2722	2722	S	33011	Cutibacterium granulosum
+SRR28476472	pos	relaxed	NA	138	138	S	33010	Cutibacterium avidum
+SRR28476472	pos	relaxed	NA	128	128	S	2559073	Cutibacterium modestum
+SRR28476472	pos	relaxed	NA	43	43	S	3016342	Cutibacterium equinum
+SRR28476472	pos	relaxed	NA	257	257	S	1750	Arachnia propionica
+SRR28476472	pos	relaxed	NA	216	216	S	119981	Propionibacterium australiense
+SRR28476472	pos	relaxed	NA	1	1	S	1744	Propionibacterium freudenreichii
+SRR28476472	pos	relaxed	NA	50	0	S	29405	Microlunatus phosphovorus
+SRR28476472	pos	relaxed	NA	37	37	S	546874	Microlunatus sagamiharensis
+SRR28476472	pos	relaxed	NA	13	13	S	630515	Microlunatus soli
+SRR28476472	pos	relaxed	NA	3	3	S	2596828	Microlunatus elymi
+SRR28476472	pos	relaxed	NA	20	20	S	1610493	Tessaracoccus flavus
+SRR28476472	pos	relaxed	NA	9	9	S	1285901	Tessaracoccus defluvii
+SRR28476472	pos	relaxed	NA	3	3	S	2161816	Tessaracoccus timonensis
+SRR28476472	pos	relaxed	NA	22	22	S	2775081	Propioniciclava soli
+SRR28476472	pos	relaxed	NA	9	9	S	2760308	Propioniciclava sp. MC1595
+SRR28476472	pos	relaxed	NA	23	23	S	675864	Auraticoccus monumenti
+SRR28476472	pos	relaxed	NA	16	16	S	1748	Acidipropionibacterium acidipropionici
+SRR28476472	pos	relaxed	NA	2	2	S	1749	Acidipropionibacterium jensenii
+SRR28476473	pos	relaxed	NA	1071	1071	S	2984843	Methylobacterium sp. FF17
+SRR28476473	pos	relaxed	NA	739	739	S	739141	Methylobacterium sp. XJLW
+SRR28476473	pos	relaxed	NA	69	69	S	2603276	Methylobacterium sp. WL1
+SRR28476473	pos	relaxed	NA	38	38	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476473	pos	relaxed	NA	17	17	S	925818	Methylobacterium sp. AMS5
+SRR28476473	pos	relaxed	NA	14	14	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476473	pos	relaxed	NA	1	1	S	2718876	Methylobacterium sp. SyP6R
+SRR28476473	pos	relaxed	NA	1	1	S	3138063	Methylobacterium sp. CB376
+SRR28476473	pos	relaxed	NA	460	460	S	410	Methylobacterium organophilum
+SRR28476473	pos	relaxed	NA	431	5	S	31998	Methylobacterium radiotolerans
+SRR28476473	pos	relaxed	NA	233	233	S	2202825	Methylobacterium durans
+SRR28476473	pos	relaxed	NA	215	215	S	107400	Methylobacterium fujisawaense
+SRR28476473	pos	relaxed	NA	184	0	S	334852	Methylobacterium oryzae
+SRR28476473	pos	relaxed	NA	173	173	S	374432	Methylobacterium tardum
+SRR28476473	pos	relaxed	NA	158	158	S	570505	Methylobacterium bullatum
+SRR28476473	pos	relaxed	NA	139	139	S	2202828	Methylobacterium radiodurans
+SRR28476473	pos	relaxed	NA	107	107	S	269660	Methylobacterium brachiatum
+SRR28476473	pos	relaxed	NA	81	81	S	2051553	Methylobacterium currus
+SRR28476473	pos	relaxed	NA	18	0	S	39956	Methylobacterium mesophilicum
+SRR28476473	pos	relaxed	NA	13	0	S	114616	Methylobacterium nodulans
+SRR28476475	pos	relaxed	NA	168660	168215	S	1747	Cutibacterium acnes
+SRR28476475	pos	relaxed	NA	4899	4899	S	33011	Cutibacterium granulosum
+SRR28476475	pos	relaxed	NA	1457	1457	S	2559073	Cutibacterium modestum
+SRR28476475	pos	relaxed	NA	255	254	S	33010	Cutibacterium avidum
+SRR28476475	pos	relaxed	NA	43	43	S	3016342	Cutibacterium equinum
+SRR28476475	pos	relaxed	NA	330	330	S	546874	Microlunatus sagamiharensis
+SRR28476475	pos	relaxed	NA	22	0	S	29405	Microlunatus phosphovorus
+SRR28476475	pos	relaxed	NA	18	18	S	2596828	Microlunatus elymi
+SRR28476475	pos	relaxed	NA	16	16	S	630515	Microlunatus soli
+SRR28476475	pos	relaxed	NA	1	1	S	2672569	Microlunatus sp. Gsoil 973
+SRR28476475	pos	relaxed	NA	192	192	S	1750	Arachnia propionica
+SRR28476475	pos	relaxed	NA	20	20	S	1547448	Arachnia rubra
+SRR28476475	pos	relaxed	NA	87	87	S	1610493	Tessaracoccus flavus
+SRR28476475	pos	relaxed	NA	14	14	S	2161816	Tessaracoccus timonensis
+SRR28476475	pos	relaxed	NA	13	13	S	1285901	Tessaracoccus defluvii
+SRR28476475	pos	relaxed	NA	3	3	S	399497	Tessaracoccus flavescens
+SRR28476475	pos	relaxed	NA	3	3	S	1332264	Tessaracoccus aquimaris
+SRR28476475	pos	relaxed	NA	1	1	S	2760310	Tessaracoccus sp. MC1865
+SRR28476475	pos	relaxed	NA	1	1	S	3041766	Tessaracoccus sp. T21
+SRR28476475	pos	relaxed	NA	53	53	S	119981	Propionibacterium australiense
+SRR28476476	pos	relaxed	NA	66893	66685	S	1747	Cutibacterium acnes
+SRR28476476	pos	relaxed	NA	1761	1761	S	33011	Cutibacterium granulosum
+SRR28476476	pos	relaxed	NA	598	598	S	2559073	Cutibacterium modestum
+SRR28476476	pos	relaxed	NA	103	103	S	33010	Cutibacterium avidum
+SRR28476476	pos	relaxed	NA	26	26	S	3016342	Cutibacterium equinum
+SRR28476476	pos	relaxed	NA	154	154	S	2775081	Propioniciclava soli
+SRR28476476	pos	relaxed	NA	33	33	S	2760308	Propioniciclava sp. MC1595
+SRR28476476	pos	relaxed	NA	3	3	S	2714937	Propioniciclava coleopterorum
+SRR28476476	pos	relaxed	NA	67	67	S	1610493	Tessaracoccus flavus
+SRR28476476	pos	relaxed	NA	29	29	S	2161816	Tessaracoccus timonensis
+SRR28476476	pos	relaxed	NA	9	9	S	2760310	Tessaracoccus sp. MC1865
+SRR28476476	pos	relaxed	NA	5	5	S	399497	Tessaracoccus flavescens
+SRR28476476	pos	relaxed	NA	2	2	S	1285901	Tessaracoccus defluvii
+SRR28476476	pos	relaxed	NA	55	55	S	546874	Microlunatus sagamiharensis
+SRR28476476	pos	relaxed	NA	19	19	S	2596828	Microlunatus elymi
+SRR28476476	pos	relaxed	NA	9	9	S	630515	Microlunatus soli
+SRR28476476	pos	relaxed	NA	4	0	S	29405	Microlunatus phosphovorus
+SRR28476476	pos	relaxed	NA	82	82	S	1750	Arachnia propionica
+SRR28476476	pos	relaxed	NA	1	1	S	1547448	Arachnia rubra
+SRR28476476	pos	relaxed	NA	49	49	S	1744	Propionibacterium freudenreichii
+SRR28476482	pos	relaxed	NA	896937	896937	S	9606	Homo sapiens
+SRR28476482	pos	relaxed	NA	1	1	S	5763	Naegleria fowleri
+SRR28476482	pos	relaxed	NA	245	245	S	739141	Methylobacterium sp. XJLW
+SRR28476482	pos	relaxed	NA	202	202	S	2984843	Methylobacterium sp. FF17
+SRR28476482	pos	relaxed	NA	41	41	S	2603276	Methylobacterium sp. WL1
+SRR28476482	pos	relaxed	NA	6	6	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476482	pos	relaxed	NA	203	8	S	31998	Methylobacterium radiotolerans
+SRR28476482	pos	relaxed	NA	124	124	S	410	Methylobacterium organophilum
+SRR28476482	pos	relaxed	NA	66	66	S	2202825	Methylobacterium durans
+SRR28476482	pos	relaxed	NA	53	53	S	2202828	Methylobacterium radiodurans
+SRR28476482	pos	relaxed	NA	51	51	S	570505	Methylobacterium bullatum
+SRR28476482	pos	relaxed	NA	49	4	S	334852	Methylobacterium oryzae
+SRR28476482	pos	relaxed	NA	43	43	S	374432	Methylobacterium tardum
+SRR28476482	pos	relaxed	NA	33	33	S	107400	Methylobacterium fujisawaense
+SRR28476482	pos	relaxed	NA	10	10	S	269660	Methylobacterium brachiatum
+SRR28476482	pos	relaxed	NA	10	10	S	270351	Methylobacterium aquaticum
+SRR28476482	pos	relaxed	NA	10	10	S	2051553	Methylobacterium currus
+SRR28476482	pos	relaxed	NA	8	8	S	418223	Methylobacterium phyllosphaerae
+SRR28476482	pos	relaxed	NA	6	0	S	114616	Methylobacterium nodulans
+SRR28476482	pos	relaxed	NA	6	6	S	2202827	Methylobacterium terrae
+SRR28476484	pos	relaxed	NA	2017	2017	S	2984843	Methylobacterium sp. FF17
+SRR28476484	pos	relaxed	NA	1181	1181	S	739141	Methylobacterium sp. XJLW
+SRR28476484	pos	relaxed	NA	116	116	S	2603276	Methylobacterium sp. WL1
+SRR28476484	pos	relaxed	NA	17	17	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476484	pos	relaxed	NA	16	16	S	925818	Methylobacterium sp. AMS5
+SRR28476484	pos	relaxed	NA	16	16	S	2894310	Methylobacterium sp. NMS14P
+SRR28476484	pos	relaxed	NA	12	12	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476484	pos	relaxed	NA	7	7	S	2718876	Methylobacterium sp. SyP6R
+SRR28476484	pos	relaxed	NA	6	6	S	1479019	Methylobacterium sp. C1
+SRR28476484	pos	relaxed	NA	1	1	S	3138063	Methylobacterium sp. CB376
+SRR28476484	pos	relaxed	NA	1012	1012	S	410	Methylobacterium organophilum
+SRR28476484	pos	relaxed	NA	810	6	S	31998	Methylobacterium radiotolerans
+SRR28476484	pos	relaxed	NA	341	341	S	107400	Methylobacterium fujisawaense
+SRR28476484	pos	relaxed	NA	306	306	S	570505	Methylobacterium bullatum
+SRR28476484	pos	relaxed	NA	295	295	S	2202825	Methylobacterium durans
+SRR28476484	pos	relaxed	NA	271	271	S	2202828	Methylobacterium radiodurans
+SRR28476484	pos	relaxed	NA	192	10	S	334852	Methylobacterium oryzae
+SRR28476484	pos	relaxed	NA	180	180	S	374432	Methylobacterium tardum
+SRR28476484	pos	relaxed	NA	157	157	S	269660	Methylobacterium brachiatum
+SRR28476484	pos	relaxed	NA	32	32	S	2202827	Methylobacterium terrae
+SRR28476486	pos	relaxed	NA	1977	1977	S	2984843	Methylobacterium sp. FF17
+SRR28476486	pos	relaxed	NA	1077	1077	S	739141	Methylobacterium sp. XJLW
+SRR28476486	pos	relaxed	NA	105	105	S	2603276	Methylobacterium sp. WL1
+SRR28476486	pos	relaxed	NA	11	11	S	2894310	Methylobacterium sp. NMS14P
+SRR28476486	pos	relaxed	NA	7	7	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476486	pos	relaxed	NA	1	1	S	925818	Methylobacterium sp. AMS5
+SRR28476486	pos	relaxed	NA	1190	1190	S	410	Methylobacterium organophilum
+SRR28476486	pos	relaxed	NA	695	0	S	31998	Methylobacterium radiotolerans
+SRR28476486	pos	relaxed	NA	548	548	S	2202825	Methylobacterium durans
+SRR28476486	pos	relaxed	NA	397	0	S	114616	Methylobacterium nodulans
+SRR28476486	pos	relaxed	NA	370	370	S	2202828	Methylobacterium radiodurans
+SRR28476486	pos	relaxed	NA	343	343	S	2051553	Methylobacterium currus
+SRR28476486	pos	relaxed	NA	258	258	S	570505	Methylobacterium bullatum
+SRR28476486	pos	relaxed	NA	155	155	S	107400	Methylobacterium fujisawaense
+SRR28476486	pos	relaxed	NA	125	0	S	334852	Methylobacterium oryzae
+SRR28476486	pos	relaxed	NA	122	122	S	374432	Methylobacterium tardum
+SRR28476486	pos	relaxed	NA	117	117	S	269660	Methylobacterium brachiatum
+SRR28476486	pos	relaxed	NA	50	50	S	2202827	Methylobacterium terrae
+SRR28476486	pos	relaxed	NA	21	21	S	270351	Methylobacterium aquaticum
+SRR28476486	pos	relaxed	NA	13	0	S	39956	Methylobacterium mesophilicum
+SRR28476487	pos	relaxed	NA	34045	33918	S	1747	Cutibacterium acnes
+SRR28476487	pos	relaxed	NA	1153	1153	S	33011	Cutibacterium granulosum
+SRR28476487	pos	relaxed	NA	193	193	S	33010	Cutibacterium avidum
+SRR28476487	pos	relaxed	NA	64	64	S	2559073	Cutibacterium modestum
+SRR28476487	pos	relaxed	NA	5	5	S	3016342	Cutibacterium equinum
+SRR28476487	pos	relaxed	NA	65	65	S	1610493	Tessaracoccus flavus
+SRR28476487	pos	relaxed	NA	16	16	S	2760310	Tessaracoccus sp. MC1865
+SRR28476487	pos	relaxed	NA	11	11	S	2161816	Tessaracoccus timonensis
+SRR28476487	pos	relaxed	NA	5	5	S	399497	Tessaracoccus flavescens
+SRR28476487	pos	relaxed	NA	22	22	S	546874	Microlunatus sagamiharensis
+SRR28476487	pos	relaxed	NA	7	7	S	630515	Microlunatus soli
+SRR28476487	pos	relaxed	NA	1	1	S	2596828	Microlunatus elymi
+SRR28476487	pos	relaxed	NA	29	29	S	119981	Propionibacterium australiense
+SRR28476487	pos	relaxed	NA	15	15	S	1744	Propionibacterium freudenreichii
+SRR28476487	pos	relaxed	NA	14	14	S	556499	Propionibacterium acidifaciens
+SRR28476487	pos	relaxed	NA	30	30	S	1750	Arachnia propionica
+SRR28476487	pos	relaxed	NA	7	7	S	1547448	Arachnia rubra
+SRR28476487	pos	relaxed	NA	16	16	S	2057246	Acidipropionibacterium virtanenii
+SRR28476487	pos	relaxed	NA	10	10	S	1748	Acidipropionibacterium acidipropionici
+SRR28476487	pos	relaxed	NA	6	6	S	1749	Acidipropionibacterium jensenii
+SRR28476489	pos	relaxed	NA	1978	1978	S	739141	Methylobacterium sp. XJLW
+SRR28476489	pos	relaxed	NA	1605	1605	S	2984843	Methylobacterium sp. FF17
+SRR28476489	pos	relaxed	NA	247	247	S	925818	Methylobacterium sp. AMS5
+SRR28476489	pos	relaxed	NA	103	103	S	2603276	Methylobacterium sp. WL1
+SRR28476489	pos	relaxed	NA	23	23	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476489	pos	relaxed	NA	23	23	S	2894310	Methylobacterium sp. NMS14P
+SRR28476489	pos	relaxed	NA	19	19	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476489	pos	relaxed	NA	2	2	S	2718876	Methylobacterium sp. SyP6R
+SRR28476489	pos	relaxed	NA	1	1	S	1479019	Methylobacterium sp. C1
+SRR28476489	pos	relaxed	NA	1246	0	S	31998	Methylobacterium radiotolerans
+SRR28476489	pos	relaxed	NA	1047	1047	S	410	Methylobacterium organophilum
+SRR28476489	pos	relaxed	NA	697	697	S	570505	Methylobacterium bullatum
+SRR28476489	pos	relaxed	NA	622	622	S	2202825	Methylobacterium durans
+SRR28476489	pos	relaxed	NA	485	485	S	107400	Methylobacterium fujisawaense
+SRR28476489	pos	relaxed	NA	415	415	S	269660	Methylobacterium brachiatum
+SRR28476489	pos	relaxed	NA	345	345	S	2202828	Methylobacterium radiodurans
+SRR28476489	pos	relaxed	NA	322	16	S	334852	Methylobacterium oryzae
+SRR28476489	pos	relaxed	NA	270	270	S	374432	Methylobacterium tardum
+SRR28476489	pos	relaxed	NA	81	0	S	114616	Methylobacterium nodulans
+SRR28476489	pos	relaxed	NA	59	59	S	418223	Methylobacterium phyllosphaerae
+SRR28476492	pos	relaxed	NA	2986	1130	S	28450	Burkholderia pseudomallei
+SRR28476492	pos	relaxed	NA	1475	312	S	57975	Burkholderia thailandensis
+SRR28476492	pos	relaxed	NA	520	517	S	13373	Burkholderia mallei
+SRR28476492	pos	relaxed	NA	101	101	S	1385591	Burkholderia mayonis
+SRR28476492	pos	relaxed	NA	78	78	S	342113	Burkholderia oklahomensis
+SRR28476492	pos	relaxed	NA	39	39	S	1503053	Burkholderia singularis
+SRR28476492	pos	relaxed	NA	1	1	S	430531	Burkholderia humptydooensis
+SRR28476492	pos	relaxed	NA	1	1	S	1637837	Burkholderia savannae
+SRR28476492	pos	relaxed	NA	1295	1295	S	87883	Burkholderia multivorans
+SRR28476492	pos	relaxed	NA	772	772	S	60552	Burkholderia vietnamiensis
+SRR28476492	pos	relaxed	NA	608	549	S	95486	Burkholderia cenocepacia
+SRR28476492	pos	relaxed	NA	522	522	S	152480	Burkholderia ambifaria
+SRR28476492	pos	relaxed	NA	323	125	S	292	Burkholderia cepacia
+SRR28476492	pos	relaxed	NA	187	187	S	488732	Burkholderia diffusa
+SRR28476492	pos	relaxed	NA	182	111	S	101571	Burkholderia ubonensis
+SRR28476492	pos	relaxed	NA	110	110	S	60550	Burkholderia pyrrocinia
+SRR28476492	pos	relaxed	NA	86	86	S	482957	Burkholderia lata
+SRR28476492	pos	relaxed	NA	83	83	S	488447	Burkholderia contaminans
+SRR28476492	pos	relaxed	NA	51	51	S	1503054	Burkholderia stagnalis
+SRR28476492	pos	relaxed	NA	45	45	S	95485	Burkholderia stabilis
+SRR28476493	pos	relaxed	NA	177279	176808	S	1747	Cutibacterium acnes
+SRR28476493	pos	relaxed	NA	2160	2160	S	33011	Cutibacterium granulosum
+SRR28476493	pos	relaxed	NA	345	345	S	2559073	Cutibacterium modestum
+SRR28476493	pos	relaxed	NA	94	94	S	33010	Cutibacterium avidum
+SRR28476493	pos	relaxed	NA	84	84	S	3016342	Cutibacterium equinum
+SRR28476493	pos	relaxed	NA	470	470	S	556499	Propionibacterium acidifaciens
+SRR28476493	pos	relaxed	NA	44	44	S	119981	Propionibacterium australiense
+SRR28476493	pos	relaxed	NA	12	12	S	1744	Propionibacterium freudenreichii
+SRR28476493	pos	relaxed	NA	323	323	S	1750	Arachnia propionica
+SRR28476493	pos	relaxed	NA	3	3	S	1547448	Arachnia rubra
+SRR28476493	pos	relaxed	NA	77	0	S	29405	Microlunatus phosphovorus
+SRR28476493	pos	relaxed	NA	68	68	S	2596828	Microlunatus elymi
+SRR28476493	pos	relaxed	NA	52	52	S	546874	Microlunatus sagamiharensis
+SRR28476493	pos	relaxed	NA	38	38	S	630515	Microlunatus soli
+SRR28476493	pos	relaxed	NA	1	1	S	2672569	Microlunatus sp. Gsoil 973
+SRR28476493	pos	relaxed	NA	157	157	S	2775081	Propioniciclava soli
+SRR28476493	pos	relaxed	NA	9	9	S	2760308	Propioniciclava sp. MC1595
+SRR28476493	pos	relaxed	NA	6	6	S	2714937	Propioniciclava coleopterorum
+SRR28476493	pos	relaxed	NA	24	24	S	2161816	Tessaracoccus timonensis
+SRR28476493	pos	relaxed	NA	21	21	S	1610493	Tessaracoccus flavus
+SRR28476496	pos	relaxed	NA	2508	955	S	28450	Burkholderia pseudomallei
+SRR28476496	pos	relaxed	NA	1141	201	S	57975	Burkholderia thailandensis
+SRR28476496	pos	relaxed	NA	389	384	S	13373	Burkholderia mallei
+SRR28476496	pos	relaxed	NA	88	88	S	1385591	Burkholderia mayonis
+SRR28476496	pos	relaxed	NA	45	45	S	342113	Burkholderia oklahomensis
+SRR28476496	pos	relaxed	NA	19	19	S	1503053	Burkholderia singularis
+SRR28476496	pos	relaxed	NA	4	4	S	1637837	Burkholderia savannae
+SRR28476496	pos	relaxed	NA	955	955	S	87883	Burkholderia multivorans
+SRR28476496	pos	relaxed	NA	608	608	S	60552	Burkholderia vietnamiensis
+SRR28476496	pos	relaxed	NA	485	485	S	152480	Burkholderia ambifaria
+SRR28476496	pos	relaxed	NA	432	400	S	95486	Burkholderia cenocepacia
+SRR28476496	pos	relaxed	NA	237	102	S	292	Burkholderia cepacia
+SRR28476496	pos	relaxed	NA	165	75	S	101571	Burkholderia ubonensis
+SRR28476496	pos	relaxed	NA	113	113	S	488732	Burkholderia diffusa
+SRR28476496	pos	relaxed	NA	83	83	S	60550	Burkholderia pyrrocinia
+SRR28476496	pos	relaxed	NA	67	67	S	482957	Burkholderia lata
+SRR28476496	pos	relaxed	NA	66	66	S	1503054	Burkholderia stagnalis
+SRR28476496	pos	relaxed	NA	52	52	S	179879	Burkholderia anthina
+SRR28476496	pos	relaxed	NA	45	45	S	1207504	Burkholderia pseudomultivorans
+SRR28476496	pos	relaxed	NA	40	40	S	95485	Burkholderia stabilis
+SRR28476499	pos	relaxed	NA	6090	6090	S	87883	Burkholderia multivorans
+SRR28476499	pos	relaxed	NA	2616	2616	S	60552	Burkholderia vietnamiensis
+SRR28476499	pos	relaxed	NA	1714	1714	S	152480	Burkholderia ambifaria
+SRR28476499	pos	relaxed	NA	1506	1314	S	95486	Burkholderia cenocepacia
+SRR28476499	pos	relaxed	NA	958	401	S	292	Burkholderia cepacia
+SRR28476499	pos	relaxed	NA	898	573	S	101571	Burkholderia ubonensis
+SRR28476499	pos	relaxed	NA	611	611	S	488732	Burkholderia diffusa
+SRR28476499	pos	relaxed	NA	412	412	S	1503054	Burkholderia stagnalis
+SRR28476499	pos	relaxed	NA	318	318	S	60550	Burkholderia pyrrocinia
+SRR28476499	pos	relaxed	NA	232	232	S	1207504	Burkholderia pseudomultivorans
+SRR28476499	pos	relaxed	NA	229	229	S	95485	Burkholderia stabilis
+SRR28476499	pos	relaxed	NA	202	202	S	488447	Burkholderia contaminans
+SRR28476499	pos	relaxed	NA	186	186	S	488446	Burkholderia latens
+SRR28476499	pos	relaxed	NA	171	171	S	482957	Burkholderia lata
+SRR28476499	pos	relaxed	NA	157	157	S	179879	Burkholderia anthina
+SRR28476499	pos	relaxed	NA	136	136	S	1503055	Burkholderia territorii
+SRR28476499	pos	relaxed	NA	114	114	S	152500	Burkholderia dolosa
+SRR28476499	pos	relaxed	NA	88	88	S	488729	Burkholderia metallica
+SRR28476499	pos	relaxed	NA	46	46	S	488731	Burkholderia seminalis
+SRR28476499	pos	relaxed	NA	28	28	S	488730	Burkholderia arboris
+SRR28476500	pos	relaxed	NA	799	799	S	2984843	Methylobacterium sp. FF17
+SRR28476500	pos	relaxed	NA	597	597	S	739141	Methylobacterium sp. XJLW
+SRR28476500	pos	relaxed	NA	52	52	S	2603276	Methylobacterium sp. WL1
+SRR28476500	pos	relaxed	NA	33	33	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476500	pos	relaxed	NA	13	13	S	925818	Methylobacterium sp. AMS5
+SRR28476500	pos	relaxed	NA	3	3	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476500	pos	relaxed	NA	2	2	S	1479019	Methylobacterium sp. C1
+SRR28476500	pos	relaxed	NA	1	1	S	2894310	Methylobacterium sp. NMS14P
+SRR28476500	pos	relaxed	NA	396	396	S	410	Methylobacterium organophilum
+SRR28476500	pos	relaxed	NA	338	4	S	31998	Methylobacterium radiotolerans
+SRR28476500	pos	relaxed	NA	201	201	S	2202825	Methylobacterium durans
+SRR28476500	pos	relaxed	NA	138	138	S	107400	Methylobacterium fujisawaense
+SRR28476500	pos	relaxed	NA	119	119	S	2202828	Methylobacterium radiodurans
+SRR28476500	pos	relaxed	NA	93	0	S	334852	Methylobacterium oryzae
+SRR28476500	pos	relaxed	NA	75	75	S	269660	Methylobacterium brachiatum
+SRR28476500	pos	relaxed	NA	70	70	S	570505	Methylobacterium bullatum
+SRR28476500	pos	relaxed	NA	60	60	S	374432	Methylobacterium tardum
+SRR28476500	pos	relaxed	NA	37	37	S	270351	Methylobacterium aquaticum
+SRR28476500	pos	relaxed	NA	30	30	S	418223	Methylobacterium phyllosphaerae
+SRR28476500	pos	relaxed	NA	26	0	S	114616	Methylobacterium nodulans
+SRR28476505	pos	relaxed	NA	638605	638605	S	29442	Pseudomonas tolaasii
+SRR28476505	pos	relaxed	NA	226	208	S	294	Pseudomonas fluorescens
+SRR28476505	pos	relaxed	NA	24	24	S	76760	Pseudomonas rhodesiae
+SRR28476505	pos	relaxed	NA	6	6	S	198620	Pseudomonas koreensis
+SRR28476505	pos	relaxed	NA	5	5	S	76761	Pseudomonas veronii
+SRR28476505	pos	relaxed	NA	3	3	S	200451	Pseudomonas poae
+SRR28476505	pos	relaxed	NA	2	2	S	298	Pseudomonas marginalis
+SRR28476505	pos	relaxed	NA	2	2	S	46679	Pseudomonas mucidolens
+SRR28476505	pos	relaxed	NA	1	1	S	47878	Pseudomonas azotoformans
+SRR28476505	pos	relaxed	NA	5797	5797	S	2892442	Pseudomonas sp. CIP-10
+SRR28476505	pos	relaxed	NA	156	156	S	2986927	Pseudomonas sp. BT-42-2
+SRR28476505	pos	relaxed	NA	76	76	S	2954088	Pseudomonas sp. FP2262
+SRR28476505	pos	relaxed	NA	69	69	S	2954094	Pseudomonas sp. FP453
+SRR28476505	pos	relaxed	NA	37	37	S	2954099	Pseudomonas sp. FP818
+SRR28476505	pos	relaxed	NA	35	35	S	2479392	Pseudomonas sp. LTJR-52
+SRR28476505	pos	relaxed	NA	32	32	S	2895474	Pseudomonas sp. B21-017
+SRR28476505	pos	relaxed	NA	19	19	S	2559074	Pseudomonas sp. S150
+SRR28476505	pos	relaxed	NA	16	16	S	1207075	Pseudomonas sp. UW4
+SRR28476505	pos	relaxed	NA	13	13	S	2861799	Pseudomonas sp. Colony2
+SRR28476505	pos	relaxed	NA	13	13	S	2678260	Pseudomonas sp. Ost2
+SRR28476508	pos	relaxed	NA	15206	15206	S	34062	Moraxella osloensis
+SRR28476508	pos	relaxed	NA	472	472	S	90239	Moraxella canis
+SRR28476508	pos	relaxed	NA	170	170	S	29433	Moraxella ovis
+SRR28476508	pos	relaxed	NA	99	99	S	3076087	Moraxella sp. DOX410
+SRR28476508	pos	relaxed	NA	80	80	S	476	Moraxella bovis
+SRR28476508	pos	relaxed	NA	75	75	S	90241	Moraxella lincolnii
+SRR28476508	pos	relaxed	NA	29	29	S	478	Moraxella nonliquefaciens
+SRR28476508	pos	relaxed	NA	19	19	S	480	Moraxella catarrhalis
+SRR28476508	pos	relaxed	NA	6	6	S	2904122	Moraxella nasicaprae
+SRR28476508	pos	relaxed	NA	3	3	S	2904121	Moraxella nasovis
+SRR28476508	pos	relaxed	NA	1	1	S	386891	Moraxella bovoculi
+SRR28476508	pos	relaxed	NA	1	1	S	2904119	Moraxella haemolytica
+SRR28476508	pos	relaxed	NA	9601	9601	S	3064892	Psychrobacter sp. van23A
+SRR28476508	pos	relaxed	NA	2817	2817	S	1720344	Psychrobacter sp. AntiMn-1
+SRR28476508	pos	relaxed	NA	216	216	S	3043330	Psychrobacter sp. WB2
+SRR28476508	pos	relaxed	NA	67	67	S	1415574	Psychrobacter sp. LV10R520-6
+SRR28476508	pos	relaxed	NA	59	59	S	2517899	Psychrobacter sp. KH172YL61
+SRR28476508	pos	relaxed	NA	53	53	S	2733866	Psychrobacter sp. KCTC 72983
+SRR28476508	pos	relaxed	NA	52	52	S	3067275	Psychrobacter sp. M13
+SRR28476508	pos	relaxed	NA	46	46	S	2983299	Psychrobacter sp. SC65A.3
+SRR28476510	pos	relaxed	NA	7563	7563	S	3064892	Psychrobacter sp. van23A
+SRR28476510	pos	relaxed	NA	2372	2372	S	1720344	Psychrobacter sp. AntiMn-1
+SRR28476510	pos	relaxed	NA	274	274	S	3043330	Psychrobacter sp. WB2
+SRR28476510	pos	relaxed	NA	27	27	S	2517899	Psychrobacter sp. KH172YL61
+SRR28476510	pos	relaxed	NA	22	22	S	1028416	Psychrobacter sp. DAB_AL43B
+SRR28476510	pos	relaxed	NA	15	15	S	2708350	Psychrobacter sp. WY6
+SRR28476510	pos	relaxed	NA	11	11	S	2772254	Psychrobacter sp. 28M-43
+SRR28476510	pos	relaxed	NA	7	7	S	2733866	Psychrobacter sp. KCTC 72983
+SRR28476510	pos	relaxed	NA	6	6	S	1415574	Psychrobacter sp. LV10R520-6
+SRR28476510	pos	relaxed	NA	1	1	S	571800	Psychrobacter sp. G
+SRR28476510	pos	relaxed	NA	21	21	S	256326	Psychrobacter arenosus
+SRR28476510	pos	relaxed	NA	12	12	S	861445	Psychrobacter sanguinis
+SRR28476510	pos	relaxed	NA	2	2	S	45610	Psychrobacter urativorans
+SRR28476510	pos	relaxed	NA	1578	1578	S	34062	Moraxella osloensis
+SRR28476510	pos	relaxed	NA	305	305	S	90239	Moraxella canis
+SRR28476510	pos	relaxed	NA	70	70	S	478	Moraxella nonliquefaciens
+SRR28476510	pos	relaxed	NA	28	28	S	3076087	Moraxella sp. DOX410
+SRR28476510	pos	relaxed	NA	25	25	S	90241	Moraxella lincolnii
+SRR28476510	pos	relaxed	NA	13	13	S	476	Moraxella bovis
+SRR28476510	pos	relaxed	NA	6	6	S	480	Moraxella catarrhalis
+SRR28476511	pos	relaxed	NA	2553	2553	S	739141	Methylobacterium sp. XJLW
+SRR28476511	pos	relaxed	NA	1629	1629	S	2984843	Methylobacterium sp. FF17
+SRR28476511	pos	relaxed	NA	255	255	S	2603276	Methylobacterium sp. WL1
+SRR28476511	pos	relaxed	NA	71	71	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476511	pos	relaxed	NA	35	35	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476511	pos	relaxed	NA	10	10	S	925818	Methylobacterium sp. AMS5
+SRR28476511	pos	relaxed	NA	6	6	S	2894310	Methylobacterium sp. NMS14P
+SRR28476511	pos	relaxed	NA	5	5	S	3138063	Methylobacterium sp. CB376
+SRR28476511	pos	relaxed	NA	1357	1357	S	410	Methylobacterium organophilum
+SRR28476511	pos	relaxed	NA	1253	3	S	31998	Methylobacterium radiotolerans
+SRR28476511	pos	relaxed	NA	582	582	S	107400	Methylobacterium fujisawaense
+SRR28476511	pos	relaxed	NA	573	573	S	2202825	Methylobacterium durans
+SRR28476511	pos	relaxed	NA	511	511	S	374432	Methylobacterium tardum
+SRR28476511	pos	relaxed	NA	421	421	S	570505	Methylobacterium bullatum
+SRR28476511	pos	relaxed	NA	378	378	S	269660	Methylobacterium brachiatum
+SRR28476511	pos	relaxed	NA	353	353	S	2202828	Methylobacterium radiodurans
+SRR28476511	pos	relaxed	NA	302	12	S	334852	Methylobacterium oryzae
+SRR28476511	pos	relaxed	NA	83	83	S	2051553	Methylobacterium currus
+SRR28476511	pos	relaxed	NA	71	71	S	418223	Methylobacterium phyllosphaerae
+SRR28476511	pos	relaxed	NA	62	62	S	270351	Methylobacterium aquaticum
+SRR28476459	neg	strict	NA	8122	8120	S	87883	Burkholderia multivorans
+SRR28476459	neg	strict	NA	1807	780	S	292	Burkholderia cepacia
+SRR28476459	neg	strict	NA	1405	1405	S	152480	Burkholderia ambifaria
+SRR28476459	neg	strict	NA	1020	804	S	95486	Burkholderia cenocepacia
+SRR28476459	neg	strict	NA	881	881	S	60552	Burkholderia vietnamiensis
+SRR28476459	neg	strict	NA	606	606	S	60550	Burkholderia pyrrocinia
+SRR28476459	neg	strict	NA	407	407	S	482957	Burkholderia lata
+SRR28476459	neg	strict	NA	318	195	S	101571	Burkholderia ubonensis
+SRR28476459	neg	strict	NA	283	283	S	488732	Burkholderia diffusa
+SRR28476459	neg	strict	NA	213	213	S	1207504	Burkholderia pseudomultivorans
+SRR28476459	neg	strict	NA	199	199	S	488447	Burkholderia contaminans
+SRR28476459	neg	strict	NA	83	83	S	1503054	Burkholderia stagnalis
+SRR28476459	neg	strict	NA	82	82	S	179879	Burkholderia anthina
+SRR28476459	neg	strict	NA	81	81	S	1503055	Burkholderia territorii
+SRR28476459	neg	strict	NA	59	59	S	95485	Burkholderia stabilis
+SRR28476459	neg	strict	NA	42	42	S	152500	Burkholderia dolosa
+SRR28476459	neg	strict	NA	26	26	S	488446	Burkholderia latens
+SRR28476459	neg	strict	NA	19	19	S	488729	Burkholderia metallica
+SRR28476459	neg	strict	NA	3	3	S	488731	Burkholderia seminalis
+SRR28476459	neg	strict	NA	2	2	S	488730	Burkholderia arboris
+SRR28476460	neg	strict	NA	1521520	1519777	S	1747	Cutibacterium acnes
+SRR28476460	neg	strict	NA	26069	26069	S	33011	Cutibacterium granulosum
+SRR28476460	neg	strict	NA	1924	1924	S	2559073	Cutibacterium modestum
+SRR28476460	neg	strict	NA	1391	1391	S	33010	Cutibacterium avidum
+SRR28476460	neg	strict	NA	196	196	S	3016342	Cutibacterium equinum
+SRR28476460	neg	strict	NA	2745	2745	S	2760310	Tessaracoccus sp. MC1865
+SRR28476460	neg	strict	NA	19	19	S	1285901	Tessaracoccus defluvii
+SRR28476460	neg	strict	NA	14	14	S	1610493	Tessaracoccus flavus
+SRR28476460	neg	strict	NA	8	8	S	2161816	Tessaracoccus timonensis
+SRR28476460	neg	strict	NA	3	3	S	1332264	Tessaracoccus aquimaris
+SRR28476460	neg	strict	NA	2022	2022	S	1750	Arachnia propionica
+SRR28476460	neg	strict	NA	15	15	S	1547448	Arachnia rubra
+SRR28476460	neg	strict	NA	152	152	S	546874	Microlunatus sagamiharensis
+SRR28476460	neg	strict	NA	119	119	S	630515	Microlunatus soli
+SRR28476460	neg	strict	NA	34	0	S	29405	Microlunatus phosphovorus
+SRR28476460	neg	strict	NA	30	30	S	2596828	Microlunatus elymi
+SRR28476460	neg	strict	NA	148	148	S	1748	Acidipropionibacterium acidipropionici
+SRR28476460	neg	strict	NA	99	99	S	1749	Acidipropionibacterium jensenii
+SRR28476460	neg	strict	NA	61	61	S	2057246	Acidipropionibacterium virtanenii
+SRR28476460	neg	strict	NA	251	251	S	119981	Propionibacterium australiense
+SRR28476461	neg	strict	NA	99196	98832	S	1747	Cutibacterium acnes
+SRR28476461	neg	strict	NA	2052	2052	S	33011	Cutibacterium granulosum
+SRR28476461	neg	strict	NA	280	280	S	2559073	Cutibacterium modestum
+SRR28476461	neg	strict	NA	223	213	S	33010	Cutibacterium avidum
+SRR28476461	neg	strict	NA	70	70	S	3016342	Cutibacterium equinum
+SRR28476461	neg	strict	NA	542	542	S	2662261	Raineyella fluvialis
+SRR28476461	neg	strict	NA	7	7	S	3081204	Raineyella sp. LH-20
+SRR28476461	neg	strict	NA	3	3	S	3081651	Raineyella sp. W15-4
+SRR28476461	neg	strict	NA	137	137	S	546874	Microlunatus sagamiharensis
+SRR28476461	neg	strict	NA	84	0	S	29405	Microlunatus phosphovorus
+SRR28476461	neg	strict	NA	49	49	S	2596828	Microlunatus elymi
+SRR28476461	neg	strict	NA	26	26	S	630515	Microlunatus soli
+SRR28476461	neg	strict	NA	284	284	S	2760310	Tessaracoccus sp. MC1865
+SRR28476461	neg	strict	NA	5	5	S	3041766	Tessaracoccus sp. T21
+SRR28476461	neg	strict	NA	43	43	S	2161816	Tessaracoccus timonensis
+SRR28476461	neg	strict	NA	38	38	S	1610493	Tessaracoccus flavus
+SRR28476461	neg	strict	NA	9	9	S	1332264	Tessaracoccus aquimaris
+SRR28476461	neg	strict	NA	2	2	S	1285901	Tessaracoccus defluvii
+SRR28476461	neg	strict	NA	1	1	S	399497	Tessaracoccus flavescens
+SRR28476461	neg	strict	NA	136	136	S	556499	Propionibacterium acidifaciens
+SRR28476466	neg	strict	NA	13338	6885	S	28450	Burkholderia pseudomallei
+SRR28476466	neg	strict	NA	5913	1275	S	57975	Burkholderia thailandensis
+SRR28476466	neg	strict	NA	1893	1871	S	13373	Burkholderia mallei
+SRR28476466	neg	strict	NA	529	528	S	342113	Burkholderia oklahomensis
+SRR28476466	neg	strict	NA	338	338	S	1385591	Burkholderia mayonis
+SRR28476466	neg	strict	NA	76	76	S	1503053	Burkholderia singularis
+SRR28476466	neg	strict	NA	6	6	S	1637837	Burkholderia savannae
+SRR28476466	neg	strict	NA	2	2	S	430531	Burkholderia humptydooensis
+SRR28476466	neg	strict	NA	8189	8188	S	87883	Burkholderia multivorans
+SRR28476466	neg	strict	NA	2924	1203	S	292	Burkholderia cepacia
+SRR28476466	neg	strict	NA	2249	2245	S	152480	Burkholderia ambifaria
+SRR28476466	neg	strict	NA	1892	1534	S	95486	Burkholderia cenocepacia
+SRR28476466	neg	strict	NA	1843	1843	S	60552	Burkholderia vietnamiensis
+SRR28476466	neg	strict	NA	962	962	S	60550	Burkholderia pyrrocinia
+SRR28476466	neg	strict	NA	625	625	S	482957	Burkholderia lata
+SRR28476466	neg	strict	NA	595	352	S	101571	Burkholderia ubonensis
+SRR28476466	neg	strict	NA	562	562	S	488732	Burkholderia diffusa
+SRR28476466	neg	strict	NA	433	433	S	488447	Burkholderia contaminans
+SRR28476466	neg	strict	NA	394	394	S	1207504	Burkholderia pseudomultivorans
+SRR28476466	neg	strict	NA	178	178	S	1503054	Burkholderia stagnalis
+SRR28476467	neg	strict	NA	9073	4535	S	28450	Burkholderia pseudomallei
+SRR28476467	neg	strict	NA	4029	811	S	57975	Burkholderia thailandensis
+SRR28476467	neg	strict	NA	1295	1287	S	13373	Burkholderia mallei
+SRR28476467	neg	strict	NA	313	311	S	342113	Burkholderia oklahomensis
+SRR28476467	neg	strict	NA	179	179	S	1385591	Burkholderia mayonis
+SRR28476467	neg	strict	NA	58	58	S	1503053	Burkholderia singularis
+SRR28476467	neg	strict	NA	3	3	S	430531	Burkholderia humptydooensis
+SRR28476467	neg	strict	NA	2	2	S	1637837	Burkholderia savannae
+SRR28476467	neg	strict	NA	3613	3612	S	87883	Burkholderia multivorans
+SRR28476467	neg	strict	NA	2022	864	S	292	Burkholderia cepacia
+SRR28476467	neg	strict	NA	1699	1698	S	152480	Burkholderia ambifaria
+SRR28476467	neg	strict	NA	1229	1014	S	95486	Burkholderia cenocepacia
+SRR28476467	neg	strict	NA	1202	1202	S	60552	Burkholderia vietnamiensis
+SRR28476467	neg	strict	NA	646	646	S	60550	Burkholderia pyrrocinia
+SRR28476467	neg	strict	NA	439	439	S	482957	Burkholderia lata
+SRR28476467	neg	strict	NA	411	268	S	101571	Burkholderia ubonensis
+SRR28476467	neg	strict	NA	319	319	S	488732	Burkholderia diffusa
+SRR28476467	neg	strict	NA	308	308	S	1207504	Burkholderia pseudomultivorans
+SRR28476467	neg	strict	NA	299	299	S	488447	Burkholderia contaminans
+SRR28476467	neg	strict	NA	150	150	S	179879	Burkholderia anthina
+SRR28476469	neg	strict	NA	403820	402990	S	1747	Cutibacterium acnes
+SRR28476469	neg	strict	NA	12082	12082	S	33011	Cutibacterium granulosum
+SRR28476469	neg	strict	NA	1198	1185	S	33010	Cutibacterium avidum
+SRR28476469	neg	strict	NA	944	944	S	2559073	Cutibacterium modestum
+SRR28476469	neg	strict	NA	394	394	S	3016342	Cutibacterium equinum
+SRR28476469	neg	strict	NA	641	641	S	2760310	Tessaracoccus sp. MC1865
+SRR28476469	neg	strict	NA	20	20	S	1332264	Tessaracoccus aquimaris
+SRR28476469	neg	strict	NA	16	16	S	1285901	Tessaracoccus defluvii
+SRR28476469	neg	strict	NA	10	10	S	399497	Tessaracoccus flavescens
+SRR28476469	neg	strict	NA	9	9	S	1610493	Tessaracoccus flavus
+SRR28476469	neg	strict	NA	3	3	S	2161816	Tessaracoccus timonensis
+SRR28476469	neg	strict	NA	430	430	S	1750	Arachnia propionica
+SRR28476469	neg	strict	NA	4	4	S	1547448	Arachnia rubra
+SRR28476469	neg	strict	NA	207	207	S	119981	Propionibacterium australiense
+SRR28476469	neg	strict	NA	183	183	S	556499	Propionibacterium acidifaciens
+SRR28476469	neg	strict	NA	34	34	S	1744	Propionibacterium freudenreichii
+SRR28476469	neg	strict	NA	236	236	S	3041175	Brooklawnia propionicigenes
+SRR28476469	neg	strict	NA	43	43	S	546874	Microlunatus sagamiharensis
+SRR28476469	neg	strict	NA	35	35	S	630515	Microlunatus soli
+SRR28476469	neg	strict	NA	17	0	S	29405	Microlunatus phosphovorus
+SRR28476471	neg	strict	NA	2528	2528	S	2984843	Methylobacterium sp. FF17
+SRR28476471	neg	strict	NA	1483	1483	S	739141	Methylobacterium sp. XJLW
+SRR28476471	neg	strict	NA	442	442	S	3138063	Methylobacterium sp. CB376
+SRR28476471	neg	strict	NA	260	260	S	2603276	Methylobacterium sp. WL1
+SRR28476471	neg	strict	NA	38	38	S	2894310	Methylobacterium sp. NMS14P
+SRR28476471	neg	strict	NA	32	32	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476471	neg	strict	NA	13	13	S	925818	Methylobacterium sp. AMS5
+SRR28476471	neg	strict	NA	13	13	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476471	neg	strict	NA	6	6	S	409	Methylobacterium sp.
+SRR28476471	neg	strict	NA	2	2	S	2718876	Methylobacterium sp. SyP6R
+SRR28476471	neg	strict	NA	1315	1315	S	107400	Methylobacterium fujisawaense
+SRR28476471	neg	strict	NA	1029	1029	S	410	Methylobacterium organophilum
+SRR28476471	neg	strict	NA	937	937	S	2202825	Methylobacterium durans
+SRR28476471	neg	strict	NA	671	42	S	31998	Methylobacterium radiotolerans
+SRR28476471	neg	strict	NA	587	587	S	570505	Methylobacterium bullatum
+SRR28476471	neg	strict	NA	474	474	S	374432	Methylobacterium tardum
+SRR28476471	neg	strict	NA	408	0	S	334852	Methylobacterium oryzae
+SRR28476471	neg	strict	NA	314	314	S	2202828	Methylobacterium radiodurans
+SRR28476471	neg	strict	NA	306	306	S	269660	Methylobacterium brachiatum
+SRR28476471	neg	strict	NA	117	117	S	270351	Methylobacterium aquaticum
+SRR28476479	neg	strict	NA	379234	378091	S	1747	Cutibacterium acnes
+SRR28476479	neg	strict	NA	10630	10630	S	33011	Cutibacterium granulosum
+SRR28476479	neg	strict	NA	1364	1364	S	2559073	Cutibacterium modestum
+SRR28476479	neg	strict	NA	627	624	S	33010	Cutibacterium avidum
+SRR28476479	neg	strict	NA	227	227	S	3016342	Cutibacterium equinum
+SRR28476479	neg	strict	NA	1542	1542	S	2760310	Tessaracoccus sp. MC1865
+SRR28476479	neg	strict	NA	1	1	S	3041766	Tessaracoccus sp. T21
+SRR28476479	neg	strict	NA	72	72	S	2161816	Tessaracoccus timonensis
+SRR28476479	neg	strict	NA	68	68	S	1610493	Tessaracoccus flavus
+SRR28476479	neg	strict	NA	26	26	S	399497	Tessaracoccus flavescens
+SRR28476479	neg	strict	NA	13	13	S	1285901	Tessaracoccus defluvii
+SRR28476479	neg	strict	NA	4	4	S	1332264	Tessaracoccus aquimaris
+SRR28476479	neg	strict	NA	482	482	S	546874	Microlunatus sagamiharensis
+SRR28476479	neg	strict	NA	63	0	S	29405	Microlunatus phosphovorus
+SRR28476479	neg	strict	NA	60	60	S	630515	Microlunatus soli
+SRR28476479	neg	strict	NA	31	31	S	2596828	Microlunatus elymi
+SRR28476479	neg	strict	NA	19	19	S	2672569	Microlunatus sp. Gsoil 973
+SRR28476479	neg	strict	NA	336	336	S	1750	Arachnia propionica
+SRR28476479	neg	strict	NA	36	36	S	1547448	Arachnia rubra
+SRR28476479	neg	strict	NA	90	90	S	1744	Propionibacterium freudenreichii
+SRR28476481	neg	strict	NA	374404	373365	S	1747	Cutibacterium acnes
+SRR28476481	neg	strict	NA	9866	9866	S	33011	Cutibacterium granulosum
+SRR28476481	neg	strict	NA	1661	1661	S	2559073	Cutibacterium modestum
+SRR28476481	neg	strict	NA	560	558	S	33010	Cutibacterium avidum
+SRR28476481	neg	strict	NA	427	427	S	3016342	Cutibacterium equinum
+SRR28476481	neg	strict	NA	1295	1295	S	2760310	Tessaracoccus sp. MC1865
+SRR28476481	neg	strict	NA	191	191	S	1610493	Tessaracoccus flavus
+SRR28476481	neg	strict	NA	70	70	S	2161816	Tessaracoccus timonensis
+SRR28476481	neg	strict	NA	28	28	S	399497	Tessaracoccus flavescens
+SRR28476481	neg	strict	NA	8	8	S	1285901	Tessaracoccus defluvii
+SRR28476481	neg	strict	NA	3	3	S	1332264	Tessaracoccus aquimaris
+SRR28476481	neg	strict	NA	373	373	S	546874	Microlunatus sagamiharensis
+SRR28476481	neg	strict	NA	191	0	S	29405	Microlunatus phosphovorus
+SRR28476481	neg	strict	NA	18	18	S	630515	Microlunatus soli
+SRR28476481	neg	strict	NA	13	13	S	2672569	Microlunatus sp. Gsoil 973
+SRR28476481	neg	strict	NA	12	12	S	2596828	Microlunatus elymi
+SRR28476481	neg	strict	NA	542	542	S	1750	Arachnia propionica
+SRR28476481	neg	strict	NA	113	113	S	1547448	Arachnia rubra
+SRR28476481	neg	strict	NA	365	365	S	2057246	Acidipropionibacterium virtanenii
+SRR28476481	neg	strict	NA	65	65	S	1748	Acidipropionibacterium acidipropionici
+SRR28476485	neg	strict	NA	228107	227569	S	1747	Cutibacterium acnes
+SRR28476485	neg	strict	NA	5852	5852	S	33011	Cutibacterium granulosum
+SRR28476485	neg	strict	NA	643	643	S	2559073	Cutibacterium modestum
+SRR28476485	neg	strict	NA	382	382	S	33010	Cutibacterium avidum
+SRR28476485	neg	strict	NA	143	143	S	3016342	Cutibacterium equinum
+SRR28476485	neg	strict	NA	561	561	S	2760310	Tessaracoccus sp. MC1865
+SRR28476485	neg	strict	NA	202	202	S	1610493	Tessaracoccus flavus
+SRR28476485	neg	strict	NA	27	27	S	2161816	Tessaracoccus timonensis
+SRR28476485	neg	strict	NA	21	21	S	1285901	Tessaracoccus defluvii
+SRR28476485	neg	strict	NA	2	2	S	399497	Tessaracoccus flavescens
+SRR28476485	neg	strict	NA	232	0	S	29405	Microlunatus phosphovorus
+SRR28476485	neg	strict	NA	81	81	S	546874	Microlunatus sagamiharensis
+SRR28476485	neg	strict	NA	30	30	S	2596828	Microlunatus elymi
+SRR28476485	neg	strict	NA	10	10	S	630515	Microlunatus soli
+SRR28476485	neg	strict	NA	122	122	S	2775081	Propioniciclava soli
+SRR28476485	neg	strict	NA	96	96	S	2714937	Propioniciclava coleopterorum
+SRR28476485	neg	strict	NA	92	92	S	2760308	Propioniciclava sp. MC1595
+SRR28476485	neg	strict	NA	417	417	S	1750	Arachnia propionica
+SRR28476485	neg	strict	NA	121	121	S	119981	Propionibacterium australiense
+SRR28476485	neg	strict	NA	71	71	S	556499	Propionibacterium acidifaciens
+SRR28476490	neg	strict	NA	323286	322559	S	1747	Cutibacterium acnes
+SRR28476490	neg	strict	NA	9983	9983	S	33011	Cutibacterium granulosum
+SRR28476490	neg	strict	NA	659	659	S	2559073	Cutibacterium modestum
+SRR28476490	neg	strict	NA	505	500	S	33010	Cutibacterium avidum
+SRR28476490	neg	strict	NA	98	98	S	3016342	Cutibacterium equinum
+SRR28476490	neg	strict	NA	829	829	S	2760308	Propioniciclava sp. MC1595
+SRR28476490	neg	strict	NA	179	179	S	2714937	Propioniciclava coleopterorum
+SRR28476490	neg	strict	NA	111	111	S	2775081	Propioniciclava soli
+SRR28476490	neg	strict	NA	436	436	S	546874	Microlunatus sagamiharensis
+SRR28476490	neg	strict	NA	171	171	S	630515	Microlunatus soli
+SRR28476490	neg	strict	NA	98	0	S	29405	Microlunatus phosphovorus
+SRR28476490	neg	strict	NA	43	43	S	2596828	Microlunatus elymi
+SRR28476490	neg	strict	NA	746	746	S	2760310	Tessaracoccus sp. MC1865
+SRR28476490	neg	strict	NA	18	18	S	3041766	Tessaracoccus sp. T21
+SRR28476490	neg	strict	NA	134	134	S	1610493	Tessaracoccus flavus
+SRR28476490	neg	strict	NA	10	10	S	2161816	Tessaracoccus timonensis
+SRR28476490	neg	strict	NA	9	9	S	1285901	Tessaracoccus defluvii
+SRR28476490	neg	strict	NA	7	7	S	399497	Tessaracoccus flavescens
+SRR28476490	neg	strict	NA	1	1	S	2829499	Tessaracoccus palaemonis
+SRR28476490	neg	strict	NA	491	491	S	1750	Arachnia propionica
+SRR28476491	neg	strict	NA	15811	7759	S	28450	Burkholderia pseudomallei
+SRR28476491	neg	strict	NA	7287	1514	S	57975	Burkholderia thailandensis
+SRR28476491	neg	strict	NA	2276	2270	S	13373	Burkholderia mallei
+SRR28476491	neg	strict	NA	542	541	S	342113	Burkholderia oklahomensis
+SRR28476491	neg	strict	NA	436	436	S	1385591	Burkholderia mayonis
+SRR28476491	neg	strict	NA	84	84	S	1503053	Burkholderia singularis
+SRR28476491	neg	strict	NA	12	12	S	1637837	Burkholderia savannae
+SRR28476491	neg	strict	NA	7	7	S	430531	Burkholderia humptydooensis
+SRR28476491	neg	strict	NA	7349	7349	S	87883	Burkholderia multivorans
+SRR28476491	neg	strict	NA	3501	1533	S	292	Burkholderia cepacia
+SRR28476491	neg	strict	NA	2895	2895	S	152480	Burkholderia ambifaria
+SRR28476491	neg	strict	NA	2109	2109	S	60552	Burkholderia vietnamiensis
+SRR28476491	neg	strict	NA	1893	1498	S	95486	Burkholderia cenocepacia
+SRR28476491	neg	strict	NA	1065	1065	S	60550	Burkholderia pyrrocinia
+SRR28476491	neg	strict	NA	701	701	S	482957	Burkholderia lata
+SRR28476491	neg	strict	NA	669	669	S	488732	Burkholderia diffusa
+SRR28476491	neg	strict	NA	650	430	S	101571	Burkholderia ubonensis
+SRR28476491	neg	strict	NA	486	486	S	488447	Burkholderia contaminans
+SRR28476491	neg	strict	NA	406	406	S	1207504	Burkholderia pseudomultivorans
+SRR28476491	neg	strict	NA	221	221	S	1503054	Burkholderia stagnalis
+SRR28476494	neg	strict	NA	13295	6644	S	28450	Burkholderia pseudomallei
+SRR28476494	neg	strict	NA	6361	1243	S	57975	Burkholderia thailandensis
+SRR28476494	neg	strict	NA	2147	2141	S	13373	Burkholderia mallei
+SRR28476494	neg	strict	NA	499	495	S	342113	Burkholderia oklahomensis
+SRR28476494	neg	strict	NA	376	376	S	1385591	Burkholderia mayonis
+SRR28476494	neg	strict	NA	70	70	S	1503053	Burkholderia singularis
+SRR28476494	neg	strict	NA	3	3	S	430531	Burkholderia humptydooensis
+SRR28476494	neg	strict	NA	3	3	S	1637837	Burkholderia savannae
+SRR28476494	neg	strict	NA	5213	5211	S	87883	Burkholderia multivorans
+SRR28476494	neg	strict	NA	3180	1321	S	292	Burkholderia cepacia
+SRR28476494	neg	strict	NA	2748	2747	S	152480	Burkholderia ambifaria
+SRR28476494	neg	strict	NA	2024	2023	S	60552	Burkholderia vietnamiensis
+SRR28476494	neg	strict	NA	1833	1454	S	95486	Burkholderia cenocepacia
+SRR28476494	neg	strict	NA	1039	1039	S	60550	Burkholderia pyrrocinia
+SRR28476494	neg	strict	NA	664	418	S	101571	Burkholderia ubonensis
+SRR28476494	neg	strict	NA	586	586	S	482957	Burkholderia lata
+SRR28476494	neg	strict	NA	483	483	S	488732	Burkholderia diffusa
+SRR28476494	neg	strict	NA	418	418	S	488447	Burkholderia contaminans
+SRR28476494	neg	strict	NA	404	404	S	1207504	Burkholderia pseudomultivorans
+SRR28476494	neg	strict	NA	170	170	S	1503054	Burkholderia stagnalis
+SRR28476495	neg	strict	NA	12572	6132	S	28450	Burkholderia pseudomallei
+SRR28476495	neg	strict	NA	6103	1195	S	57975	Burkholderia thailandensis
+SRR28476495	neg	strict	NA	2014	2004	S	13373	Burkholderia mallei
+SRR28476495	neg	strict	NA	503	500	S	342113	Burkholderia oklahomensis
+SRR28476495	neg	strict	NA	309	309	S	1385591	Burkholderia mayonis
+SRR28476495	neg	strict	NA	63	63	S	1503053	Burkholderia singularis
+SRR28476495	neg	strict	NA	5	5	S	1637837	Burkholderia savannae
+SRR28476495	neg	strict	NA	4	4	S	430531	Burkholderia humptydooensis
+SRR28476495	neg	strict	NA	4906	4906	S	87883	Burkholderia multivorans
+SRR28476495	neg	strict	NA	2877	1275	S	292	Burkholderia cepacia
+SRR28476495	neg	strict	NA	2505	2503	S	152480	Burkholderia ambifaria
+SRR28476495	neg	strict	NA	1802	1800	S	60552	Burkholderia vietnamiensis
+SRR28476495	neg	strict	NA	1768	1451	S	95486	Burkholderia cenocepacia
+SRR28476495	neg	strict	NA	969	969	S	60550	Burkholderia pyrrocinia
+SRR28476495	neg	strict	NA	576	348	S	101571	Burkholderia ubonensis
+SRR28476495	neg	strict	NA	559	559	S	482957	Burkholderia lata
+SRR28476495	neg	strict	NA	465	465	S	488732	Burkholderia diffusa
+SRR28476495	neg	strict	NA	418	418	S	1207504	Burkholderia pseudomultivorans
+SRR28476495	neg	strict	NA	368	368	S	488447	Burkholderia contaminans
+SRR28476495	neg	strict	NA	157	157	S	1503054	Burkholderia stagnalis
+SRR28476497	neg	strict	NA	8825	4465	S	28450	Burkholderia pseudomallei
+SRR28476497	neg	strict	NA	4077	779	S	57975	Burkholderia thailandensis
+SRR28476497	neg	strict	NA	1226	1225	S	13373	Burkholderia mallei
+SRR28476497	neg	strict	NA	333	330	S	342113	Burkholderia oklahomensis
+SRR28476497	neg	strict	NA	232	232	S	1385591	Burkholderia mayonis
+SRR28476497	neg	strict	NA	39	39	S	1503053	Burkholderia singularis
+SRR28476497	neg	strict	NA	2	2	S	1637837	Burkholderia savannae
+SRR28476497	neg	strict	NA	1	1	S	430531	Burkholderia humptydooensis
+SRR28476497	neg	strict	NA	3764	3764	S	87883	Burkholderia multivorans
+SRR28476497	neg	strict	NA	1958	799	S	292	Burkholderia cepacia
+SRR28476497	neg	strict	NA	1660	1660	S	152480	Burkholderia ambifaria
+SRR28476497	neg	strict	NA	1234	977	S	95486	Burkholderia cenocepacia
+SRR28476497	neg	strict	NA	1124	1123	S	60552	Burkholderia vietnamiensis
+SRR28476497	neg	strict	NA	686	686	S	60550	Burkholderia pyrrocinia
+SRR28476497	neg	strict	NA	388	388	S	482957	Burkholderia lata
+SRR28476497	neg	strict	NA	371	229	S	101571	Burkholderia ubonensis
+SRR28476497	neg	strict	NA	368	368	S	488732	Burkholderia diffusa
+SRR28476497	neg	strict	NA	268	268	S	1207504	Burkholderia pseudomultivorans
+SRR28476497	neg	strict	NA	253	253	S	488447	Burkholderia contaminans
+SRR28476497	neg	strict	NA	166	166	S	1503054	Burkholderia stagnalis
+SRR28476498	neg	strict	NA	2373	2373	S	2984843	Methylobacterium sp. FF17
+SRR28476498	neg	strict	NA	1750	1750	S	739141	Methylobacterium sp. XJLW
+SRR28476498	neg	strict	NA	618	618	S	3138063	Methylobacterium sp. CB376
+SRR28476498	neg	strict	NA	505	505	S	2603276	Methylobacterium sp. WL1
+SRR28476498	neg	strict	NA	47	47	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476498	neg	strict	NA	24	24	S	925818	Methylobacterium sp. AMS5
+SRR28476498	neg	strict	NA	18	18	S	2894310	Methylobacterium sp. NMS14P
+SRR28476498	neg	strict	NA	6	6	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476498	neg	strict	NA	3	3	S	2718876	Methylobacterium sp. SyP6R
+SRR28476498	neg	strict	NA	1911	40	S	31998	Methylobacterium radiotolerans
+SRR28476498	neg	strict	NA	1444	1444	S	410	Methylobacterium organophilum
+SRR28476498	neg	strict	NA	1277	1277	S	2202825	Methylobacterium durans
+SRR28476498	neg	strict	NA	1088	1088	S	107400	Methylobacterium fujisawaense
+SRR28476498	neg	strict	NA	866	866	S	2202828	Methylobacterium radiodurans
+SRR28476498	neg	strict	NA	811	811	S	570505	Methylobacterium bullatum
+SRR28476498	neg	strict	NA	547	32	S	334852	Methylobacterium oryzae
+SRR28476498	neg	strict	NA	387	387	S	269660	Methylobacterium brachiatum
+SRR28476498	neg	strict	NA	363	363	S	374432	Methylobacterium tardum
+SRR28476498	neg	strict	NA	182	0	S	114616	Methylobacterium nodulans
+SRR28476498	neg	strict	NA	103	103	S	2202827	Methylobacterium terrae
+SRR28476501	neg	strict	NA	5307	5307	S	2984843	Methylobacterium sp. FF17
+SRR28476501	neg	strict	NA	4398	4398	S	739141	Methylobacterium sp. XJLW
+SRR28476501	neg	strict	NA	2321	2321	S	3138063	Methylobacterium sp. CB376
+SRR28476501	neg	strict	NA	882	882	S	2603276	Methylobacterium sp. WL1
+SRR28476501	neg	strict	NA	101	101	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476501	neg	strict	NA	91	91	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476501	neg	strict	NA	47	47	S	925818	Methylobacterium sp. AMS5
+SRR28476501	neg	strict	NA	10	10	S	2894310	Methylobacterium sp. NMS14P
+SRR28476501	neg	strict	NA	3	3	S	2718876	Methylobacterium sp. SyP6R
+SRR28476501	neg	strict	NA	1	1	S	1479019	Methylobacterium sp. C1
+SRR28476501	neg	strict	NA	3324	3324	S	2202825	Methylobacterium durans
+SRR28476501	neg	strict	NA	2573	2573	S	107400	Methylobacterium fujisawaense
+SRR28476501	neg	strict	NA	2528	56	S	31998	Methylobacterium radiotolerans
+SRR28476501	neg	strict	NA	2201	2201	S	410	Methylobacterium organophilum
+SRR28476501	neg	strict	NA	1493	23	S	334852	Methylobacterium oryzae
+SRR28476501	neg	strict	NA	1460	1460	S	570505	Methylobacterium bullatum
+SRR28476501	neg	strict	NA	1257	1257	S	2202828	Methylobacterium radiodurans
+SRR28476501	neg	strict	NA	854	854	S	374432	Methylobacterium tardum
+SRR28476501	neg	strict	NA	706	706	S	269660	Methylobacterium brachiatum
+SRR28476501	neg	strict	NA	227	0	S	114616	Methylobacterium nodulans
+SRR28476502	neg	strict	NA	5215	5215	S	2984843	Methylobacterium sp. FF17
+SRR28476502	neg	strict	NA	4482	4482	S	739141	Methylobacterium sp. XJLW
+SRR28476502	neg	strict	NA	1586	1586	S	3138063	Methylobacterium sp. CB376
+SRR28476502	neg	strict	NA	1143	1143	S	2603276	Methylobacterium sp. WL1
+SRR28476502	neg	strict	NA	87	87	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476502	neg	strict	NA	63	63	S	1479019	Methylobacterium sp. C1
+SRR28476502	neg	strict	NA	59	59	S	925818	Methylobacterium sp. AMS5
+SRR28476502	neg	strict	NA	58	58	S	2718876	Methylobacterium sp. SyP6R
+SRR28476502	neg	strict	NA	50	50	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476502	neg	strict	NA	26	26	S	2894310	Methylobacterium sp. NMS14P
+SRR28476502	neg	strict	NA	3042	3042	S	107400	Methylobacterium fujisawaense
+SRR28476502	neg	strict	NA	2460	2460	S	2202825	Methylobacterium durans
+SRR28476502	neg	strict	NA	2377	28	S	31998	Methylobacterium radiotolerans
+SRR28476502	neg	strict	NA	2043	2043	S	410	Methylobacterium organophilum
+SRR28476502	neg	strict	NA	1521	1521	S	570505	Methylobacterium bullatum
+SRR28476502	neg	strict	NA	1300	1300	S	2202828	Methylobacterium radiodurans
+SRR28476502	neg	strict	NA	1157	36	S	334852	Methylobacterium oryzae
+SRR28476502	neg	strict	NA	947	947	S	374432	Methylobacterium tardum
+SRR28476502	neg	strict	NA	767	767	S	269660	Methylobacterium brachiatum
+SRR28476502	neg	strict	NA	217	217	S	270351	Methylobacterium aquaticum
+SRR28476504	neg	strict	NA	14696	14696	S	2892442	Pseudomonas sp. CIP-10
+SRR28476504	neg	strict	NA	256	256	S	2653853	Pseudomonas sp. SCB32
+SRR28476504	neg	strict	NA	206	206	S	2954088	Pseudomonas sp. FP2262
+SRR28476504	neg	strict	NA	140	140	S	2954094	Pseudomonas sp. FP453
+SRR28476504	neg	strict	NA	124	124	S	2920387	Pseudomonas sp. LS.1a
+SRR28476504	neg	strict	NA	109	109	S	2559074	Pseudomonas sp. S150
+SRR28476504	neg	strict	NA	98	98	S	2986927	Pseudomonas sp. BT-42-2
+SRR28476504	neg	strict	NA	91	91	S	3078264	Pseudomonas sp. C9-3
+SRR28476504	neg	strict	NA	76	76	S	2921518	Pseudomonas sp. FSL L8-0168
+SRR28476504	neg	strict	NA	76	76	S	1283291	Pseudomonas sp. URMO17WK12:I11
+SRR28476504	neg	strict	NA	55	55	S	2954099	Pseudomonas sp. FP818
+SRR28476504	neg	strict	NA	53	53	S	2871095	Pseudomonas sp. DR48
+SRR28476504	neg	strict	NA	47	47	S	2604941	Pseudomonas sp. C27(2019)
+SRR28476504	neg	strict	NA	39	39	S	2479392	Pseudomonas sp. LTJR-52
+SRR28476504	neg	strict	NA	37	37	S	3115647	Pseudomonas sp. ZY71
+SRR28476504	neg	strict	NA	37	37	S	2895474	Pseudomonas sp. B21-017
+SRR28476504	neg	strict	NA	32	32	S	2954085	Pseudomonas sp. FP2034
+SRR28476504	neg	strict	NA	32	32	S	2874628	Pseudomonas sp. p1(2021b)
+SRR28476504	neg	strict	NA	31	31	S	2705472	Pseudomonas sp. MTM4
+SRR28476504	neg	strict	NA	31	31	S	3110111	Pseudomonas sp. JQ170C
+SRR28476506	neg	strict	NA	5549	5549	S	2984843	Methylobacterium sp. FF17
+SRR28476506	neg	strict	NA	2446	2446	S	739141	Methylobacterium sp. XJLW
+SRR28476506	neg	strict	NA	707	707	S	2603276	Methylobacterium sp. WL1
+SRR28476506	neg	strict	NA	557	557	S	3138063	Methylobacterium sp. CB376
+SRR28476506	neg	strict	NA	38	38	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476506	neg	strict	NA	28	28	S	925818	Methylobacterium sp. AMS5
+SRR28476506	neg	strict	NA	22	22	S	2894310	Methylobacterium sp. NMS14P
+SRR28476506	neg	strict	NA	20	20	S	1479019	Methylobacterium sp. C1
+SRR28476506	neg	strict	NA	18	18	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476506	neg	strict	NA	10	10	S	2718876	Methylobacterium sp. SyP6R
+SRR28476506	neg	strict	NA	2167	19	S	31998	Methylobacterium radiotolerans
+SRR28476506	neg	strict	NA	1742	1742	S	2202825	Methylobacterium durans
+SRR28476506	neg	strict	NA	1692	1692	S	410	Methylobacterium organophilum
+SRR28476506	neg	strict	NA	1457	1457	S	107400	Methylobacterium fujisawaense
+SRR28476506	neg	strict	NA	1144	1144	S	2202828	Methylobacterium radiodurans
+SRR28476506	neg	strict	NA	1078	1078	S	570505	Methylobacterium bullatum
+SRR28476506	neg	strict	NA	778	778	S	374432	Methylobacterium tardum
+SRR28476506	neg	strict	NA	722	20	S	334852	Methylobacterium oryzae
+SRR28476506	neg	strict	NA	624	624	S	269660	Methylobacterium brachiatum
+SRR28476506	neg	strict	NA	147	147	S	2202827	Methylobacterium terrae
+SRR28476507	neg	strict	NA	386446	385652	S	1747	Cutibacterium acnes
+SRR28476507	neg	strict	NA	21956	21956	S	33011	Cutibacterium granulosum
+SRR28476507	neg	strict	NA	2161	2160	S	33010	Cutibacterium avidum
+SRR28476507	neg	strict	NA	1343	1343	S	2559073	Cutibacterium modestum
+SRR28476507	neg	strict	NA	321	321	S	3016342	Cutibacterium equinum
+SRR28476507	neg	strict	NA	1129	1129	S	2760310	Tessaracoccus sp. MC1865
+SRR28476507	neg	strict	NA	28	28	S	3041766	Tessaracoccus sp. T21
+SRR28476507	neg	strict	NA	20	20	S	1285901	Tessaracoccus defluvii
+SRR28476507	neg	strict	NA	12	12	S	2161816	Tessaracoccus timonensis
+SRR28476507	neg	strict	NA	11	11	S	399497	Tessaracoccus flavescens
+SRR28476507	neg	strict	NA	4	4	S	1610493	Tessaracoccus flavus
+SRR28476507	neg	strict	NA	539	539	S	119981	Propionibacterium australiense
+SRR28476507	neg	strict	NA	46	46	S	556499	Propionibacterium acidifaciens
+SRR28476507	neg	strict	NA	18	18	S	1744	Propionibacterium freudenreichii
+SRR28476507	neg	strict	NA	158	158	S	546874	Microlunatus sagamiharensis
+SRR28476507	neg	strict	NA	89	0	S	29405	Microlunatus phosphovorus
+SRR28476507	neg	strict	NA	70	70	S	630515	Microlunatus soli
+SRR28476507	neg	strict	NA	31	31	S	2596828	Microlunatus elymi
+SRR28476507	neg	strict	NA	449	449	S	1750	Arachnia propionica
+SRR28476507	neg	strict	NA	3	3	S	1547448	Arachnia rubra
+SRR28476453	pos	strict	NA	16764	16760	S	28095	Burkholderia gladioli
+SRR28476453	pos	strict	NA	8021	4140	S	28450	Burkholderia pseudomallei
+SRR28476453	pos	strict	NA	3026	475	S	57975	Burkholderia thailandensis
+SRR28476453	pos	strict	NA	1333	1328	S	13373	Burkholderia mallei
+SRR28476453	pos	strict	NA	372	372	S	342113	Burkholderia oklahomensis
+SRR28476453	pos	strict	NA	173	173	S	1385591	Burkholderia mayonis
+SRR28476453	pos	strict	NA	106	106	S	1503053	Burkholderia singularis
+SRR28476453	pos	strict	NA	1	1	S	1637837	Burkholderia savannae
+SRR28476453	pos	strict	NA	2341	2341	S	87883	Burkholderia multivorans
+SRR28476453	pos	strict	NA	1650	449	S	292	Burkholderia cepacia
+SRR28476453	pos	strict	NA	1280	969	S	95486	Burkholderia cenocepacia
+SRR28476453	pos	strict	NA	1245	1241	S	152480	Burkholderia ambifaria
+SRR28476453	pos	strict	NA	936	936	S	60552	Burkholderia vietnamiensis
+SRR28476453	pos	strict	NA	462	462	S	60550	Burkholderia pyrrocinia
+SRR28476453	pos	strict	NA	425	425	S	488732	Burkholderia diffusa
+SRR28476453	pos	strict	NA	190	150	S	101571	Burkholderia ubonensis
+SRR28476453	pos	strict	NA	181	181	S	488447	Burkholderia contaminans
+SRR28476453	pos	strict	NA	143	143	S	482957	Burkholderia lata
+SRR28476453	pos	strict	NA	77	77	S	95485	Burkholderia stabilis
+SRR28476453	pos	strict	NA	67	67	S	1207504	Burkholderia pseudomultivorans
+SRR28476454	pos	strict	NA	7247	7246	S	28095	Burkholderia gladioli
+SRR28476454	pos	strict	NA	3797	1961	S	28450	Burkholderia pseudomallei
+SRR28476454	pos	strict	NA	1529	228	S	57975	Burkholderia thailandensis
+SRR28476454	pos	strict	NA	679	672	S	13373	Burkholderia mallei
+SRR28476454	pos	strict	NA	174	174	S	342113	Burkholderia oklahomensis
+SRR28476454	pos	strict	NA	102	102	S	1385591	Burkholderia mayonis
+SRR28476454	pos	strict	NA	21	21	S	1503053	Burkholderia singularis
+SRR28476454	pos	strict	NA	2	2	S	430531	Burkholderia humptydooensis
+SRR28476454	pos	strict	NA	1612	1612	S	87883	Burkholderia multivorans
+SRR28476454	pos	strict	NA	672	205	S	292	Burkholderia cepacia
+SRR28476454	pos	strict	NA	591	590	S	152480	Burkholderia ambifaria
+SRR28476454	pos	strict	NA	576	467	S	95486	Burkholderia cenocepacia
+SRR28476454	pos	strict	NA	539	539	S	60552	Burkholderia vietnamiensis
+SRR28476454	pos	strict	NA	218	218	S	60550	Burkholderia pyrrocinia
+SRR28476454	pos	strict	NA	175	175	S	488732	Burkholderia diffusa
+SRR28476454	pos	strict	NA	72	51	S	101571	Burkholderia ubonensis
+SRR28476454	pos	strict	NA	69	69	S	482957	Burkholderia lata
+SRR28476454	pos	strict	NA	65	65	S	488447	Burkholderia contaminans
+SRR28476454	pos	strict	NA	52	52	S	95485	Burkholderia stabilis
+SRR28476454	pos	strict	NA	45	45	S	1207504	Burkholderia pseudomultivorans
+SRR28476455	pos	strict	NA	12277	12275	S	28095	Burkholderia gladioli
+SRR28476455	pos	strict	NA	6065	3055	S	28450	Burkholderia pseudomallei
+SRR28476455	pos	strict	NA	2465	404	S	57975	Burkholderia thailandensis
+SRR28476455	pos	strict	NA	960	953	S	13373	Burkholderia mallei
+SRR28476455	pos	strict	NA	294	293	S	342113	Burkholderia oklahomensis
+SRR28476455	pos	strict	NA	161	161	S	1385591	Burkholderia mayonis
+SRR28476455	pos	strict	NA	57	57	S	1503053	Burkholderia singularis
+SRR28476455	pos	strict	NA	2585	2584	S	87883	Burkholderia multivorans
+SRR28476455	pos	strict	NA	1376	377	S	292	Burkholderia cepacia
+SRR28476455	pos	strict	NA	909	677	S	95486	Burkholderia cenocepacia
+SRR28476455	pos	strict	NA	892	892	S	152480	Burkholderia ambifaria
+SRR28476455	pos	strict	NA	817	817	S	60552	Burkholderia vietnamiensis
+SRR28476455	pos	strict	NA	340	340	S	488732	Burkholderia diffusa
+SRR28476455	pos	strict	NA	272	272	S	60550	Burkholderia pyrrocinia
+SRR28476455	pos	strict	NA	159	129	S	101571	Burkholderia ubonensis
+SRR28476455	pos	strict	NA	114	114	S	488447	Burkholderia contaminans
+SRR28476455	pos	strict	NA	106	106	S	482957	Burkholderia lata
+SRR28476455	pos	strict	NA	58	58	S	179879	Burkholderia anthina
+SRR28476455	pos	strict	NA	56	56	S	1207504	Burkholderia pseudomultivorans
+SRR28476455	pos	strict	NA	37	37	S	95485	Burkholderia stabilis
+SRR28476456	pos	strict	NA	8205	4156	S	28450	Burkholderia pseudomallei
+SRR28476456	pos	strict	NA	3778	809	S	57975	Burkholderia thailandensis
+SRR28476456	pos	strict	NA	1134	1132	S	13373	Burkholderia mallei
+SRR28476456	pos	strict	NA	305	303	S	342113	Burkholderia oklahomensis
+SRR28476456	pos	strict	NA	206	206	S	1385591	Burkholderia mayonis
+SRR28476456	pos	strict	NA	66	66	S	1503053	Burkholderia singularis
+SRR28476456	pos	strict	NA	10	10	S	1637837	Burkholderia savannae
+SRR28476456	pos	strict	NA	4	4	S	430531	Burkholderia humptydooensis
+SRR28476456	pos	strict	NA	3865	3864	S	87883	Burkholderia multivorans
+SRR28476456	pos	strict	NA	1657	776	S	292	Burkholderia cepacia
+SRR28476456	pos	strict	NA	1567	1567	S	152480	Burkholderia ambifaria
+SRR28476456	pos	strict	NA	1118	1118	S	60552	Burkholderia vietnamiensis
+SRR28476456	pos	strict	NA	1040	865	S	95486	Burkholderia cenocepacia
+SRR28476456	pos	strict	NA	648	648	S	60550	Burkholderia pyrrocinia
+SRR28476456	pos	strict	NA	398	247	S	101571	Burkholderia ubonensis
+SRR28476456	pos	strict	NA	310	310	S	482957	Burkholderia lata
+SRR28476456	pos	strict	NA	285	285	S	488732	Burkholderia diffusa
+SRR28476456	pos	strict	NA	253	253	S	488447	Burkholderia contaminans
+SRR28476456	pos	strict	NA	195	195	S	1207504	Burkholderia pseudomultivorans
+SRR28476456	pos	strict	NA	111	111	S	1503055	Burkholderia territorii
+SRR28476457	pos	strict	NA	3868	3868	S	28095	Burkholderia gladioli
+SRR28476457	pos	strict	NA	1548	805	S	28450	Burkholderia pseudomallei
+SRR28476457	pos	strict	NA	654	113	S	57975	Burkholderia thailandensis
+SRR28476457	pos	strict	NA	257	253	S	13373	Burkholderia mallei
+SRR28476457	pos	strict	NA	79	79	S	342113	Burkholderia oklahomensis
+SRR28476457	pos	strict	NA	50	50	S	1385591	Burkholderia mayonis
+SRR28476457	pos	strict	NA	17	17	S	1503053	Burkholderia singularis
+SRR28476457	pos	strict	NA	711	711	S	87883	Burkholderia multivorans
+SRR28476457	pos	strict	NA	349	124	S	292	Burkholderia cepacia
+SRR28476457	pos	strict	NA	261	261	S	152480	Burkholderia ambifaria
+SRR28476457	pos	strict	NA	252	194	S	95486	Burkholderia cenocepacia
+SRR28476457	pos	strict	NA	208	208	S	60552	Burkholderia vietnamiensis
+SRR28476457	pos	strict	NA	94	94	S	488732	Burkholderia diffusa
+SRR28476457	pos	strict	NA	88	88	S	60550	Burkholderia pyrrocinia
+SRR28476457	pos	strict	NA	41	41	S	488447	Burkholderia contaminans
+SRR28476457	pos	strict	NA	31	23	S	101571	Burkholderia ubonensis
+SRR28476457	pos	strict	NA	28	28	S	482957	Burkholderia lata
+SRR28476457	pos	strict	NA	16	16	S	179879	Burkholderia anthina
+SRR28476457	pos	strict	NA	11	11	S	95485	Burkholderia stabilis
+SRR28476457	pos	strict	NA	11	11	S	1503054	Burkholderia stagnalis
+SRR28476458	pos	strict	NA	10606	5273	S	28450	Burkholderia pseudomallei
+SRR28476458	pos	strict	NA	5085	1068	S	57975	Burkholderia thailandensis
+SRR28476458	pos	strict	NA	1470	1467	S	13373	Burkholderia mallei
+SRR28476458	pos	strict	NA	342	335	S	342113	Burkholderia oklahomensis
+SRR28476458	pos	strict	NA	285	285	S	1385591	Burkholderia mayonis
+SRR28476458	pos	strict	NA	62	62	S	1503053	Burkholderia singularis
+SRR28476458	pos	strict	NA	7	7	S	430531	Burkholderia humptydooensis
+SRR28476458	pos	strict	NA	5110	5110	S	87883	Burkholderia multivorans
+SRR28476458	pos	strict	NA	2379	978	S	292	Burkholderia cepacia
+SRR28476458	pos	strict	NA	1898	1898	S	152480	Burkholderia ambifaria
+SRR28476458	pos	strict	NA	1402	1400	S	60552	Burkholderia vietnamiensis
+SRR28476458	pos	strict	NA	1311	1060	S	95486	Burkholderia cenocepacia
+SRR28476458	pos	strict	NA	829	829	S	60550	Burkholderia pyrrocinia
+SRR28476458	pos	strict	NA	470	302	S	101571	Burkholderia ubonensis
+SRR28476458	pos	strict	NA	407	407	S	488732	Burkholderia diffusa
+SRR28476458	pos	strict	NA	332	332	S	482957	Burkholderia lata
+SRR28476458	pos	strict	NA	317	317	S	488447	Burkholderia contaminans
+SRR28476458	pos	strict	NA	287	287	S	1207504	Burkholderia pseudomultivorans
+SRR28476458	pos	strict	NA	115	115	S	179879	Burkholderia anthina
+SRR28476458	pos	strict	NA	109	109	S	1503054	Burkholderia stagnalis
+SRR28476462	pos	strict	NA	62644	62501	S	1747	Cutibacterium acnes
+SRR28476462	pos	strict	NA	1016	1016	S	33011	Cutibacterium granulosum
+SRR28476462	pos	strict	NA	287	285	S	33010	Cutibacterium avidum
+SRR28476462	pos	strict	NA	234	234	S	2559073	Cutibacterium modestum
+SRR28476462	pos	strict	NA	27	27	S	3016342	Cutibacterium equinum
+SRR28476462	pos	strict	NA	119	119	S	2760310	Tessaracoccus sp. MC1865
+SRR28476462	pos	strict	NA	93	93	S	1610493	Tessaracoccus flavus
+SRR28476462	pos	strict	NA	48	48	S	2161816	Tessaracoccus timonensis
+SRR28476462	pos	strict	NA	5	5	S	399497	Tessaracoccus flavescens
+SRR28476462	pos	strict	NA	3	3	S	1285901	Tessaracoccus defluvii
+SRR28476462	pos	strict	NA	119	119	S	546874	Microlunatus sagamiharensis
+SRR28476462	pos	strict	NA	27	0	S	29405	Microlunatus phosphovorus
+SRR28476462	pos	strict	NA	18	18	S	2596828	Microlunatus elymi
+SRR28476462	pos	strict	NA	5	5	S	2672569	Microlunatus sp. Gsoil 973
+SRR28476462	pos	strict	NA	1	1	S	630515	Microlunatus soli
+SRR28476462	pos	strict	NA	96	96	S	1750	Arachnia propionica
+SRR28476462	pos	strict	NA	11	11	S	1547448	Arachnia rubra
+SRR28476462	pos	strict	NA	22	22	S	556499	Propionibacterium acidifaciens
+SRR28476462	pos	strict	NA	21	21	S	1744	Propionibacterium freudenreichii
+SRR28476462	pos	strict	NA	20	20	S	119981	Propionibacterium australiense
+SRR28476463	pos	strict	NA	25333	25327	S	28095	Burkholderia gladioli
+SRR28476463	pos	strict	NA	10916	5584	S	28450	Burkholderia pseudomallei
+SRR28476463	pos	strict	NA	4615	759	S	57975	Burkholderia thailandensis
+SRR28476463	pos	strict	NA	2032	2023	S	13373	Burkholderia mallei
+SRR28476463	pos	strict	NA	508	506	S	342113	Burkholderia oklahomensis
+SRR28476463	pos	strict	NA	310	310	S	1385591	Burkholderia mayonis
+SRR28476463	pos	strict	NA	99	99	S	1503053	Burkholderia singularis
+SRR28476463	pos	strict	NA	1	1	S	1637837	Burkholderia savannae
+SRR28476463	pos	strict	NA	4659	4658	S	87883	Burkholderia multivorans
+SRR28476463	pos	strict	NA	2212	596	S	292	Burkholderia cepacia
+SRR28476463	pos	strict	NA	1941	1499	S	95486	Burkholderia cenocepacia
+SRR28476463	pos	strict	NA	1722	1713	S	152480	Burkholderia ambifaria
+SRR28476463	pos	strict	NA	1493	1493	S	60552	Burkholderia vietnamiensis
+SRR28476463	pos	strict	NA	670	670	S	60550	Burkholderia pyrrocinia
+SRR28476463	pos	strict	NA	504	504	S	488732	Burkholderia diffusa
+SRR28476463	pos	strict	NA	260	260	S	488447	Burkholderia contaminans
+SRR28476463	pos	strict	NA	252	178	S	101571	Burkholderia ubonensis
+SRR28476463	pos	strict	NA	247	247	S	482957	Burkholderia lata
+SRR28476463	pos	strict	NA	115	115	S	95485	Burkholderia stabilis
+SRR28476463	pos	strict	NA	70	70	S	1207504	Burkholderia pseudomultivorans
+SRR28476464	pos	strict	NA	152122	151676	S	1747	Cutibacterium acnes
+SRR28476464	pos	strict	NA	3551	3551	S	33011	Cutibacterium granulosum
+SRR28476464	pos	strict	NA	1730	1730	S	2559073	Cutibacterium modestum
+SRR28476464	pos	strict	NA	220	220	S	33010	Cutibacterium avidum
+SRR28476464	pos	strict	NA	102	102	S	3016342	Cutibacterium equinum
+SRR28476464	pos	strict	NA	358	358	S	2760310	Tessaracoccus sp. MC1865
+SRR28476464	pos	strict	NA	88	88	S	2161816	Tessaracoccus timonensis
+SRR28476464	pos	strict	NA	46	46	S	1610493	Tessaracoccus flavus
+SRR28476464	pos	strict	NA	6	6	S	399497	Tessaracoccus flavescens
+SRR28476464	pos	strict	NA	6	6	S	1285901	Tessaracoccus defluvii
+SRR28476464	pos	strict	NA	1	1	S	1332264	Tessaracoccus aquimaris
+SRR28476464	pos	strict	NA	273	273	S	546874	Microlunatus sagamiharensis
+SRR28476464	pos	strict	NA	40	40	S	2596828	Microlunatus elymi
+SRR28476464	pos	strict	NA	37	37	S	630515	Microlunatus soli
+SRR28476464	pos	strict	NA	36	0	S	29405	Microlunatus phosphovorus
+SRR28476464	pos	strict	NA	183	183	S	1750	Arachnia propionica
+SRR28476464	pos	strict	NA	1	1	S	1547448	Arachnia rubra
+SRR28476464	pos	strict	NA	76	76	S	556499	Propionibacterium acidifaciens
+SRR28476464	pos	strict	NA	55	55	S	1744	Propionibacterium freudenreichii
+SRR28476464	pos	strict	NA	40	40	S	119981	Propionibacterium australiense
+SRR28476465	pos	strict	NA	6865	3505	S	28450	Burkholderia pseudomallei
+SRR28476465	pos	strict	NA	3222	689	S	57975	Burkholderia thailandensis
+SRR28476465	pos	strict	NA	910	899	S	13373	Burkholderia mallei
+SRR28476465	pos	strict	NA	233	232	S	342113	Burkholderia oklahomensis
+SRR28476465	pos	strict	NA	184	184	S	1385591	Burkholderia mayonis
+SRR28476465	pos	strict	NA	38	38	S	1503053	Burkholderia singularis
+SRR28476465	pos	strict	NA	5	5	S	430531	Burkholderia humptydooensis
+SRR28476465	pos	strict	NA	4396	4391	S	87883	Burkholderia multivorans
+SRR28476465	pos	strict	NA	1415	717	S	292	Burkholderia cepacia
+SRR28476465	pos	strict	NA	1131	1131	S	152480	Burkholderia ambifaria
+SRR28476465	pos	strict	NA	884	707	S	95486	Burkholderia cenocepacia
+SRR28476465	pos	strict	NA	804	804	S	60552	Burkholderia vietnamiensis
+SRR28476465	pos	strict	NA	530	530	S	60550	Burkholderia pyrrocinia
+SRR28476465	pos	strict	NA	353	254	S	101571	Burkholderia ubonensis
+SRR28476465	pos	strict	NA	273	273	S	482957	Burkholderia lata
+SRR28476465	pos	strict	NA	241	241	S	488732	Burkholderia diffusa
+SRR28476465	pos	strict	NA	233	233	S	488447	Burkholderia contaminans
+SRR28476465	pos	strict	NA	191	191	S	1207504	Burkholderia pseudomultivorans
+SRR28476465	pos	strict	NA	111	111	S	1503054	Burkholderia stagnalis
+SRR28476465	pos	strict	NA	86	86	S	1503055	Burkholderia territorii
+SRR28476468	pos	strict	NA	435417	434290	S	1747	Cutibacterium acnes
+SRR28476468	pos	strict	NA	17683	17683	S	33011	Cutibacterium granulosum
+SRR28476468	pos	strict	NA	1517	1517	S	2559073	Cutibacterium modestum
+SRR28476468	pos	strict	NA	1289	1286	S	33010	Cutibacterium avidum
+SRR28476468	pos	strict	NA	372	372	S	3016342	Cutibacterium equinum
+SRR28476468	pos	strict	NA	1308	1308	S	2161816	Tessaracoccus timonensis
+SRR28476468	pos	strict	NA	1176	1176	S	2760310	Tessaracoccus sp. MC1865
+SRR28476468	pos	strict	NA	86	86	S	1610493	Tessaracoccus flavus
+SRR28476468	pos	strict	NA	43	43	S	1285901	Tessaracoccus defluvii
+SRR28476468	pos	strict	NA	14	14	S	2829499	Tessaracoccus palaemonis
+SRR28476468	pos	strict	NA	309	309	S	546874	Microlunatus sagamiharensis
+SRR28476468	pos	strict	NA	93	93	S	2596828	Microlunatus elymi
+SRR28476468	pos	strict	NA	71	71	S	630515	Microlunatus soli
+SRR28476468	pos	strict	NA	11	0	S	29405	Microlunatus phosphovorus
+SRR28476468	pos	strict	NA	732	732	S	1750	Arachnia propionica
+SRR28476468	pos	strict	NA	313	313	S	119981	Propionibacterium australiense
+SRR28476468	pos	strict	NA	111	111	S	556499	Propionibacterium acidifaciens
+SRR28476468	pos	strict	NA	7	7	S	1744	Propionibacterium freudenreichii
+SRR28476468	pos	strict	NA	178	178	S	2775081	Propioniciclava soli
+SRR28476468	pos	strict	NA	67	67	S	2714937	Propioniciclava coleopterorum
+SRR28476470	pos	strict	NA	1002	1002	S	2984843	Methylobacterium sp. FF17
+SRR28476470	pos	strict	NA	943	943	S	739141	Methylobacterium sp. XJLW
+SRR28476470	pos	strict	NA	281	281	S	3138063	Methylobacterium sp. CB376
+SRR28476470	pos	strict	NA	197	197	S	2603276	Methylobacterium sp. WL1
+SRR28476470	pos	strict	NA	23	23	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476470	pos	strict	NA	14	14	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476470	pos	strict	NA	11	11	S	1479019	Methylobacterium sp. C1
+SRR28476470	pos	strict	NA	8	8	S	2718876	Methylobacterium sp. SyP6R
+SRR28476470	pos	strict	NA	6	6	S	2894310	Methylobacterium sp. NMS14P
+SRR28476470	pos	strict	NA	4	4	S	925818	Methylobacterium sp. AMS5
+SRR28476470	pos	strict	NA	707	3	S	31998	Methylobacterium radiotolerans
+SRR28476470	pos	strict	NA	614	614	S	107400	Methylobacterium fujisawaense
+SRR28476470	pos	strict	NA	555	555	S	410	Methylobacterium organophilum
+SRR28476470	pos	strict	NA	490	490	S	2202825	Methylobacterium durans
+SRR28476470	pos	strict	NA	440	440	S	570505	Methylobacterium bullatum
+SRR28476470	pos	strict	NA	308	308	S	2202828	Methylobacterium radiodurans
+SRR28476470	pos	strict	NA	270	2	S	334852	Methylobacterium oryzae
+SRR28476470	pos	strict	NA	195	195	S	374432	Methylobacterium tardum
+SRR28476470	pos	strict	NA	191	191	S	269660	Methylobacterium brachiatum
+SRR28476470	pos	strict	NA	36	36	S	418223	Methylobacterium phyllosphaerae
+SRR28476472	pos	strict	NA	183125	182656	S	1747	Cutibacterium acnes
+SRR28476472	pos	strict	NA	4676	4676	S	33011	Cutibacterium granulosum
+SRR28476472	pos	strict	NA	503	503	S	2559073	Cutibacterium modestum
+SRR28476472	pos	strict	NA	279	279	S	33010	Cutibacterium avidum
+SRR28476472	pos	strict	NA	209	209	S	3016342	Cutibacterium equinum
+SRR28476472	pos	strict	NA	315	315	S	2760310	Tessaracoccus sp. MC1865
+SRR28476472	pos	strict	NA	31	31	S	1285901	Tessaracoccus defluvii
+SRR28476472	pos	strict	NA	27	27	S	1610493	Tessaracoccus flavus
+SRR28476472	pos	strict	NA	3	3	S	2161816	Tessaracoccus timonensis
+SRR28476472	pos	strict	NA	2	2	S	399497	Tessaracoccus flavescens
+SRR28476472	pos	strict	NA	71	71	S	546874	Microlunatus sagamiharensis
+SRR28476472	pos	strict	NA	51	0	S	29405	Microlunatus phosphovorus
+SRR28476472	pos	strict	NA	14	14	S	630515	Microlunatus soli
+SRR28476472	pos	strict	NA	10	10	S	2672569	Microlunatus sp. Gsoil 973
+SRR28476472	pos	strict	NA	2	2	S	2596828	Microlunatus elymi
+SRR28476472	pos	strict	NA	290	290	S	1750	Arachnia propionica
+SRR28476472	pos	strict	NA	163	163	S	119981	Propionibacterium australiense
+SRR28476472	pos	strict	NA	4	4	S	1744	Propionibacterium freudenreichii
+SRR28476472	pos	strict	NA	152	152	S	3041175	Brooklawnia propionicigenes
+SRR28476472	pos	strict	NA	47	47	S	2760308	Propioniciclava sp. MC1595
+SRR28476473	pos	strict	NA	1724	1724	S	2984843	Methylobacterium sp. FF17
+SRR28476473	pos	strict	NA	824	824	S	739141	Methylobacterium sp. XJLW
+SRR28476473	pos	strict	NA	302	302	S	3138063	Methylobacterium sp. CB376
+SRR28476473	pos	strict	NA	149	149	S	2603276	Methylobacterium sp. WL1
+SRR28476473	pos	strict	NA	70	70	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476473	pos	strict	NA	28	28	S	925818	Methylobacterium sp. AMS5
+SRR28476473	pos	strict	NA	19	19	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476473	pos	strict	NA	3	3	S	2718876	Methylobacterium sp. SyP6R
+SRR28476473	pos	strict	NA	1	1	S	2894310	Methylobacterium sp. NMS14P
+SRR28476473	pos	strict	NA	752	25	S	31998	Methylobacterium radiotolerans
+SRR28476473	pos	strict	NA	725	725	S	2202825	Methylobacterium durans
+SRR28476473	pos	strict	NA	519	519	S	107400	Methylobacterium fujisawaense
+SRR28476473	pos	strict	NA	470	470	S	410	Methylobacterium organophilum
+SRR28476473	pos	strict	NA	375	375	S	570505	Methylobacterium bullatum
+SRR28476473	pos	strict	NA	315	1	S	334852	Methylobacterium oryzae
+SRR28476473	pos	strict	NA	293	293	S	374432	Methylobacterium tardum
+SRR28476473	pos	strict	NA	283	283	S	2202828	Methylobacterium radiodurans
+SRR28476473	pos	strict	NA	176	176	S	2051553	Methylobacterium currus
+SRR28476473	pos	strict	NA	132	132	S	269660	Methylobacterium brachiatum
+SRR28476473	pos	strict	NA	61	0	S	114616	Methylobacterium nodulans
+SRR28476475	pos	strict	NA	8150	4080	S	28450	Burkholderia pseudomallei
+SRR28476475	pos	strict	NA	4268	749	S	57975	Burkholderia thailandensis
+SRR28476475	pos	strict	NA	1215	1211	S	13373	Burkholderia mallei
+SRR28476475	pos	strict	NA	260	254	S	342113	Burkholderia oklahomensis
+SRR28476475	pos	strict	NA	204	204	S	1385591	Burkholderia mayonis
+SRR28476475	pos	strict	NA	47	47	S	1503053	Burkholderia singularis
+SRR28476475	pos	strict	NA	3	3	S	430531	Burkholderia humptydooensis
+SRR28476475	pos	strict	NA	2	2	S	1637837	Burkholderia savannae
+SRR28476475	pos	strict	NA	5077	5067	S	87883	Burkholderia multivorans
+SRR28476475	pos	strict	NA	1668	706	S	292	Burkholderia cepacia
+SRR28476475	pos	strict	NA	1514	1514	S	152480	Burkholderia ambifaria
+SRR28476475	pos	strict	NA	1083	871	S	95486	Burkholderia cenocepacia
+SRR28476475	pos	strict	NA	1060	1060	S	60552	Burkholderia vietnamiensis
+SRR28476475	pos	strict	NA	646	646	S	60550	Burkholderia pyrrocinia
+SRR28476475	pos	strict	NA	375	375	S	482957	Burkholderia lata
+SRR28476475	pos	strict	NA	334	211	S	101571	Burkholderia ubonensis
+SRR28476475	pos	strict	NA	289	289	S	488732	Burkholderia diffusa
+SRR28476475	pos	strict	NA	243	243	S	1207504	Burkholderia pseudomultivorans
+SRR28476475	pos	strict	NA	231	231	S	488447	Burkholderia contaminans
+SRR28476475	pos	strict	NA	88	88	S	1503054	Burkholderia stagnalis
+SRR28476476	pos	strict	NA	83557	83268	S	1747	Cutibacterium acnes
+SRR28476476	pos	strict	NA	3042	3042	S	33011	Cutibacterium granulosum
+SRR28476476	pos	strict	NA	830	830	S	2559073	Cutibacterium modestum
+SRR28476476	pos	strict	NA	185	185	S	33010	Cutibacterium avidum
+SRR28476476	pos	strict	NA	93	93	S	3016342	Cutibacterium equinum
+SRR28476476	pos	strict	NA	141	141	S	2760310	Tessaracoccus sp. MC1865
+SRR28476476	pos	strict	NA	81	81	S	1610493	Tessaracoccus flavus
+SRR28476476	pos	strict	NA	52	52	S	2161816	Tessaracoccus timonensis
+SRR28476476	pos	strict	NA	9	9	S	399497	Tessaracoccus flavescens
+SRR28476476	pos	strict	NA	4	4	S	1332264	Tessaracoccus aquimaris
+SRR28476476	pos	strict	NA	3	3	S	1285901	Tessaracoccus defluvii
+SRR28476476	pos	strict	NA	130	130	S	546874	Microlunatus sagamiharensis
+SRR28476476	pos	strict	NA	42	42	S	2596828	Microlunatus elymi
+SRR28476476	pos	strict	NA	32	0	S	29405	Microlunatus phosphovorus
+SRR28476476	pos	strict	NA	13	13	S	2672569	Microlunatus sp. Gsoil 973
+SRR28476476	pos	strict	NA	8	8	S	630515	Microlunatus soli
+SRR28476476	pos	strict	NA	200	200	S	2775081	Propioniciclava soli
+SRR28476476	pos	strict	NA	74	74	S	2760308	Propioniciclava sp. MC1595
+SRR28476476	pos	strict	NA	9	9	S	2714937	Propioniciclava coleopterorum
+SRR28476476	pos	strict	NA	138	138	S	1750	Arachnia propionica
+SRR28476482	pos	strict	NA	286	286	S	739141	Methylobacterium sp. XJLW
+SRR28476482	pos	strict	NA	285	285	S	2984843	Methylobacterium sp. FF17
+SRR28476482	pos	strict	NA	184	184	S	3138063	Methylobacterium sp. CB376
+SRR28476482	pos	strict	NA	84	84	S	2603276	Methylobacterium sp. WL1
+SRR28476482	pos	strict	NA	17	17	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476482	pos	strict	NA	2	2	S	925818	Methylobacterium sp. AMS5
+SRR28476482	pos	strict	NA	1	1	S	2894310	Methylobacterium sp. NMS14P
+SRR28476482	pos	strict	NA	288	8	S	31998	Methylobacterium radiotolerans
+SRR28476482	pos	strict	NA	157	157	S	2202825	Methylobacterium durans
+SRR28476482	pos	strict	NA	135	135	S	410	Methylobacterium organophilum
+SRR28476482	pos	strict	NA	131	131	S	107400	Methylobacterium fujisawaense
+SRR28476482	pos	strict	NA	123	123	S	570505	Methylobacterium bullatum
+SRR28476482	pos	strict	NA	114	114	S	2202828	Methylobacterium radiodurans
+SRR28476482	pos	strict	NA	101	5	S	334852	Methylobacterium oryzae
+SRR28476482	pos	strict	NA	64	64	S	374432	Methylobacterium tardum
+SRR28476482	pos	strict	NA	19	19	S	269660	Methylobacterium brachiatum
+SRR28476482	pos	strict	NA	16	16	S	2051553	Methylobacterium currus
+SRR28476482	pos	strict	NA	13	13	S	270351	Methylobacterium aquaticum
+SRR28476482	pos	strict	NA	12	0	S	114616	Methylobacterium nodulans
+SRR28476482	pos	strict	NA	11	11	S	418223	Methylobacterium phyllosphaerae
+SRR28476484	pos	strict	NA	3110	3110	S	2984843	Methylobacterium sp. FF17
+SRR28476484	pos	strict	NA	1420	1420	S	739141	Methylobacterium sp. XJLW
+SRR28476484	pos	strict	NA	484	484	S	3138063	Methylobacterium sp. CB376
+SRR28476484	pos	strict	NA	361	361	S	2603276	Methylobacterium sp. WL1
+SRR28476484	pos	strict	NA	35	35	S	925818	Methylobacterium sp. AMS5
+SRR28476484	pos	strict	NA	35	35	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476484	pos	strict	NA	18	18	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476484	pos	strict	NA	18	18	S	2894310	Methylobacterium sp. NMS14P
+SRR28476484	pos	strict	NA	12	12	S	1479019	Methylobacterium sp. C1
+SRR28476484	pos	strict	NA	7	7	S	2718876	Methylobacterium sp. SyP6R
+SRR28476484	pos	strict	NA	1073	12	S	31998	Methylobacterium radiotolerans
+SRR28476484	pos	strict	NA	1043	1043	S	410	Methylobacterium organophilum
+SRR28476484	pos	strict	NA	1031	1031	S	2202825	Methylobacterium durans
+SRR28476484	pos	strict	NA	891	891	S	107400	Methylobacterium fujisawaense
+SRR28476484	pos	strict	NA	650	650	S	570505	Methylobacterium bullatum
+SRR28476484	pos	strict	NA	455	22	S	334852	Methylobacterium oryzae
+SRR28476484	pos	strict	NA	444	444	S	2202828	Methylobacterium radiodurans
+SRR28476484	pos	strict	NA	292	292	S	269660	Methylobacterium brachiatum
+SRR28476484	pos	strict	NA	288	288	S	374432	Methylobacterium tardum
+SRR28476484	pos	strict	NA	78	0	S	114616	Methylobacterium nodulans
+SRR28476486	pos	strict	NA	2851	2851	S	2984843	Methylobacterium sp. FF17
+SRR28476486	pos	strict	NA	1316	1316	S	739141	Methylobacterium sp. XJLW
+SRR28476486	pos	strict	NA	255	255	S	2603276	Methylobacterium sp. WL1
+SRR28476486	pos	strict	NA	235	235	S	3138063	Methylobacterium sp. CB376
+SRR28476486	pos	strict	NA	29	29	S	2894310	Methylobacterium sp. NMS14P
+SRR28476486	pos	strict	NA	14	14	S	925818	Methylobacterium sp. AMS5
+SRR28476486	pos	strict	NA	9	9	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476486	pos	strict	NA	2	2	S	2718876	Methylobacterium sp. SyP6R
+SRR28476486	pos	strict	NA	1447	1447	S	2202825	Methylobacterium durans
+SRR28476486	pos	strict	NA	1242	1242	S	410	Methylobacterium organophilum
+SRR28476486	pos	strict	NA	961	3	S	31998	Methylobacterium radiotolerans
+SRR28476486	pos	strict	NA	659	659	S	2202828	Methylobacterium radiodurans
+SRR28476486	pos	strict	NA	629	629	S	570505	Methylobacterium bullatum
+SRR28476486	pos	strict	NA	555	0	S	114616	Methylobacterium nodulans
+SRR28476486	pos	strict	NA	486	486	S	107400	Methylobacterium fujisawaense
+SRR28476486	pos	strict	NA	356	356	S	2051553	Methylobacterium currus
+SRR28476486	pos	strict	NA	312	1	S	334852	Methylobacterium oryzae
+SRR28476486	pos	strict	NA	201	201	S	269660	Methylobacterium brachiatum
+SRR28476486	pos	strict	NA	192	192	S	374432	Methylobacterium tardum
+SRR28476486	pos	strict	NA	62	62	S	2202827	Methylobacterium terrae
+SRR28476487	pos	strict	NA	42002	41846	S	1747	Cutibacterium acnes
+SRR28476487	pos	strict	NA	1801	1801	S	33011	Cutibacterium granulosum
+SRR28476487	pos	strict	NA	225	225	S	33010	Cutibacterium avidum
+SRR28476487	pos	strict	NA	175	175	S	2559073	Cutibacterium modestum
+SRR28476487	pos	strict	NA	53	53	S	3016342	Cutibacterium equinum
+SRR28476487	pos	strict	NA	125	125	S	2760310	Tessaracoccus sp. MC1865
+SRR28476487	pos	strict	NA	67	67	S	1610493	Tessaracoccus flavus
+SRR28476487	pos	strict	NA	27	27	S	2161816	Tessaracoccus timonensis
+SRR28476487	pos	strict	NA	9	9	S	399497	Tessaracoccus flavescens
+SRR28476487	pos	strict	NA	93	93	S	546874	Microlunatus sagamiharensis
+SRR28476487	pos	strict	NA	7	7	S	630515	Microlunatus soli
+SRR28476487	pos	strict	NA	2	0	S	29405	Microlunatus phosphovorus
+SRR28476487	pos	strict	NA	1	1	S	2596828	Microlunatus elymi
+SRR28476487	pos	strict	NA	63	63	S	2760308	Propioniciclava sp. MC1595
+SRR28476487	pos	strict	NA	43	43	S	2775081	Propioniciclava soli
+SRR28476487	pos	strict	NA	1	1	S	2714937	Propioniciclava coleopterorum
+SRR28476487	pos	strict	NA	29	29	S	119981	Propionibacterium australiense
+SRR28476487	pos	strict	NA	23	23	S	1744	Propionibacterium freudenreichii
+SRR28476487	pos	strict	NA	15	15	S	556499	Propionibacterium acidifaciens
+SRR28476487	pos	strict	NA	43	43	S	1750	Arachnia propionica
+SRR28476489	pos	strict	NA	2371	2371	S	2984843	Methylobacterium sp. FF17
+SRR28476489	pos	strict	NA	2272	2272	S	739141	Methylobacterium sp. XJLW
+SRR28476489	pos	strict	NA	641	641	S	3138063	Methylobacterium sp. CB376
+SRR28476489	pos	strict	NA	536	536	S	2603276	Methylobacterium sp. WL1
+SRR28476489	pos	strict	NA	278	278	S	925818	Methylobacterium sp. AMS5
+SRR28476489	pos	strict	NA	54	54	S	2894310	Methylobacterium sp. NMS14P
+SRR28476489	pos	strict	NA	36	36	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476489	pos	strict	NA	22	22	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476489	pos	strict	NA	12	12	S	2718876	Methylobacterium sp. SyP6R
+SRR28476489	pos	strict	NA	1	1	S	1479019	Methylobacterium sp. C1
+SRR28476489	pos	strict	NA	1664	9	S	31998	Methylobacterium radiotolerans
+SRR28476489	pos	strict	NA	1362	1362	S	2202825	Methylobacterium durans
+SRR28476489	pos	strict	NA	1336	1336	S	570505	Methylobacterium bullatum
+SRR28476489	pos	strict	NA	1271	1271	S	107400	Methylobacterium fujisawaense
+SRR28476489	pos	strict	NA	1121	1121	S	410	Methylobacterium organophilum
+SRR28476489	pos	strict	NA	738	15	S	334852	Methylobacterium oryzae
+SRR28476489	pos	strict	NA	701	701	S	2202828	Methylobacterium radiodurans
+SRR28476489	pos	strict	NA	555	555	S	269660	Methylobacterium brachiatum
+SRR28476489	pos	strict	NA	497	497	S	374432	Methylobacterium tardum
+SRR28476489	pos	strict	NA	174	0	S	114616	Methylobacterium nodulans
+SRR28476492	pos	strict	NA	7000	3530	S	28450	Burkholderia pseudomallei
+SRR28476492	pos	strict	NA	3290	698	S	57975	Burkholderia thailandensis
+SRR28476492	pos	strict	NA	1076	1073	S	13373	Burkholderia mallei
+SRR28476492	pos	strict	NA	253	253	S	342113	Burkholderia oklahomensis
+SRR28476492	pos	strict	NA	184	184	S	1385591	Burkholderia mayonis
+SRR28476492	pos	strict	NA	67	67	S	1503053	Burkholderia singularis
+SRR28476492	pos	strict	NA	7	7	S	1637837	Burkholderia savannae
+SRR28476492	pos	strict	NA	1	1	S	430531	Burkholderia humptydooensis
+SRR28476492	pos	strict	NA	2525	2525	S	87883	Burkholderia multivorans
+SRR28476492	pos	strict	NA	1593	681	S	292	Burkholderia cepacia
+SRR28476492	pos	strict	NA	1296	1296	S	152480	Burkholderia ambifaria
+SRR28476492	pos	strict	NA	1098	1098	S	60552	Burkholderia vietnamiensis
+SRR28476492	pos	strict	NA	982	745	S	95486	Burkholderia cenocepacia
+SRR28476492	pos	strict	NA	528	528	S	60550	Burkholderia pyrrocinia
+SRR28476492	pos	strict	NA	338	338	S	482957	Burkholderia lata
+SRR28476492	pos	strict	NA	301	301	S	488732	Burkholderia diffusa
+SRR28476492	pos	strict	NA	287	203	S	101571	Burkholderia ubonensis
+SRR28476492	pos	strict	NA	206	206	S	488447	Burkholderia contaminans
+SRR28476492	pos	strict	NA	146	146	S	1207504	Burkholderia pseudomultivorans
+SRR28476492	pos	strict	NA	90	90	S	1503054	Burkholderia stagnalis
+SRR28476493	pos	strict	NA	206895	206223	S	1747	Cutibacterium acnes
+SRR28476493	pos	strict	NA	3856	3856	S	33011	Cutibacterium granulosum
+SRR28476493	pos	strict	NA	860	860	S	2559073	Cutibacterium modestum
+SRR28476493	pos	strict	NA	339	339	S	3016342	Cutibacterium equinum
+SRR28476493	pos	strict	NA	313	310	S	33010	Cutibacterium avidum
+SRR28476493	pos	strict	NA	289	289	S	546874	Microlunatus sagamiharensis
+SRR28476493	pos	strict	NA	142	0	S	29405	Microlunatus phosphovorus
+SRR28476493	pos	strict	NA	136	136	S	2596828	Microlunatus elymi
+SRR28476493	pos	strict	NA	43	43	S	630515	Microlunatus soli
+SRR28476493	pos	strict	NA	4	4	S	2672569	Microlunatus sp. Gsoil 973
+SRR28476493	pos	strict	NA	549	549	S	2760310	Tessaracoccus sp. MC1865
+SRR28476493	pos	strict	NA	47	47	S	2161816	Tessaracoccus timonensis
+SRR28476493	pos	strict	NA	23	23	S	1610493	Tessaracoccus flavus
+SRR28476493	pos	strict	NA	11	11	S	1285901	Tessaracoccus defluvii
+SRR28476493	pos	strict	NA	8	8	S	1332264	Tessaracoccus aquimaris
+SRR28476493	pos	strict	NA	1	1	S	399497	Tessaracoccus flavescens
+SRR28476493	pos	strict	NA	658	658	S	556499	Propionibacterium acidifaciens
+SRR28476493	pos	strict	NA	45	45	S	119981	Propionibacterium australiense
+SRR28476493	pos	strict	NA	11	11	S	1744	Propionibacterium freudenreichii
+SRR28476493	pos	strict	NA	414	414	S	1750	Arachnia propionica
+SRR28476496	pos	strict	NA	5431	2725	S	28450	Burkholderia pseudomallei
+SRR28476496	pos	strict	NA	2432	528	S	57975	Burkholderia thailandensis
+SRR28476496	pos	strict	NA	778	773	S	13373	Burkholderia mallei
+SRR28476496	pos	strict	NA	181	181	S	342113	Burkholderia oklahomensis
+SRR28476496	pos	strict	NA	132	132	S	1385591	Burkholderia mayonis
+SRR28476496	pos	strict	NA	23	23	S	1503053	Burkholderia singularis
+SRR28476496	pos	strict	NA	4	4	S	1637837	Burkholderia savannae
+SRR28476496	pos	strict	NA	1	1	S	430531	Burkholderia humptydooensis
+SRR28476496	pos	strict	NA	2084	2084	S	87883	Burkholderia multivorans
+SRR28476496	pos	strict	NA	1221	547	S	292	Burkholderia cepacia
+SRR28476496	pos	strict	NA	1028	1028	S	152480	Burkholderia ambifaria
+SRR28476496	pos	strict	NA	832	832	S	60552	Burkholderia vietnamiensis
+SRR28476496	pos	strict	NA	661	530	S	95486	Burkholderia cenocepacia
+SRR28476496	pos	strict	NA	398	398	S	60550	Burkholderia pyrrocinia
+SRR28476496	pos	strict	NA	261	149	S	101571	Burkholderia ubonensis
+SRR28476496	pos	strict	NA	243	243	S	482957	Burkholderia lata
+SRR28476496	pos	strict	NA	194	194	S	488732	Burkholderia diffusa
+SRR28476496	pos	strict	NA	162	162	S	1207504	Burkholderia pseudomultivorans
+SRR28476496	pos	strict	NA	159	159	S	488447	Burkholderia contaminans
+SRR28476496	pos	strict	NA	89	89	S	1503054	Burkholderia stagnalis
+SRR28476499	pos	strict	NA	22469	10623	S	28450	Burkholderia pseudomallei
+SRR28476499	pos	strict	NA	11096	2198	S	57975	Burkholderia thailandensis
+SRR28476499	pos	strict	NA	3342	3336	S	13373	Burkholderia mallei
+SRR28476499	pos	strict	NA	693	693	S	342113	Burkholderia oklahomensis
+SRR28476499	pos	strict	NA	569	569	S	1385591	Burkholderia mayonis
+SRR28476499	pos	strict	NA	206	206	S	1503053	Burkholderia singularis
+SRR28476499	pos	strict	NA	14	14	S	430531	Burkholderia humptydooensis
+SRR28476499	pos	strict	NA	3	3	S	1637837	Burkholderia savannae
+SRR28476499	pos	strict	NA	13085	13084	S	87883	Burkholderia multivorans
+SRR28476499	pos	strict	NA	4595	1961	S	292	Burkholderia cepacia
+SRR28476499	pos	strict	NA	4044	4044	S	60552	Burkholderia vietnamiensis
+SRR28476499	pos	strict	NA	3859	3849	S	152480	Burkholderia ambifaria
+SRR28476499	pos	strict	NA	2674	1885	S	95486	Burkholderia cenocepacia
+SRR28476499	pos	strict	NA	1530	1132	S	101571	Burkholderia ubonensis
+SRR28476499	pos	strict	NA	1442	1442	S	60550	Burkholderia pyrrocinia
+SRR28476499	pos	strict	NA	828	828	S	1207504	Burkholderia pseudomultivorans
+SRR28476499	pos	strict	NA	811	811	S	488732	Burkholderia diffusa
+SRR28476499	pos	strict	NA	700	700	S	482957	Burkholderia lata
+SRR28476499	pos	strict	NA	638	638	S	488447	Burkholderia contaminans
+SRR28476499	pos	strict	NA	523	523	S	1503054	Burkholderia stagnalis
+SRR28476500	pos	strict	NA	1264	1264	S	2984843	Methylobacterium sp. FF17
+SRR28476500	pos	strict	NA	680	680	S	739141	Methylobacterium sp. XJLW
+SRR28476500	pos	strict	NA	362	362	S	3138063	Methylobacterium sp. CB376
+SRR28476500	pos	strict	NA	109	109	S	2603276	Methylobacterium sp. WL1
+SRR28476500	pos	strict	NA	38	38	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476500	pos	strict	NA	29	29	S	925818	Methylobacterium sp. AMS5
+SRR28476500	pos	strict	NA	4	4	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476500	pos	strict	NA	3	3	S	2718876	Methylobacterium sp. SyP6R
+SRR28476500	pos	strict	NA	3	3	S	2894310	Methylobacterium sp. NMS14P
+SRR28476500	pos	strict	NA	2	2	S	1479019	Methylobacterium sp. C1
+SRR28476500	pos	strict	NA	555	555	S	2202825	Methylobacterium durans
+SRR28476500	pos	strict	NA	468	12	S	31998	Methylobacterium radiotolerans
+SRR28476500	pos	strict	NA	433	433	S	410	Methylobacterium organophilum
+SRR28476500	pos	strict	NA	370	370	S	107400	Methylobacterium fujisawaense
+SRR28476500	pos	strict	NA	259	259	S	2202828	Methylobacterium radiodurans
+SRR28476500	pos	strict	NA	252	252	S	570505	Methylobacterium bullatum
+SRR28476500	pos	strict	NA	222	0	S	334852	Methylobacterium oryzae
+SRR28476500	pos	strict	NA	108	108	S	269660	Methylobacterium brachiatum
+SRR28476500	pos	strict	NA	99	99	S	374432	Methylobacterium tardum
+SRR28476500	pos	strict	NA	65	0	S	114616	Methylobacterium nodulans
+SRR28476505	pos	strict	NA	636746	636746	S	29442	Pseudomonas tolaasii
+SRR28476505	pos	strict	NA	345	299	S	294	Pseudomonas fluorescens
+SRR28476505	pos	strict	NA	27	27	S	76760	Pseudomonas rhodesiae
+SRR28476505	pos	strict	NA	27	27	S	76761	Pseudomonas veronii
+SRR28476505	pos	strict	NA	13	13	S	200450	Pseudomonas trivialis
+SRR28476505	pos	strict	NA	8	0	S	47883	Pseudomonas synxantha
+SRR28476505	pos	strict	NA	8	8	S	198620	Pseudomonas koreensis
+SRR28476505	pos	strict	NA	6	6	S	47878	Pseudomonas azotoformans
+SRR28476505	pos	strict	NA	3	3	S	46679	Pseudomonas mucidolens
+SRR28476505	pos	strict	NA	3	3	S	200451	Pseudomonas poae
+SRR28476505	pos	strict	NA	2	2	S	298	Pseudomonas marginalis
+SRR28476505	pos	strict	NA	14513	14513	S	2892442	Pseudomonas sp. CIP-10
+SRR28476505	pos	strict	NA	226	226	S	2986927	Pseudomonas sp. BT-42-2
+SRR28476505	pos	strict	NA	84	84	S	2954088	Pseudomonas sp. FP2262
+SRR28476505	pos	strict	NA	80	80	S	2954094	Pseudomonas sp. FP453
+SRR28476505	pos	strict	NA	60	60	S	2604941	Pseudomonas sp. C27(2019)
+SRR28476505	pos	strict	NA	42	42	S	2954099	Pseudomonas sp. FP818
+SRR28476505	pos	strict	NA	41	41	S	2895474	Pseudomonas sp. B21-017
+SRR28476505	pos	strict	NA	39	39	S	2479392	Pseudomonas sp. LTJR-52
+SRR28476505	pos	strict	NA	30	30	S	2678260	Pseudomonas sp. Ost2
+SRR28476508	pos	strict	NA	38687	38687	S	34062	Moraxella osloensis
+SRR28476508	pos	strict	NA	1412	1412	S	90241	Moraxella lincolnii
+SRR28476508	pos	strict	NA	789	789	S	2953752	Moraxella sp. FZFQ2102
+SRR28476508	pos	strict	NA	118	118	S	3076087	Moraxella sp. DOX410
+SRR28476508	pos	strict	NA	15	15	S	2904123	Moraxella sp. ZY210820
+SRR28476508	pos	strict	NA	491	491	S	90239	Moraxella canis
+SRR28476508	pos	strict	NA	466	466	S	29433	Moraxella ovis
+SRR28476508	pos	strict	NA	83	83	S	476	Moraxella bovis
+SRR28476508	pos	strict	NA	73	73	S	480	Moraxella catarrhalis
+SRR28476508	pos	strict	NA	28	28	S	478	Moraxella nonliquefaciens
+SRR28476508	pos	strict	NA	6	6	S	2904122	Moraxella nasicaprae
+SRR28476508	pos	strict	NA	4	4	S	2904121	Moraxella nasovis
+SRR28476508	pos	strict	NA	1	1	S	386891	Moraxella bovoculi
+SRR28476508	pos	strict	NA	1	1	S	2904119	Moraxella haemolytica
+SRR28476508	pos	strict	NA	13696	13696	S	3064892	Psychrobacter sp. van23A
+SRR28476508	pos	strict	NA	3363	3363	S	1720344	Psychrobacter sp. AntiMn-1
+SRR28476508	pos	strict	NA	325	325	S	3043330	Psychrobacter sp. WB2
+SRR28476508	pos	strict	NA	175	175	S	2517899	Psychrobacter sp. KH172YL61
+SRR28476508	pos	strict	NA	80	80	S	2733866	Psychrobacter sp. KCTC 72983
+SRR28476508	pos	strict	NA	78	78	S	1415574	Psychrobacter sp. LV10R520-6
+SRR28476510	pos	strict	NA	10515	10515	S	3064892	Psychrobacter sp. van23A
+SRR28476510	pos	strict	NA	2818	2818	S	1720344	Psychrobacter sp. AntiMn-1
+SRR28476510	pos	strict	NA	289	289	S	3043330	Psychrobacter sp. WB2
+SRR28476510	pos	strict	NA	55	55	S	2517899	Psychrobacter sp. KH172YL61
+SRR28476510	pos	strict	NA	54	54	S	1699621	Psychrobacter sp. P11F6
+SRR28476510	pos	strict	NA	40	40	S	2708350	Psychrobacter sp. WY6
+SRR28476510	pos	strict	NA	25	25	S	2733866	Psychrobacter sp. KCTC 72983
+SRR28476510	pos	strict	NA	25	25	S	1699622	Psychrobacter sp. P2G3
+SRR28476510	pos	strict	NA	22	22	S	1028416	Psychrobacter sp. DAB_AL43B
+SRR28476510	pos	strict	NA	22	22	S	1415574	Psychrobacter sp. LV10R520-6
+SRR28476510	pos	strict	NA	20	20	S	3067275	Psychrobacter sp. M13
+SRR28476510	pos	strict	NA	14	14	S	1699624	Psychrobacter sp. P11G5
+SRR28476510	pos	strict	NA	11	11	S	2772254	Psychrobacter sp. 28M-43
+SRR28476510	pos	strict	NA	1	1	S	571800	Psychrobacter sp. G
+SRR28476510	pos	strict	NA	80	80	S	256326	Psychrobacter arenosus
+SRR28476510	pos	strict	NA	31	31	S	45610	Psychrobacter urativorans
+SRR28476510	pos	strict	NA	12	12	S	861445	Psychrobacter sanguinis
+SRR28476510	pos	strict	NA	2706	2706	S	34062	Moraxella osloensis
+SRR28476510	pos	strict	NA	305	305	S	90239	Moraxella canis
+SRR28476510	pos	strict	NA	115	115	S	90241	Moraxella lincolnii
+SRR28476511	pos	strict	NA	2933	2933	S	739141	Methylobacterium sp. XJLW
+SRR28476511	pos	strict	NA	2498	2498	S	2984843	Methylobacterium sp. FF17
+SRR28476511	pos	strict	NA	980	980	S	3138063	Methylobacterium sp. CB376
+SRR28476511	pos	strict	NA	700	700	S	2603276	Methylobacterium sp. WL1
+SRR28476511	pos	strict	NA	80	80	S	2202826	Methylobacterium sp. 17Sr1-1
+SRR28476511	pos	strict	NA	39	39	S	3038924	Methylobacterium sp. 391_Methyba4
+SRR28476511	pos	strict	NA	20	20	S	925818	Methylobacterium sp. AMS5
+SRR28476511	pos	strict	NA	5	5	S	2894310	Methylobacterium sp. NMS14P
+SRR28476511	pos	strict	NA	1881	13	S	31998	Methylobacterium radiotolerans
+SRR28476511	pos	strict	NA	1813	1813	S	2202825	Methylobacterium durans
+SRR28476511	pos	strict	NA	1564	1564	S	107400	Methylobacterium fujisawaense
+SRR28476511	pos	strict	NA	1497	1497	S	410	Methylobacterium organophilum
+SRR28476511	pos	strict	NA	816	816	S	570505	Methylobacterium bullatum
+SRR28476511	pos	strict	NA	777	777	S	374432	Methylobacterium tardum
+SRR28476511	pos	strict	NA	715	21	S	334852	Methylobacterium oryzae
+SRR28476511	pos	strict	NA	665	665	S	2202828	Methylobacterium radiodurans
+SRR28476511	pos	strict	NA	533	533	S	269660	Methylobacterium brachiatum
+SRR28476511	pos	strict	NA	129	129	S	2051553	Methylobacterium currus
+SRR28476511	pos	strict	NA	90	90	S	418223	Methylobacterium phyllosphaerae
+SRR28476511	pos	strict	NA	87	0	S	114616	Methylobacterium nodulans
