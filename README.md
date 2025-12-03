@@ -2,9 +2,6 @@
 
 Code and intermediate data for the manuscript:
 
-> **Host-filtered Blood Nucleic Acids for Pathogen Detection: Shared Background, Sparse Signal, and Methodological Limits**  
-> (cfRNA / whole-blood RNA metagenomic re-analysis of CAD and TB cohorts)
-
 This repository contains the scripts and processed tables used to reproduce the main figures and summary statistics in the manuscript. It focuses on **host-filtered blood RNA sequencing data** and downstream **Kraken2 / MetaPhlAn4**-based taxonomic profiling.
 
 ---
@@ -89,6 +86,7 @@ If you use this code or processed data in your own work, please cite the corresp
 
 For questions about the code or analyses, please contact:
 
-- **Kui Chen** – \<your.email@domain\>  
+Zhaoxia Wang 
+wangzhaoxia1004@126.com
 
 Issues and pull requests are welcome.
