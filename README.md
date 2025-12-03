@@ -74,14 +74,6 @@ See individual script headers for the exact package and tool requirements.
 
 ---
 
-## Citation
-
-If you use this code or processed data in your own work, please cite the corresponding manuscript:
-
-> Kui Chen *et al.* Host-filtered Blood Nucleic Acids for Pathogen Detection: Shared Background, Sparse Signal, and Methodological Limits. *Pathogens* (2025), in review.
-
----
-
 ## Contact
 
 For questions about the code or analyses, please contact:
