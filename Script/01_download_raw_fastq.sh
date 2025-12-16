@@ -29,7 +29,7 @@ set -euo pipefail
 # --------- User settings ------------------------------------------------------
 
 # Root directory for this project
-PROJECT_ROOT="/path/to/project"        # e.g. /Users/xxx/Science/CVD_MS_5/data
+PROJECT_ROOT="/path/to/project"      
 
 # File containing SRR accessions (one per line)
 ACC_LIST="${PROJECT_ROOT}/SRR_Acc_List.txt"
