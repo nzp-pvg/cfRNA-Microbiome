@@ -65,12 +65,8 @@ Because paths and module systems are environment-specific, you will likely need 
 
 ## Software requirements
 
-The analysis was developed and run on a Linux HPC environment. In general you will need:
-
 - A recent version of **R** (≥ 4.x) with standard tidyverse/plotting packages  
 - Command-line tools for alignment and metagenomics (e.g. Bowtie2, SAMtools, Kraken2, MetaPhlAn4)  
-
-See individual script headers for the exact package and tool requirements.
 
 ---
 
