@@ -1,6 +1,0 @@
-#mpa_vJan25_CHOCOPhlAnSGB_202503
-#/Users/chnqwe/miniforge3/envs/krk/bin/metaphlan hostmap/unmapped_strict_cvd/SRR1313303.both_unmapped_R1.fastq.gz,hostmap/unmapped_strict_cvd/SRR1313303.both_unmapped_R2.fastq.gz --input_type fastq --db_dir /Users/chnqwe/Science/BioTools/metaphlan_db --nproc 8 --mapout metaphlan/strict/cvd/SRR1313303.both_unmapped.metaphlan_map.bz2 -o metaphlan/strict/cvd/SRR1313303.both_unmapped.profile.txt
-#3866622 reads processed
-#SampleID	Metaphlan_Analysis
-#clade_name	NCBI_tax_id	relative_abundance	additional_species
-UNCLASSIFIED	-1	100.0	
