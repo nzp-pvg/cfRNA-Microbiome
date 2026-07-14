@@ -175,7 +175,7 @@ Rscript int/res/ms_5.R
 
 If you use this repository, scripts, or processed tables, please cite the associated manuscript:
 
-> Kui Chen *et al.* **Host-filtered Blood Nucleic Acids for Pathogen Detection: Shared Background, Sparse Signal, and Methodological Limits.** *Pathogens* (2025).
+**https://doi.org/10.3390/pathogens15010055**
 
 Please also cite the original data records and the software/database resources used in your rerun.
 
